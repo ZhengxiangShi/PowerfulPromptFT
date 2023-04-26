@@ -1,0 +1,33 @@
+index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
+1335	main-captions	images	2014	0492	none	none	A person in a red cap standing next to a brick support beam.	A brown horse is standing on grass and scrub.	0
+1474	main-captions	images	2014	0712	none	none	A man riding a white horse in an arena.	A domestic animal stands in a pen.	0.6
+5532	main-news	headlines	2015	1458	none	none	Pakistani Taliban chief killed in US drone strike	Funeral for Pakistan Taliban chief 'set to take place'	1.60
+1070	main-captions	images	2014	0096	none	none	The black and white bull is looking at the camera.	A black and white dog looking at the camera.	2
+754	main-captions	MSRvid	2012train	0369	none	none	A woman is slicing an onion.	A women slicing lemons.	1.400
+5740	main-news	headlines	2016	1422	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)	Pakistan executions draw international ire	Pakistan protests ceasefire violations by India	0
+488	main-captions	MSRvid	2012test	0744	none	none	Three children are eating their food.	The deer jumped over the fence.	0.000
+2408	main-forum	deft-forum	2014	0408	none	none	billion . Everyone in the world at Mexico's current prosperity level.	Everyone in the world at the current "prosperity" level of Northwest Africa.	1.53333333333333
+3166	main-news	MSRpar	2012train	0326	none	none	Mr. Turner transferred about 10 million shares to a charitable trust before they were sold.	The sales leave Mr. Turner with about 45 million shares in AOL.	1.600
+957	main-captions	MSRvid	2012train	0685	none	none	Someone is holding and petting a baby tiger.	Someone is rinsing a large beef steak at the kitchen sink.	0.400
+642	main-captions	MSRvid	2012train	0217	none	none	The man is playing the guitar.	The man is playing with a skull.	1.000
+719	main-captions	MSRvid	2012train	0321	none	none	The woman is riding a horse.	A man is riding a horse in an arena.	2.000
+451	main-captions	MSRvid	2012test	0681	none	none	A person checks some rice pudding.	A horse is running.	0.000
+5167	main-news	headlines	2015	0532	none	none	China to investigate EU wine exports	Christie investigation heats up	1.20
+5721	main-news	headlines	2016	1294	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)	Plane Crash Site Search Called off for the Night	Tour De France Pack Sets off for Stage 15	0
+5114	main-news	headlines	2015	0411	none	none	49 killed, 148 wounded in violent attacks in Iraq	2 killed, 11 wounded in attacks in Iraq	1.40
+5017	main-news	headlines	2015	0157	none	none	Greek far-right leader imprisoned pending trial	Greek Far-Right Leader Imprisoned Pending Trial	5.00
+1065	main-captions	images	2014	0090	none	none	A home office with three computer monitors and other equipment on a desk.	Room with several computer monitors.	3
+867	main-captions	MSRvid	2012train	0546	none	none	A dog is pawing at a fly in the carpet before it.	The dog played with a bug on the carpet.	3.600
+5226	main-news	headlines	2015	0684	none	none	Bombing Aimed at Hezbollah Hits Southern Beirut	Explosion Hits Hezbollah Area South of Beirut	4.20
+216	main-captions	MSRvid	2012test	0318	none	none	Two foxes are eating from a plate on a brick patio.	Foxes are eating from a plate.	2.800
+5690	main-news	headlines	2016	1118	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)	Islamic State issues video of beheading of US hostage	Islamic State posts second propaganda video of UK hostage	3
+2954	main-news	MSRpar	2012train	0002	none	none	The fines are part of failed Republican efforts to force or entice the Democrats to return.	Perry said he backs the Senate's efforts, including the fines, to force the Democrats to return.	2.800
+1128	main-captions	images	2014	0185	none	none	a woman with a viking hat on.	Smiling woman sitting wearing a viking hat.	4.2
+3347	main-news	MSRpar	2012train	0608	none	none	He and his colleagues attributed some of the communication gap to doctors feeling pressed for time.	He attributed some of the communication gap to doctors feeling pressed for time; patients cited discomfort discussing financial issues.	3.400
+610	main-captions	MSRvid	2012train	0167	none	none	A baby elephant is eating.	A baby elephant eats a sapling.	3.615
+2203	main-forum	deft-forum	2014	0203	none	none	It's a common sense/deductive reasoning thing.	Hilited your common sense/deductive reasoning thing.	2.5
+3018	main-news	MSRpar	2012train	0093	none	none	Fighting erupted after four North Korean journalists confronted a dozen South Korean activists protesting human rights abuses in the North outside the main media centre.	Trouble flared when at least four North Korean reporters rushed from the Taegu media centre to confront a dozen activists protesting against human rights abuses in the North.	3.400
+2357	main-forum	deft-forum	2014	0357	none	none	The Face Of The Franchise: The worst part is that he's not even a Leafs fan!	The worst part is that he's not even a Leafs fan!	4.4
+192	main-captions	MSRvid	2012test	0284	none	none	A man is getting inside a car.	An elderly man is getting into a red car.	3.750
+3102	main-news	MSRpar	2012train	0230	none	none	She asked to be excused from last week's Cabinet session to prepare for a meeting with the presidents of Rwanda and Uganda.	She took the highly unusual step of skipping cabinet to attend a meeting with the presidents of Rwanda and Uganda.	3.455
+558	main-captions	MSRvid	2012train	0094	none	none	Two little girls talk on the telephone.	Two girls talk on the phone.	4.500

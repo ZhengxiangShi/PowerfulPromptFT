@@ -1,0 +1,4282 @@
+{
+    "0": {
+        "text_a": "be eager to leave the meeting.",
+        "text_b": null,
+        "label": "1"
+    },
+    "1": {
+        "text_a": "The spunky girl has a black eye.",
+        "text_b": null,
+        "label": "1"
+    },
+    "2": {
+        "text_a": "We believed it to be a fountain in the park.",
+        "text_b": null,
+        "label": "0"
+    },
+    "3": {
+        "text_a": "Never will I do syntax again.",
+        "text_b": null,
+        "label": "1"
+    },
+    "4": {
+        "text_a": "Make yourself comfortable.",
+        "text_b": null,
+        "label": "1"
+    },
+    "5": {
+        "text_a": "He figured the answer out.",
+        "text_b": null,
+        "label": "1"
+    },
+    "6": {
+        "text_a": "I liked Mary and John.",
+        "text_b": null,
+        "label": "1"
+    },
+    "7": {
+        "text_a": "Fruit hit the ground from the tree.",
+        "text_b": null,
+        "label": "1"
+    },
+    "8": {
+        "text_a": "Which pictures of Earl did he see?",
+        "text_b": null,
+        "label": "1"
+    },
+    "9": {
+        "text_a": "John promised Bill to leave tomorrow morning.",
+        "text_b": null,
+        "label": "1"
+    },
+    "10": {
+        "text_a": "I throw you a lifeline and you giggle.",
+        "text_b": null,
+        "label": "1"
+    },
+    "11": {
+        "text_a": "Tom washed, and Dick waxed, and Harry polished the car.",
+        "text_b": null,
+        "label": "1"
+    },
+    "12": {
+        "text_a": "I knew the man with the brown hair.",
+        "text_b": null,
+        "label": "1"
+    },
+    "13": {
+        "text_a": "He turned off the light.",
+        "text_b": null,
+        "label": "1"
+    },
+    "14": {
+        "text_a": "him belief that Mary kissed Bill is mistaken.",
+        "text_b": null,
+        "label": "0"
+    },
+    "15": {
+        "text_a": "They alleged there to have been many strangers in that garden.",
+        "text_b": null,
+        "label": "1"
+    },
+    "16": {
+        "text_a": "The bread was chewed by Martha.",
+        "text_b": null,
+        "label": "1"
+    },
+    "17": {
+        "text_a": "The dog flopped in the comer.",
+        "text_b": null,
+        "label": "1"
+    },
+    "18": {
+        "text_a": "The cat trotted in the kitchen.",
+        "text_b": null,
+        "label": "1"
+    },
+    "19": {
+        "text_a": "Mary intended to go abroad.",
+        "text_b": null,
+        "label": "1"
+    },
+    "20": {
+        "text_a": "The man who Mary loves and Sally hates George computed my tax.",
+        "text_b": null,
+        "label": "0"
+    },
+    "21": {
+        "text_a": "This girl in the red coat will eat her breakfast before tomorrow and put a picture of Bill on your desk before tomorrow.",
+        "text_b": null,
+        "label": "1"
+    },
+    "22": {
+        "text_a": "the branch dropped its apple free.",
+        "text_b": null,
+        "label": "1"
+    },
+    "23": {
+        "text_a": "George is having lived in Toledo for thirty years.",
+        "text_b": null,
+        "label": "0"
+    },
+    "24": {
+        "text_a": "The contestant who won the first prize, who is the judge's brother-in-law, sang dreadfully.",
+        "text_b": null,
+        "label": "1"
+    },
+    "25": {
+        "text_a": "The bed on which Tom slept was hard.",
+        "text_b": null,
+        "label": "1"
+    },
+    "26": {
+        "text_a": "What the stone did to the wall was hit it.",
+        "text_b": null,
+        "label": "0"
+    },
+    "27": {
+        "text_a": "Smith inscribed the ring with his name.",
+        "text_b": null,
+        "label": "1"
+    },
+    "28": {
+        "text_a": "We wonder whether Bill left.",
+        "text_b": null,
+        "label": "1"
+    },
+    "29": {
+        "text_a": "John is said to be rich.",
+        "text_b": null,
+        "label": "1"
+    },
+    "30": {
+        "text_a": "The police read the detainees' rights to them, but not a single one was paying attention.",
+        "text_b": null,
+        "label": "1"
+    },
+    "31": {
+        "text_a": "He replied his answer.",
+        "text_b": null,
+        "label": "0"
+    },
+    "32": {
+        "text_a": "The capital was gathered near by a crowd of people.",
+        "text_b": null,
+        "label": "0"
+    },
+    "33": {
+        "text_a": "They failed to tell me which problem I'll beat the competition more easily, the sooner I solve.",
+        "text_b": null,
+        "label": "0"
+    },
+    "34": {
+        "text_a": "Mrs Bennet having taken the others upstairs, Mr Bingley proposed to.",
+        "text_b": null,
+        "label": "1"
+    },
+    "35": {
+        "text_a": "John made Mary cook Korean food.",
+        "text_b": null,
+        "label": "1"
+    },
+    "36": {
+        "text_a": "This project is manageable.",
+        "text_b": null,
+        "label": "1"
+    },
+    "37": {
+        "text_a": "Any lion is rare.",
+        "text_b": null,
+        "label": "0"
+    },
+    "38": {
+        "text_a": "That Sam didn't pick those packages up which are to be mailed tomorrow is possible.",
+        "text_b": null,
+        "label": "1"
+    },
+    "39": {
+        "text_a": "I put the book from Edna to Sally.",
+        "text_b": null,
+        "label": "0"
+    },
+    "40": {
+        "text_a": "Broadly speaking, the project was successful.",
+        "text_b": null,
+        "label": "1"
+    },
+    "41": {
+        "text_a": "Emily showed himself Benjamin in the mirror.",
+        "text_b": null,
+        "label": "0"
+    },
+    "42": {
+        "text_a": "The Brazilians pumped the oil across the river.",
+        "text_b": null,
+        "label": "1"
+    },
+    "43": {
+        "text_a": "How ill has Hobbs been?",
+        "text_b": null,
+        "label": "1"
+    },
+    "44": {
+        "text_a": "I put the book from Edna.",
+        "text_b": null,
+        "label": "0"
+    },
+    "45": {
+        "text_a": "The captain sank the boat with a torpedo.",
+        "text_b": null,
+        "label": "1"
+    },
+    "46": {
+        "text_a": "Jennifer baked at the potatoes.",
+        "text_b": null,
+        "label": "0"
+    },
+    "47": {
+        "text_a": "That's something I would have paid twice for.",
+        "text_b": null,
+        "label": "1"
+    },
+    "48": {
+        "text_a": "I am not certain about if he will come.",
+        "text_b": null,
+        "label": "0"
+    },
+    "49": {
+        "text_a": "It's to Mary that Joe said Holly can talk.",
+        "text_b": null,
+        "label": "1"
+    },
+    "50": {
+        "text_a": "I wonder whom Sandy loves.",
+        "text_b": null,
+        "label": "1"
+    },
+    "51": {
+        "text_a": "Mary believed him to have loved her.",
+        "text_b": null,
+        "label": "1"
+    },
+    "52": {
+        "text_a": "The pudding which the man who ordered ice cream said would be tasty was a horror show.",
+        "text_b": null,
+        "label": "1"
+    },
+    "53": {
+        "text_a": "Type B: It is Bill on whom John relies.",
+        "text_b": null,
+        "label": "1"
+    },
+    "54": {
+        "text_a": "The pond froze solid.",
+        "text_b": null,
+        "label": "1"
+    },
+    "55": {
+        "text_a": "It was this hat that Tom said Al thought you wanted me to make Jack put on.",
+        "text_b": null,
+        "label": "1"
+    },
+    "56": {
+        "text_a": "Some people like bagels, but others cream cheese.",
+        "text_b": null,
+        "label": "1"
+    },
+    "57": {
+        "text_a": "They paid a lot of attention to the matter.",
+        "text_b": null,
+        "label": "1"
+    },
+    "58": {
+        "text_a": "John is taller than that man is.",
+        "text_b": null,
+        "label": "1"
+    },
+    "59": {
+        "text_a": "There was a dragon in the cave.",
+        "text_b": null,
+        "label": "1"
+    },
+    "60": {
+        "text_a": "They think she has too much independence.",
+        "text_b": null,
+        "label": "1"
+    },
+    "61": {
+        "text_a": "This is the paper that we really need to find the linguist who understands.",
+        "text_b": null,
+        "label": "1"
+    },
+    "62": {
+        "text_a": "Seven pine trees are behind that barn.",
+        "text_b": null,
+        "label": "1"
+    },
+    "63": {
+        "text_a": "The teacher who it was expected by the reporters that the principal would fire is a crusty old jerk.",
+        "text_b": null,
+        "label": "1"
+    },
+    "64": {
+        "text_a": "Tamara poured water out of the pitcher.",
+        "text_b": null,
+        "label": "1"
+    },
+    "65": {
+        "text_a": "We rummaged important documents in the drawer.",
+        "text_b": null,
+        "label": "0"
+    },
+    "66": {
+        "text_a": "Any student, and he wears socks, is a swinger.",
+        "text_b": null,
+        "label": "0"
+    },
+    "67": {
+        "text_a": "The person with whom he felt most comfortable left.",
+        "text_b": null,
+        "label": "1"
+    },
+    "68": {
+        "text_a": "Mickey and Roger have signed, and Whitey will tomorrow.",
+        "text_b": null,
+        "label": "1"
+    },
+    "69": {
+        "text_a": "He does not finish.",
+        "text_b": null,
+        "label": "1"
+    },
+    "70": {
+        "text_a": "Some tourists visited all the museums.",
+        "text_b": null,
+        "label": "1"
+    },
+    "71": {
+        "text_a": "I am removing the shovel from the shed.",
+        "text_b": null,
+        "label": "1"
+    },
+    "72": {
+        "text_a": "Brenda chatted Molly.",
+        "text_b": null,
+        "label": "0"
+    },
+    "73": {
+        "text_a": "This metal won't pound flat.",
+        "text_b": null,
+        "label": "1"
+    },
+    "74": {
+        "text_a": "I praised.",
+        "text_b": null,
+        "label": "0"
+    },
+    "75": {
+        "text_a": "I put the box the book.",
+        "text_b": null,
+        "label": "0"
+    },
+    "76": {
+        "text_a": "Jason whispered the phoenix had escaped",
+        "text_b": null,
+        "label": "0"
+    },
+    "77": {
+        "text_a": "Press the pad with the stamp completely.",
+        "text_b": null,
+        "label": "1"
+    },
+    "78": {
+        "text_a": "Mary has more friends than just Bill and Pete.",
+        "text_b": null,
+        "label": "1"
+    },
+    "79": {
+        "text_a": "Dulles suspected everyone who Angleton did.",
+        "text_b": null,
+        "label": "1"
+    },
+    "80": {
+        "text_a": "A hundred men lifted the table together.",
+        "text_b": null,
+        "label": "1"
+    },
+    "81": {
+        "text_a": "Every essay she's written and which I've read is on that pile.",
+        "text_b": null,
+        "label": "0"
+    },
+    "82": {
+        "text_a": "John gave Bill the book.",
+        "text_b": null,
+        "label": "1"
+    },
+    "83": {
+        "text_a": "They are afraid people.",
+        "text_b": null,
+        "label": "0"
+    },
+    "84": {
+        "text_a": "I've never seen the one man taller than my father.",
+        "text_b": null,
+        "label": "1"
+    },
+    "85": {
+        "text_a": "I detest him taking a bath.",
+        "text_b": null,
+        "label": "0"
+    },
+    "86": {
+        "text_a": "Mary would easily solve the problem.",
+        "text_b": null,
+        "label": "1"
+    },
+    "87": {
+        "text_a": "I doubt his sincerity.",
+        "text_b": null,
+        "label": "1"
+    },
+    "88": {
+        "text_a": "Cynthia munched.",
+        "text_b": null,
+        "label": "0"
+    },
+    "89": {
+        "text_a": "I put the milk in the fridge.",
+        "text_b": null,
+        "label": "1"
+    },
+    "90": {
+        "text_a": "Carmen obtained Diana of a spare part.",
+        "text_b": null,
+        "label": "0"
+    },
+    "91": {
+        "text_a": "The man that arrived on the train was my brother.",
+        "text_b": null,
+        "label": "1"
+    },
+    "92": {
+        "text_a": "John thinks Mary left.",
+        "text_b": null,
+        "label": "1"
+    },
+    "93": {
+        "text_a": "I spared him the trouble.",
+        "text_b": null,
+        "label": "1"
+    },
+    "94": {
+        "text_a": "I made Kim angry.",
+        "text_b": null,
+        "label": "1"
+    },
+    "95": {
+        "text_a": "Water filled the pail.",
+        "text_b": null,
+        "label": "1"
+    },
+    "96": {
+        "text_a": "I am more angry than sad.",
+        "text_b": null,
+        "label": "1"
+    },
+    "97": {
+        "text_a": "Sarah sang a hymn.",
+        "text_b": null,
+        "label": "1"
+    },
+    "98": {
+        "text_a": "Sarah devoured the cakes in the kitchen last night.",
+        "text_b": null,
+        "label": "1"
+    },
+    "99": {
+        "text_a": "John didn't talk to a woman.",
+        "text_b": null,
+        "label": "1"
+    },
+    "100": {
+        "text_a": "The gardener watered the flowers.",
+        "text_b": null,
+        "label": "1"
+    },
+    "101": {
+        "text_a": "Which boy is tall!",
+        "text_b": null,
+        "label": "0"
+    },
+    "102": {
+        "text_a": "Zeke cooked and ate the chili.",
+        "text_b": null,
+        "label": "1"
+    },
+    "103": {
+        "text_a": "The box contains the ball.",
+        "text_b": null,
+        "label": "1"
+    },
+    "104": {
+        "text_a": "John inquired which book he should read.",
+        "text_b": null,
+        "label": "1"
+    },
+    "105": {
+        "text_a": "I funneled into the bottle.",
+        "text_b": null,
+        "label": "0"
+    },
+    "106": {
+        "text_a": "She tried to left",
+        "text_b": null,
+        "label": "0"
+    },
+    "107": {
+        "text_a": "Paula hit Deirdre on the back.",
+        "text_b": null,
+        "label": "1"
+    },
+    "108": {
+        "text_a": "Aliza wriggled her tooth loose.",
+        "text_b": null,
+        "label": "1"
+    },
+    "109": {
+        "text_a": "Cassandra has warned Agamemnon again.",
+        "text_b": null,
+        "label": "1"
+    },
+    "110": {
+        "text_a": "You can depend on my assistant and that he will be on time.",
+        "text_b": null,
+        "label": "1"
+    },
+    "111": {
+        "text_a": "They heard John's criticism of each other.",
+        "text_b": null,
+        "label": "0"
+    },
+    "112": {
+        "text_a": "The horse jumped across the stream.",
+        "text_b": null,
+        "label": "1"
+    },
+    "113": {
+        "text_a": "Ellen warned against skating on thin ice.",
+        "text_b": null,
+        "label": "1"
+    },
+    "114": {
+        "text_a": "What this parcel is is very heavy.",
+        "text_b": null,
+        "label": "1"
+    },
+    "115": {
+        "text_a": "While Truman didn't tell me a story, he did Rusty.",
+        "text_b": null,
+        "label": "1"
+    },
+    "116": {
+        "text_a": "Half the doctor that Maxwell's father was sat down.",
+        "text_b": null,
+        "label": "0"
+    },
+    "117": {
+        "text_a": "That Fido barks annoys me.",
+        "text_b": null,
+        "label": "1"
+    },
+    "118": {
+        "text_a": "Tom knows it and Dick knows it and Harry knows it.",
+        "text_b": null,
+        "label": "1"
+    },
+    "119": {
+        "text_a": "The president was hoping for a good cake.",
+        "text_b": null,
+        "label": "1"
+    },
+    "120": {
+        "text_a": "The knowledge of the problem is quite thorough.",
+        "text_b": null,
+        "label": "1"
+    },
+    "121": {
+        "text_a": "Only the travelers who anybody has ever robbed don't carry machetes.",
+        "text_b": null,
+        "label": "0"
+    },
+    "122": {
+        "text_a": "I wanted if he should leave.",
+        "text_b": null,
+        "label": "0"
+    },
+    "123": {
+        "text_a": "Paul breathed at Mary.",
+        "text_b": null,
+        "label": "0"
+    },
+    "124": {
+        "text_a": "Water poured onto the plants.",
+        "text_b": null,
+        "label": "1"
+    },
+    "125": {
+        "text_a": "Birds sang in the trees.",
+        "text_b": null,
+        "label": "1"
+    },
+    "126": {
+        "text_a": "To improve myself is a goal for next year.",
+        "text_b": null,
+        "label": "1"
+    },
+    "127": {
+        "text_a": "Lora buttered at the toast with unsalted butter.",
+        "text_b": null,
+        "label": "0"
+    },
+    "128": {
+        "text_a": "Any pilot except Sue could be flying this plane.",
+        "text_b": null,
+        "label": "1"
+    },
+    "129": {
+        "text_a": "Order one first is what you should do.",
+        "text_b": null,
+        "label": "0"
+    },
+    "130": {
+        "text_a": "It seems that John is likely to win.",
+        "text_b": null,
+        "label": "1"
+    },
+    "131": {
+        "text_a": "We abandoned the area.",
+        "text_b": null,
+        "label": "1"
+    },
+    "132": {
+        "text_a": "Tall books stand on tables easily.",
+        "text_b": null,
+        "label": "0"
+    },
+    "133": {
+        "text_a": "They went me, ran me, swam me, jumped me, flew me, crawled me, danced me, walked me.",
+        "text_b": null,
+        "label": "0"
+    },
+    "134": {
+        "text_a": "They made him to exhaustion.",
+        "text_b": null,
+        "label": "0"
+    },
+    "135": {
+        "text_a": "The roof is leaked.",
+        "text_b": null,
+        "label": "0"
+    },
+    "136": {
+        "text_a": "I'll work on it if Same will be too.",
+        "text_b": null,
+        "label": "1"
+    },
+    "137": {
+        "text_a": "Bartlett and danced Toni.",
+        "text_b": null,
+        "label": "0"
+    },
+    "138": {
+        "text_a": "I wonder in which pocket it was that Kim had hidden the jewels.",
+        "text_b": null,
+        "label": "1"
+    },
+    "139": {
+        "text_a": "The little boy hit the child with a toy.",
+        "text_b": null,
+        "label": "1"
+    },
+    "140": {
+        "text_a": "The road zigzagged down the hill.",
+        "text_b": null,
+        "label": "1"
+    },
+    "141": {
+        "text_a": "the boy likes themselves.",
+        "text_b": null,
+        "label": "0"
+    },
+    "142": {
+        "text_a": "This needs investigating the problem.",
+        "text_b": null,
+        "label": "0"
+    },
+    "143": {
+        "text_a": "Susan whispered to Rachel.",
+        "text_b": null,
+        "label": "1"
+    },
+    "144": {
+        "text_a": "Who did Mary see walking toward the railroad station?",
+        "text_b": null,
+        "label": "1"
+    },
+    "145": {
+        "text_a": "Bill reading Shakespeare and Maureen singing Schubert satisfies me",
+        "text_b": null,
+        "label": "1"
+    },
+    "146": {
+        "text_a": "He are the only person that I can rely on.",
+        "text_b": null,
+        "label": "0"
+    },
+    "147": {
+        "text_a": "Who did Jason think Medea had poisoned?",
+        "text_b": null,
+        "label": "1"
+    },
+    "148": {
+        "text_a": "He looked it up",
+        "text_b": null,
+        "label": "1"
+    },
+    "149": {
+        "text_a": "Shannon left quietly every day.",
+        "text_b": null,
+        "label": "1"
+    },
+    "150": {
+        "text_a": "These plants may grow as high as 6 feet.",
+        "text_b": null,
+        "label": "1"
+    },
+    "151": {
+        "text_a": "The noise gave a headache to Terry.",
+        "text_b": null,
+        "label": "0"
+    },
+    "152": {
+        "text_a": "It is tough to play sonatas on this violin.",
+        "text_b": null,
+        "label": "1"
+    },
+    "153": {
+        "text_a": "I like Mary and she does like Mary too.",
+        "text_b": null,
+        "label": "0"
+    },
+    "154": {
+        "text_a": "Free enterprise is compatible with American values and traditions.",
+        "text_b": null,
+        "label": "1"
+    },
+    "155": {
+        "text_a": "The sky cleared.",
+        "text_b": null,
+        "label": "1"
+    },
+    "156": {
+        "text_a": "More than three students attended every seminar.",
+        "text_b": null,
+        "label": "1"
+    },
+    "157": {
+        "text_a": "The teacher who that the principal would fire was expected by the reporters is a crusty old jerk.",
+        "text_b": null,
+        "label": "0"
+    },
+    "158": {
+        "text_a": "Harry collapsed.",
+        "text_b": null,
+        "label": "1"
+    },
+    "159": {
+        "text_a": "For John either to make up such a story or to repeat it is outrageous.",
+        "text_b": null,
+        "label": "1"
+    },
+    "160": {
+        "text_a": "much evidence is needed.",
+        "text_b": null,
+        "label": "1"
+    },
+    "161": {
+        "text_a": "She speaks too much clearly.",
+        "text_b": null,
+        "label": "0"
+    },
+    "162": {
+        "text_a": "No spy betrayed himself.",
+        "text_b": null,
+        "label": "1"
+    },
+    "163": {
+        "text_a": "Pick any of these flowers.",
+        "text_b": null,
+        "label": "1"
+    },
+    "164": {
+        "text_a": "The baby chewed the biscuit.",
+        "text_b": null,
+        "label": "1"
+    },
+    "165": {
+        "text_a": "The cat chased pat the mouse.",
+        "text_b": null,
+        "label": "1"
+    },
+    "166": {
+        "text_a": "I read that Bill had seen me.",
+        "text_b": null,
+        "label": "1"
+    },
+    "167": {
+        "text_a": "The paper incorporates the new results.",
+        "text_b": null,
+        "label": "1"
+    },
+    "168": {
+        "text_a": "The children were in their rooms or happily.",
+        "text_b": null,
+        "label": "0"
+    },
+    "169": {
+        "text_a": "the student whose turn it was left.",
+        "text_b": null,
+        "label": "1"
+    },
+    "170": {
+        "text_a": "There may exist a man in the park.",
+        "text_b": null,
+        "label": "1"
+    },
+    "171": {
+        "text_a": "How brave he is!",
+        "text_b": null,
+        "label": "1"
+    },
+    "172": {
+        "text_a": "The effectiveness of teaching and learning depends on several factors.",
+        "text_b": null,
+        "label": "1"
+    },
+    "173": {
+        "text_a": "I inquired could we leave early.",
+        "text_b": null,
+        "label": "0"
+    },
+    "174": {
+        "text_a": "How clever you are!",
+        "text_b": null,
+        "label": "1"
+    },
+    "175": {
+        "text_a": "I know you like the back of my hand.",
+        "text_b": null,
+        "label": "1"
+    },
+    "176": {
+        "text_a": "Paying taxes can't be avoided.",
+        "text_b": null,
+        "label": "1"
+    },
+    "177": {
+        "text_a": "Mary thinks whether Bill will come.",
+        "text_b": null,
+        "label": "0"
+    },
+    "178": {
+        "text_a": "I hope I'm not treading on anyone's toes.",
+        "text_b": null,
+        "label": "1"
+    },
+    "179": {
+        "text_a": "Cora coiled the rope around the post.",
+        "text_b": null,
+        "label": "1"
+    },
+    "180": {
+        "text_a": "That Jean left is likely.",
+        "text_b": null,
+        "label": "1"
+    },
+    "181": {
+        "text_a": "The cat was sleeping in the kitchen.",
+        "text_b": null,
+        "label": "1"
+    },
+    "182": {
+        "text_a": "John liked not Mary.",
+        "text_b": null,
+        "label": "0"
+    },
+    "183": {
+        "text_a": "John is eager to find a new home.",
+        "text_b": null,
+        "label": "1"
+    },
+    "184": {
+        "text_a": "Tom hid the manuscript in the cupboard.",
+        "text_b": null,
+        "label": "1"
+    },
+    "185": {
+        "text_a": "John would, because he's such a nice guy, like that.",
+        "text_b": null,
+        "label": "1"
+    },
+    "186": {
+        "text_a": "Ellen conferred Helen.",
+        "text_b": null,
+        "label": "0"
+    },
+    "187": {
+        "text_a": "Which books did John put in the box?",
+        "text_b": null,
+        "label": "1"
+    },
+    "188": {
+        "text_a": "John perfectly learned French immediately.",
+        "text_b": null,
+        "label": "0"
+    },
+    "189": {
+        "text_a": "He washed us.",
+        "text_b": null,
+        "label": "1"
+    },
+    "190": {
+        "text_a": "I wonder if you will come back tomorrow.",
+        "text_b": null,
+        "label": "1"
+    },
+    "191": {
+        "text_a": "Kim and Sandy met in Seoul in the lobby of the Lotte Hotel in March.",
+        "text_b": null,
+        "label": "1"
+    },
+    "192": {
+        "text_a": "Who do you think that Bill believes to be innocent?",
+        "text_b": null,
+        "label": "1"
+    },
+    "193": {
+        "text_a": "The exterminator killed the insects with DDT.",
+        "text_b": null,
+        "label": "1"
+    },
+    "194": {
+        "text_a": "The monkey wants to leave the meeting.",
+        "text_b": null,
+        "label": "1"
+    },
+    "195": {
+        "text_a": "Phineas knows a girl who is working with Maxime.",
+        "text_b": null,
+        "label": "1"
+    },
+    "196": {
+        "text_a": "Nathan showed to Benjamin it.",
+        "text_b": null,
+        "label": "0"
+    },
+    "197": {
+        "text_a": "Ann is going to send a picture of Chairman Mao to her teacher, as soon as she gets home.",
+        "text_b": null,
+        "label": "1"
+    },
+    "198": {
+        "text_a": "I promised that tomorrow he would be there.",
+        "text_b": null,
+        "label": "1"
+    },
+    "199": {
+        "text_a": "I did it more in jest than in anger.",
+        "text_b": null,
+        "label": "1"
+    },
+    "200": {
+        "text_a": "Fred saw a spaceship in the linguistics lounge?",
+        "text_b": null,
+        "label": "1"
+    },
+    "201": {
+        "text_a": "Ions struck the electrode.",
+        "text_b": null,
+        "label": "1"
+    },
+    "202": {
+        "text_a": "John is eager to examine the patient.",
+        "text_b": null,
+        "label": "1"
+    },
+    "203": {
+        "text_a": "I saw the men all.",
+        "text_b": null,
+        "label": "0"
+    },
+    "204": {
+        "text_a": "The lasagna tasted delicious.",
+        "text_b": null,
+        "label": "1"
+    },
+    "205": {
+        "text_a": "placed the flute on the table.",
+        "text_b": null,
+        "label": "0"
+    },
+    "206": {
+        "text_a": "John wrote books.",
+        "text_b": null,
+        "label": "1"
+    },
+    "207": {
+        "text_a": "How do you wonder whether John said Mary solved the problem?",
+        "text_b": null,
+        "label": "0"
+    },
+    "208": {
+        "text_a": "He's that reliable a man.",
+        "text_b": null,
+        "label": "1"
+    },
+    "209": {
+        "text_a": "We love they.",
+        "text_b": null,
+        "label": "0"
+    },
+    "210": {
+        "text_a": "Mira condemned the accident on Terry.",
+        "text_b": null,
+        "label": "0"
+    },
+    "211": {
+        "text_a": "Know yourself!",
+        "text_b": null,
+        "label": "1"
+    },
+    "212": {
+        "text_a": "The child became a man.",
+        "text_b": null,
+        "label": "1"
+    },
+    "213": {
+        "text_a": "Targets can be observed at any angle.",
+        "text_b": null,
+        "label": "1"
+    },
+    "214": {
+        "text_a": "Medea tried her to leave.",
+        "text_b": null,
+        "label": "0"
+    },
+    "215": {
+        "text_a": "We called the senators who met Fred.",
+        "text_b": null,
+        "label": "1"
+    },
+    "216": {
+        "text_a": "Being honest is not an easy task.",
+        "text_b": null,
+        "label": "1"
+    },
+    "217": {
+        "text_a": "I kicked me",
+        "text_b": null,
+        "label": "0"
+    },
+    "218": {
+        "text_a": "Paul yawned on Mary.",
+        "text_b": null,
+        "label": "0"
+    },
+    "219": {
+        "text_a": "The gentleman who saved Marianne was Willoughby.",
+        "text_b": null,
+        "label": "1"
+    },
+    "220": {
+        "text_a": "Imogen broke the vase.",
+        "text_b": null,
+        "label": "1"
+    },
+    "221": {
+        "text_a": "I shaped the dough into a loaf.",
+        "text_b": null,
+        "label": "1"
+    },
+    "222": {
+        "text_a": "The mouse nibbled the cheese.",
+        "text_b": null,
+        "label": "1"
+    },
+    "223": {
+        "text_a": "The man whose car I hit last week sued me.",
+        "text_b": null,
+        "label": "1"
+    },
+    "224": {
+        "text_a": "Maxwell isn't the doctor that his father was.",
+        "text_b": null,
+        "label": "1"
+    },
+    "225": {
+        "text_a": "He had hardly collected the papers on his desk, had he?",
+        "text_b": null,
+        "label": "1"
+    },
+    "226": {
+        "text_a": "I think he will eat asparagus.",
+        "text_b": null,
+        "label": "1"
+    },
+    "227": {
+        "text_a": "Which Greek authors does he have books by?",
+        "text_b": null,
+        "label": "1"
+    },
+    "228": {
+        "text_a": "She disappeared when the main party arrived.",
+        "text_b": null,
+        "label": "1"
+    },
+    "229": {
+        "text_a": "The problem is easy to solve the question.",
+        "text_b": null,
+        "label": "0"
+    },
+    "230": {
+        "text_a": "John saw the man in the room.",
+        "text_b": null,
+        "label": "1"
+    },
+    "231": {
+        "text_a": "Jack is the person with whom Jenny fell in love.",
+        "text_b": null,
+        "label": "1"
+    },
+    "232": {
+        "text_a": "The writers did so believe the boy.",
+        "text_b": null,
+        "label": "1"
+    },
+    "233": {
+        "text_a": "Six students got shot accidentally.",
+        "text_b": null,
+        "label": "1"
+    },
+    "234": {
+        "text_a": "That's an obviously better solution.",
+        "text_b": null,
+        "label": "1"
+    },
+    "235": {
+        "text_a": "Michelle kept the papers in the desk.",
+        "text_b": null,
+        "label": "1"
+    },
+    "236": {
+        "text_a": "How intelligent do you wonder whether I consider John?",
+        "text_b": null,
+        "label": "0"
+    },
+    "237": {
+        "text_a": "They prefer for Mary to leave.",
+        "text_b": null,
+        "label": "1"
+    },
+    "238": {
+        "text_a": "The boys should all could go",
+        "text_b": null,
+        "label": "1"
+    },
+    "239": {
+        "text_a": "I sent the package to London.",
+        "text_b": null,
+        "label": "1"
+    },
+    "240": {
+        "text_a": "Peter is some happy pigs which can fly.",
+        "text_b": null,
+        "label": "0"
+    },
+    "241": {
+        "text_a": "That annoying faucet was dripping constantly for months.",
+        "text_b": null,
+        "label": "1"
+    },
+    "242": {
+        "text_a": "What Henri wants is the book which is on the top shelf.",
+        "text_b": null,
+        "label": "1"
+    },
+    "243": {
+        "text_a": "Max failed the kids all as a father.",
+        "text_b": null,
+        "label": "0"
+    },
+    "244": {
+        "text_a": "How slowly would you say he was driving?",
+        "text_b": null,
+        "label": "1"
+    },
+    "245": {
+        "text_a": "He skated Penny around the rink.",
+        "text_b": null,
+        "label": "1"
+    },
+    "246": {
+        "text_a": "Mary wonders that John said if Bill left.",
+        "text_b": null,
+        "label": "0"
+    },
+    "247": {
+        "text_a": "Aphrodite may quickly free the animals.",
+        "text_b": null,
+        "label": "1"
+    },
+    "248": {
+        "text_a": "I want Bradley that left.",
+        "text_b": null,
+        "label": "0"
+    },
+    "249": {
+        "text_a": "I saw him ever.",
+        "text_b": null,
+        "label": "0"
+    },
+    "250": {
+        "text_a": "Bill followed the road into the forest.",
+        "text_b": null,
+        "label": "1"
+    },
+    "251": {
+        "text_a": "Linda taped the box with two-sided tape.",
+        "text_b": null,
+        "label": "1"
+    },
+    "252": {
+        "text_a": "The thief stole at the painting from the museum.",
+        "text_b": null,
+        "label": "0"
+    },
+    "253": {
+        "text_a": "Bill works with him.",
+        "text_b": null,
+        "label": "1"
+    },
+    "254": {
+        "text_a": "The cat touched.",
+        "text_b": null,
+        "label": "0"
+    },
+    "255": {
+        "text_a": "The reporters expected that the principal would fire some teacher.",
+        "text_b": null,
+        "label": "1"
+    },
+    "256": {
+        "text_a": "He figured out that.",
+        "text_b": null,
+        "label": "0"
+    },
+    "257": {
+        "text_a": "The water melted to ice.",
+        "text_b": null,
+        "label": "1"
+    },
+    "258": {
+        "text_a": "Look at all these books. Which book would you like?",
+        "text_b": null,
+        "label": "1"
+    },
+    "259": {
+        "text_a": "An echoing voice rang out.",
+        "text_b": null,
+        "label": "0"
+    },
+    "260": {
+        "text_a": "Which room did John see the man in?",
+        "text_b": null,
+        "label": "1"
+    },
+    "261": {
+        "text_a": "I confused Maria and Anna.",
+        "text_b": null,
+        "label": "1"
+    },
+    "262": {
+        "text_a": "Anson shot the dinosaur with his rifle in the jungle",
+        "text_b": null,
+        "label": "1"
+    },
+    "263": {
+        "text_a": "The sign warned against skating on the pond.",
+        "text_b": null,
+        "label": "1"
+    },
+    "264": {
+        "text_a": "The man chuckles",
+        "text_b": null,
+        "label": "1"
+    },
+    "265": {
+        "text_a": "It is reluctant that Jean left.",
+        "text_b": null,
+        "label": "0"
+    },
+    "266": {
+        "text_a": "The collaborators escaped the convict.",
+        "text_b": null,
+        "label": "0"
+    },
+    "267": {
+        "text_a": "I don't have any potatoes.",
+        "text_b": null,
+        "label": "1"
+    },
+    "268": {
+        "text_a": "Read Fred's story, I also want to.",
+        "text_b": null,
+        "label": "1"
+    },
+    "269": {
+        "text_a": "That he has blood on his hands proves that John is the murderer.",
+        "text_b": null,
+        "label": "1"
+    },
+    "270": {
+        "text_a": "What I've always tended to do is to do my own stretches at home.",
+        "text_b": null,
+        "label": "1"
+    },
+    "271": {
+        "text_a": "While Holly didn't discuss a report about every boy, she did every girl.",
+        "text_b": null,
+        "label": "0"
+    },
+    "272": {
+        "text_a": "Which poem about Achilles did Homer recite?",
+        "text_b": null,
+        "label": "1"
+    },
+    "273": {
+        "text_a": "We loaded ourselves onto the bus.",
+        "text_b": null,
+        "label": "1"
+    },
+    "274": {
+        "text_a": "A soldier should be prepared to die for her country.",
+        "text_b": null,
+        "label": "1"
+    },
+    "275": {
+        "text_a": "Bill poorly recited his lines.",
+        "text_b": null,
+        "label": "0"
+    },
+    "276": {
+        "text_a": "John loaded the truck with bricks.",
+        "text_b": null,
+        "label": "1"
+    },
+    "277": {
+        "text_a": "Linda winked her nose.",
+        "text_b": null,
+        "label": "0"
+    },
+    "278": {
+        "text_a": "He might maybe do that, mightn't he?",
+        "text_b": null,
+        "label": "1"
+    },
+    "279": {
+        "text_a": "That photograph by Gomez of Pugsley of Lucy's",
+        "text_b": null,
+        "label": "1"
+    },
+    "280": {
+        "text_a": "Fifteen dollars in a week is much.",
+        "text_b": null,
+        "label": "1"
+    },
+    "281": {
+        "text_a": "How is someone to chat to a girl if she does not go out?",
+        "text_b": null,
+        "label": "1"
+    },
+    "282": {
+        "text_a": "The crew have both agreed to change sponsor.",
+        "text_b": null,
+        "label": "1"
+    },
+    "283": {
+        "text_a": "John studied carefully Russian.",
+        "text_b": null,
+        "label": "0"
+    },
+    "284": {
+        "text_a": "That's the UN delegate that the government thinks visits Seoul last year.",
+        "text_b": null,
+        "label": "1"
+    },
+    "285": {
+        "text_a": "Nora brought the book from horne.",
+        "text_b": null,
+        "label": "1"
+    },
+    "286": {
+        "text_a": "The man who ordered it said the pudding would be tasty.",
+        "text_b": null,
+        "label": "1"
+    },
+    "287": {
+        "text_a": "Julie maintained her own ideas over the course of the argument.",
+        "text_b": null,
+        "label": "1"
+    },
+    "288": {
+        "text_a": "Did he try to ever be attentive to the needs of students?",
+        "text_b": null,
+        "label": "1"
+    },
+    "289": {
+        "text_a": "The mouse jumped out of the cheese box.",
+        "text_b": null,
+        "label": "1"
+    },
+    "290": {
+        "text_a": "Bruce loved and Kelly hated phonology class.",
+        "text_b": null,
+        "label": "1"
+    },
+    "291": {
+        "text_a": "Bill saw him.",
+        "text_b": null,
+        "label": "1"
+    },
+    "292": {
+        "text_a": "I asked did Medea poison Jason.",
+        "text_b": null,
+        "label": "1"
+    },
+    "293": {
+        "text_a": "They have no TV.",
+        "text_b": null,
+        "label": "1"
+    },
+    "294": {
+        "text_a": "We made the claim that Perseus killed the Gorgon.",
+        "text_b": null,
+        "label": "1"
+    },
+    "295": {
+        "text_a": "John goes to school.",
+        "text_b": null,
+        "label": "1"
+    },
+    "296": {
+        "text_a": "Sonatas are difficult to play on this violin.",
+        "text_b": null,
+        "label": "1"
+    },
+    "297": {
+        "text_a": "Nora sent the book to London.",
+        "text_b": null,
+        "label": "1"
+    },
+    "298": {
+        "text_a": "We kicked ourselves",
+        "text_b": null,
+        "label": "1"
+    },
+    "299": {
+        "text_a": "Every man who has any matches is happy.",
+        "text_b": null,
+        "label": "1"
+    },
+    "300": {
+        "text_a": "John loves himself.",
+        "text_b": null,
+        "label": "1"
+    },
+    "301": {
+        "text_a": "A motorist has reported the road is blocked at Bunker Hill.",
+        "text_b": null,
+        "label": "1"
+    },
+    "302": {
+        "text_a": "That's the most kind answer that I ever heard.",
+        "text_b": null,
+        "label": "0"
+    },
+    "303": {
+        "text_a": "Can he not have been working?",
+        "text_b": null,
+        "label": "0"
+    },
+    "304": {
+        "text_a": "Steve tossed the ball.",
+        "text_b": null,
+        "label": "1"
+    },
+    "305": {
+        "text_a": "The soft bread cuts easily.",
+        "text_b": null,
+        "label": "1"
+    },
+    "306": {
+        "text_a": "A friend of mine and a girl who was from his home town met in Vienna who was working in Europe.",
+        "text_b": null,
+        "label": "0"
+    },
+    "307": {
+        "text_a": "$100,000 will build you a house.",
+        "text_b": null,
+        "label": "1"
+    },
+    "308": {
+        "text_a": "The potatoes baked.",
+        "text_b": null,
+        "label": "1"
+    },
+    "309": {
+        "text_a": "Dust fell on the bed.",
+        "text_b": null,
+        "label": "1"
+    },
+    "310": {
+        "text_a": "There is a riot in the park.",
+        "text_b": null,
+        "label": "1"
+    },
+    "311": {
+        "text_a": "It seems to bother Kim that they resigned.",
+        "text_b": null,
+        "label": "1"
+    },
+    "312": {
+        "text_a": "John promised Mary to control herself.",
+        "text_b": null,
+        "label": "0"
+    },
+    "313": {
+        "text_a": "That picture of her pleases Jenny.",
+        "text_b": null,
+        "label": "1"
+    },
+    "314": {
+        "text_a": "Sarah promised her old car to Catherine, but then gave it to her son instead.",
+        "text_b": null,
+        "label": "1"
+    },
+    "315": {
+        "text_a": "The wall is being touched by John.",
+        "text_b": null,
+        "label": "1"
+    },
+    "316": {
+        "text_a": "Bill can well imagine getting fat.",
+        "text_b": null,
+        "label": "1"
+    },
+    "317": {
+        "text_a": "John remembered.",
+        "text_b": null,
+        "label": "1"
+    },
+    "318": {
+        "text_a": "What city will Fred say that Mary thinks that John lives?",
+        "text_b": null,
+        "label": "0"
+    },
+    "319": {
+        "text_a": "The heavy meal dozed Gloria.",
+        "text_b": null,
+        "label": "0"
+    },
+    "320": {
+        "text_a": "What Mary donated was a lot of money to NPR.",
+        "text_b": null,
+        "label": "0"
+    },
+    "321": {
+        "text_a": "This is the book of which Bill approves, and this is the one of which he doesn't.",
+        "text_b": null,
+        "label": "1"
+    },
+    "322": {
+        "text_a": "Birds fly.",
+        "text_b": null,
+        "label": "1"
+    },
+    "323": {
+        "text_a": "The intrepid pirate and the fearful captain's mate sunk the galleon.",
+        "text_b": null,
+        "label": "1"
+    },
+    "324": {
+        "text_a": "He loves him",
+        "text_b": null,
+        "label": "1"
+    },
+    "325": {
+        "text_a": "All lizards will die.",
+        "text_b": null,
+        "label": "1"
+    },
+    "326": {
+        "text_a": "Fred tracked the leak to its source.",
+        "text_b": null,
+        "label": "1"
+    },
+    "327": {
+        "text_a": "Give a fresh coat of paint to the front door.",
+        "text_b": null,
+        "label": "1"
+    },
+    "328": {
+        "text_a": "The man holding the bottle disappeared.",
+        "text_b": null,
+        "label": "1"
+    },
+    "329": {
+        "text_a": "The tall, handsome man kicked the ball.",
+        "text_b": null,
+        "label": "1"
+    },
+    "330": {
+        "text_a": "They disappeared their way off the stage.",
+        "text_b": null,
+        "label": "0"
+    },
+    "331": {
+        "text_a": "You might not believe me but you will Bob.",
+        "text_b": null,
+        "label": "1"
+    },
+    "332": {
+        "text_a": "What the thing which I ate cost almost broke me.",
+        "text_b": null,
+        "label": "1"
+    },
+    "333": {
+        "text_a": "It really bites that we invaded Iraq.",
+        "text_b": null,
+        "label": "1"
+    },
+    "334": {
+        "text_a": "John sounded happy.",
+        "text_b": null,
+        "label": "1"
+    },
+    "335": {
+        "text_a": "That few boys came upset any of the teachers.",
+        "text_b": null,
+        "label": "0"
+    },
+    "336": {
+        "text_a": "Ellen complained to Helen.",
+        "text_b": null,
+        "label": "1"
+    },
+    "337": {
+        "text_a": "The horse groomed itself.",
+        "text_b": null,
+        "label": "0"
+    },
+    "338": {
+        "text_a": "This should be attended to immediately.",
+        "text_b": null,
+        "label": "1"
+    },
+    "339": {
+        "text_a": "Ted cried to sleep.",
+        "text_b": null,
+        "label": "0"
+    },
+    "340": {
+        "text_a": "many evidence was provided.",
+        "text_b": null,
+        "label": "0"
+    },
+    "341": {
+        "text_a": "What Mr Collins is doing is praising Lady de Bourg.",
+        "text_b": null,
+        "label": "1"
+    },
+    "342": {
+        "text_a": "Jessica sprayed paint over the table.",
+        "text_b": null,
+        "label": "1"
+    },
+    "343": {
+        "text_a": "Can't you see I'm reading?",
+        "text_b": null,
+        "label": "1"
+    },
+    "344": {
+        "text_a": "Everyone should be able to defend himself.",
+        "text_b": null,
+        "label": "1"
+    },
+    "345": {
+        "text_a": "One of the Jewish children is a spunky girl, who gave a black eye to the kid with the German roots before the start of the war.",
+        "text_b": null,
+        "label": "1"
+    },
+    "346": {
+        "text_a": "Jean wants Robert.",
+        "text_b": null,
+        "label": "1"
+    },
+    "347": {
+        "text_a": "The manager presented the foreman a gold watch.",
+        "text_b": null,
+        "label": "0"
+    },
+    "348": {
+        "text_a": "Amanda drove the package from Boston.",
+        "text_b": null,
+        "label": "1"
+    },
+    "349": {
+        "text_a": "Jake threw the ball halfway to Bill.",
+        "text_b": null,
+        "label": "1"
+    },
+    "350": {
+        "text_a": "The three sunbathers went swimming.",
+        "text_b": null,
+        "label": "1"
+    },
+    "351": {
+        "text_a": "I gave a birthday present to my brother.",
+        "text_b": null,
+        "label": "1"
+    },
+    "352": {
+        "text_a": "I wonder you ate how much.",
+        "text_b": null,
+        "label": "0"
+    },
+    "353": {
+        "text_a": "He liked Anson.",
+        "text_b": null,
+        "label": "0"
+    },
+    "354": {
+        "text_a": "Although he loves marshmallows, John is not a big fan of chocolate.",
+        "text_b": null,
+        "label": "1"
+    },
+    "355": {
+        "text_a": "Paul yawned.",
+        "text_b": null,
+        "label": "1"
+    },
+    "356": {
+        "text_a": "What Mary gave was a book to John.",
+        "text_b": null,
+        "label": "0"
+    },
+    "357": {
+        "text_a": "I shaped a good loaf from this dough.",
+        "text_b": null,
+        "label": "0"
+    },
+    "358": {
+        "text_a": "The dentist is likely to examine Pat.",
+        "text_b": null,
+        "label": "1"
+    },
+    "359": {
+        "text_a": "Mary is faster than John is.",
+        "text_b": null,
+        "label": "1"
+    },
+    "360": {
+        "text_a": "They believe it to be easy to annoy Ben.",
+        "text_b": null,
+        "label": "1"
+    },
+    "361": {
+        "text_a": "Mary always has preferred lemons to limes.",
+        "text_b": null,
+        "label": "1"
+    },
+    "362": {
+        "text_a": "Jane was playing the piano.",
+        "text_b": null,
+        "label": "1"
+    },
+    "363": {
+        "text_a": "This scratch will cost Kim $500 to fix.",
+        "text_b": null,
+        "label": "1"
+    },
+    "364": {
+        "text_a": "Our rabbit and the neighbor's cat like each other.",
+        "text_b": null,
+        "label": "1"
+    },
+    "365": {
+        "text_a": "They know if Mary won.",
+        "text_b": null,
+        "label": "1"
+    },
+    "366": {
+        "text_a": "The girls played in the water and swam under the bridge.",
+        "text_b": null,
+        "label": "1"
+    },
+    "367": {
+        "text_a": "Each of these stones has to be cut and polished.",
+        "text_b": null,
+        "label": "1"
+    },
+    "368": {
+        "text_a": "Dorothy is needing new shoes.",
+        "text_b": null,
+        "label": "0"
+    },
+    "369": {
+        "text_a": "Carmen purchased a dress at Bloomingdale's for $50.",
+        "text_b": null,
+        "label": "1"
+    },
+    "370": {
+        "text_a": "Hierarchy of Projections:",
+        "text_b": null,
+        "label": "1"
+    },
+    "371": {
+        "text_a": "The constant reading of Shakespeare satisfied me",
+        "text_b": null,
+        "label": "1"
+    },
+    "372": {
+        "text_a": "I took it for granted that she was lying.",
+        "text_b": null,
+        "label": "1"
+    },
+    "373": {
+        "text_a": "To which man did you talk?",
+        "text_b": null,
+        "label": "1"
+    },
+    "374": {
+        "text_a": "I assumed to be innocent",
+        "text_b": null,
+        "label": "0"
+    },
+    "375": {
+        "text_a": "Did John wonder who would win the game?",
+        "text_b": null,
+        "label": "1"
+    },
+    "376": {
+        "text_a": "Tom told somebody that he wasn't sick.",
+        "text_b": null,
+        "label": "1"
+    },
+    "377": {
+        "text_a": "I blew the building up.",
+        "text_b": null,
+        "label": "1"
+    },
+    "378": {
+        "text_a": "Pat wanted to go to Berne, and Chris going to Rome.",
+        "text_b": null,
+        "label": "0"
+    },
+    "379": {
+        "text_a": "Martha said that Bill loved his Cheerios in the morning.",
+        "text_b": null,
+        "label": "1"
+    },
+    "380": {
+        "text_a": "Fanny pulled the blanket over her.",
+        "text_b": null,
+        "label": "1"
+    },
+    "381": {
+        "text_a": "I wanted to leave.",
+        "text_b": null,
+        "label": "1"
+    },
+    "382": {
+        "text_a": "She's just enough tall.",
+        "text_b": null,
+        "label": "0"
+    },
+    "383": {
+        "text_a": "Clearly, John perfectly will immediately learn French probably.",
+        "text_b": null,
+        "label": "0"
+    },
+    "384": {
+        "text_a": "Dina posed as a lawyer.",
+        "text_b": null,
+        "label": "1"
+    },
+    "385": {
+        "text_a": "John wanted to leave the room happy and leave the room he did happy.",
+        "text_b": null,
+        "label": "0"
+    },
+    "386": {
+        "text_a": "John liked anything that was placed before him.",
+        "text_b": null,
+        "label": "1"
+    },
+    "387": {
+        "text_a": "If did Emma leave Hartfield, Mr Woodhouse would be unhappy.",
+        "text_b": null,
+        "label": "0"
+    },
+    "388": {
+        "text_a": "This girl in the red coat will put a picture of Bill on your desk it before tomorrow.",
+        "text_b": null,
+        "label": "0"
+    },
+    "389": {
+        "text_a": "They said that Tom would pay up, and pay up I believe that he did.",
+        "text_b": null,
+        "label": "1"
+    },
+    "390": {
+        "text_a": "My friends wanted to quickly leave the party.",
+        "text_b": null,
+        "label": "1"
+    },
+    "391": {
+        "text_a": "Smith loaned and his widow later donated a valuable collection of manuscripts to the library.",
+        "text_b": null,
+        "label": "1"
+    },
+    "392": {
+        "text_a": "This is the box in which John put his gold.",
+        "text_b": null,
+        "label": "1"
+    },
+    "393": {
+        "text_a": "It is of physics.",
+        "text_b": null,
+        "label": "0"
+    },
+    "394": {
+        "text_a": "Would they have been walking for hours?",
+        "text_b": null,
+        "label": "1"
+    },
+    "395": {
+        "text_a": "The microphone salesman's 0 irritating patter was relentless.",
+        "text_b": null,
+        "label": "1"
+    },
+    "396": {
+        "text_a": "He baked Tom the bread last night.",
+        "text_b": null,
+        "label": "1"
+    },
+    "397": {
+        "text_a": "Carol carved the stone with a chisel.",
+        "text_b": null,
+        "label": "1"
+    },
+    "398": {
+        "text_a": "Lewis sent Sam a bicycle, but it never arrived.",
+        "text_b": null,
+        "label": "1"
+    },
+    "399": {
+        "text_a": "1492 saw the beginning of a new era.",
+        "text_b": null,
+        "label": "1"
+    },
+    "400": {
+        "text_a": "The more pictures of him appear in the news, the more likely John is to get arrested.",
+        "text_b": null,
+        "label": "1"
+    },
+    "401": {
+        "text_a": "I did not, as Bill had thought, go to the store.",
+        "text_b": null,
+        "label": "0"
+    },
+    "402": {
+        "text_a": "The bed was fallen on by the dust.",
+        "text_b": null,
+        "label": "0"
+    },
+    "403": {
+        "text_a": "I don't have almost any potatoes.",
+        "text_b": null,
+        "label": "0"
+    },
+    "404": {
+        "text_a": "We decided to paint the bathroom a lurid lime green colour.",
+        "text_b": null,
+        "label": "1"
+    },
+    "405": {
+        "text_a": "It is this hat that I believe that he was wearing.",
+        "text_b": null,
+        "label": "1"
+    },
+    "406": {
+        "text_a": "Wilma completed the assignment.",
+        "text_b": null,
+        "label": "1"
+    },
+    "407": {
+        "text_a": "Aphrodite did free animals",
+        "text_b": null,
+        "label": "1"
+    },
+    "408": {
+        "text_a": "Seen from this perspective, there is no easy solution.",
+        "text_b": null,
+        "label": "1"
+    },
+    "409": {
+        "text_a": "Which quonset hut does the boy work in a skyscraper and the girl in?",
+        "text_b": null,
+        "label": "0"
+    },
+    "410": {
+        "text_a": "I noticed kissing Mary.",
+        "text_b": null,
+        "label": "0"
+    },
+    "411": {
+        "text_a": "There melted a lot of snow on the streets of Chicago.",
+        "text_b": null,
+        "label": "0"
+    },
+    "412": {
+        "text_a": "Students studying English read Conrad's Heart of Darkness while at university.",
+        "text_b": null,
+        "label": "1"
+    },
+    "413": {
+        "text_a": "You said that Anson thought that Julie had fainted",
+        "text_b": null,
+        "label": "1"
+    },
+    "414": {
+        "text_a": "I made a proposal we squander the money.",
+        "text_b": null,
+        "label": "0"
+    },
+    "415": {
+        "text_a": "John will leave the party earlier.",
+        "text_b": null,
+        "label": "1"
+    },
+    "416": {
+        "text_a": "John talked to his supervisor about his thesis, and Erich to the dean about department politics.",
+        "text_b": null,
+        "label": "1"
+    },
+    "417": {
+        "text_a": "Ellen said to Helen that melons were selling well.",
+        "text_b": null,
+        "label": "1"
+    },
+    "418": {
+        "text_a": "That our perspectives had changed over the years and the issues we had worked on as students were the topics of discussion.",
+        "text_b": null,
+        "label": "1"
+    },
+    "419": {
+        "text_a": "Linda winked his eye.",
+        "text_b": null,
+        "label": "0"
+    },
+    "420": {
+        "text_a": "Mary tried John to go abroad.",
+        "text_b": null,
+        "label": "0"
+    },
+    "421": {
+        "text_a": "The student loved his phonology readings.",
+        "text_b": null,
+        "label": "1"
+    },
+    "422": {
+        "text_a": "Mary reported John to have loved her.",
+        "text_b": null,
+        "label": "1"
+    },
+    "423": {
+        "text_a": "I think that John likes his beer.",
+        "text_b": null,
+        "label": "1"
+    },
+    "424": {
+        "text_a": "I cycled around France.",
+        "text_b": null,
+        "label": "1"
+    },
+    "425": {
+        "text_a": "When can we register for graduation?",
+        "text_b": null,
+        "label": "1"
+    },
+    "426": {
+        "text_a": "Where did the policeman meet several young students?",
+        "text_b": null,
+        "label": "1"
+    },
+    "427": {
+        "text_a": "The sheriff denied that gangsters had bribed him.",
+        "text_b": null,
+        "label": "1"
+    },
+    "428": {
+        "text_a": "Frances hid the presents from Sally.",
+        "text_b": null,
+        "label": "1"
+    },
+    "429": {
+        "text_a": "He's a so reliable man.",
+        "text_b": null,
+        "label": "0"
+    },
+    "430": {
+        "text_a": "He has will seeing his children.",
+        "text_b": null,
+        "label": "0"
+    },
+    "431": {
+        "text_a": "I wonder what Mary offered to him.",
+        "text_b": null,
+        "label": "1"
+    },
+    "432": {
+        "text_a": "I went to the store and have bought some excellent whisky.",
+        "text_b": null,
+        "label": "1"
+    },
+    "433": {
+        "text_a": "In the corner lay a dog.",
+        "text_b": null,
+        "label": "0"
+    },
+    "434": {
+        "text_a": "Mary criticized him.",
+        "text_b": null,
+        "label": "1"
+    },
+    "435": {
+        "text_a": "In the woods lives an old woman.",
+        "text_b": null,
+        "label": "1"
+    },
+    "436": {
+        "text_a": "Wendy's mother country is Iceland.",
+        "text_b": null,
+        "label": "1"
+    },
+    "437": {
+        "text_a": "I funneled the mixture into the bottle.",
+        "text_b": null,
+        "label": "1"
+    },
+    "438": {
+        "text_a": "When in came Aunt Norris Fanny stopped talking.",
+        "text_b": null,
+        "label": "0"
+    },
+    "439": {
+        "text_a": "He made it clear he would continue to co-operate with the United Nations.",
+        "text_b": null,
+        "label": "1"
+    },
+    "440": {
+        "text_a": "The tree dropped its fruit to the ground.",
+        "text_b": null,
+        "label": "1"
+    },
+    "441": {
+        "text_a": "I loved intensely the policeman with all my heart.",
+        "text_b": null,
+        "label": "0"
+    },
+    "442": {
+        "text_a": "I'm sorry he bought a car.",
+        "text_b": null,
+        "label": "1"
+    },
+    "443": {
+        "text_a": "the book of poems from Blackwell with a red cover by Robert Burns takes a very long time to read.",
+        "text_b": null,
+        "label": "1"
+    },
+    "444": {
+        "text_a": "Dorothy needs that dress a costume.",
+        "text_b": null,
+        "label": "0"
+    },
+    "445": {
+        "text_a": "Sarah sang a song.",
+        "text_b": null,
+        "label": "1"
+    },
+    "446": {
+        "text_a": "I wonder who Jim kissed.",
+        "text_b": null,
+        "label": "1"
+    },
+    "447": {
+        "text_a": "Swimming is fun, and I believe that people who can't should be taught to.",
+        "text_b": null,
+        "label": "1"
+    },
+    "448": {
+        "text_a": "Willy is taller than Bill by more than Joe is taller than Dan.",
+        "text_b": null,
+        "label": "1"
+    },
+    "449": {
+        "text_a": "Gordie Gillespie still can give a piece of his mind to the umps.",
+        "text_b": null,
+        "label": "1"
+    },
+    "450": {
+        "text_a": "Mary won't have been eating cake, but John will.",
+        "text_b": null,
+        "label": "1"
+    },
+    "451": {
+        "text_a": "The room contains many furniture.",
+        "text_b": null,
+        "label": "0"
+    },
+    "452": {
+        "text_a": "John seems to be a fountain in the park.",
+        "text_b": null,
+        "label": "0"
+    },
+    "453": {
+        "text_a": "The dog went crazy.",
+        "text_b": null,
+        "label": "1"
+    },
+    "454": {
+        "text_a": "Who seemed that had poisoned Jason?",
+        "text_b": null,
+        "label": "0"
+    },
+    "455": {
+        "text_a": "Is the boy who holding the plate can see the girl?",
+        "text_b": null,
+        "label": "1"
+    },
+    "456": {
+        "text_a": "John died last night.",
+        "text_b": null,
+        "label": "1"
+    },
+    "457": {
+        "text_a": "I herded the cattle.",
+        "text_b": null,
+        "label": "1"
+    },
+    "458": {
+        "text_a": "The doctor cured Pat of pneumonia.",
+        "text_b": null,
+        "label": "1"
+    },
+    "459": {
+        "text_a": "I know I bought the book that you recommended.",
+        "text_b": null,
+        "label": "1"
+    },
+    "460": {
+        "text_a": "The socks are ready for you to go about beginning to put them on.",
+        "text_b": null,
+        "label": "1"
+    },
+    "461": {
+        "text_a": "Squatters lodged in these abandoned buildings.",
+        "text_b": null,
+        "label": "1"
+    },
+    "462": {
+        "text_a": "After reading the pamphlet, Judy threw them into the garbage can.",
+        "text_b": null,
+        "label": "0"
+    },
+    "463": {
+        "text_a": "The chicken has eaten.",
+        "text_b": null,
+        "label": "1"
+    },
+    "464": {
+        "text_a": "I asked which city which king invaded.",
+        "text_b": null,
+        "label": "1"
+    },
+    "465": {
+        "text_a": "I went to the store and Nike bought some whisky.",
+        "text_b": null,
+        "label": "1"
+    },
+    "466": {
+        "text_a": "I presented a solution to the problem yesterday.",
+        "text_b": null,
+        "label": "1"
+    },
+    "467": {
+        "text_a": "They may grow as much as bamboo high.",
+        "text_b": null,
+        "label": "0"
+    },
+    "468": {
+        "text_a": "Anson will come to the party.",
+        "text_b": null,
+        "label": "1"
+    },
+    "469": {
+        "text_a": "John is the kind of the fool that I told you about.",
+        "text_b": null,
+        "label": "1"
+    },
+    "470": {
+        "text_a": "When I am awake and Susan is asleep, Bill will leave.",
+        "text_b": null,
+        "label": "1"
+    },
+    "471": {
+        "text_a": "I might ate deep fried muffins.",
+        "text_b": null,
+        "label": "0"
+    },
+    "472": {
+        "text_a": "People are stupid",
+        "text_b": null,
+        "label": "1"
+    },
+    "473": {
+        "text_a": "Paula swatted Deirdre's back.",
+        "text_b": null,
+        "label": "1"
+    },
+    "474": {
+        "text_a": "John kept him behind the garage.",
+        "text_b": null,
+        "label": "1"
+    },
+    "475": {
+        "text_a": "John has carefully studied Russian.",
+        "text_b": null,
+        "label": "1"
+    },
+    "476": {
+        "text_a": "Some gifts get used a dozen or so times a year.",
+        "text_b": null,
+        "label": "1"
+    },
+    "477": {
+        "text_a": "The bed which Tom slept on was hard.",
+        "text_b": null,
+        "label": "1"
+    },
+    "478": {
+        "text_a": "How have you picked up TNT carelessly?",
+        "text_b": null,
+        "label": "0"
+    },
+    "479": {
+        "text_a": "Wren built St Paul's Cathedral.",
+        "text_b": null,
+        "label": "1"
+    },
+    "480": {
+        "text_a": "John taught new students English Syntax.",
+        "text_b": null,
+        "label": "1"
+    },
+    "481": {
+        "text_a": "Be very clever.",
+        "text_b": null,
+        "label": "1"
+    },
+    "482": {
+        "text_a": "John meets often Mary.",
+        "text_b": null,
+        "label": "0"
+    },
+    "483": {
+        "text_a": "Angus did not his homework.",
+        "text_b": null,
+        "label": "0"
+    },
+    "484": {
+        "text_a": "I am anxious that you should arrive on time.",
+        "text_b": null,
+        "label": "1"
+    },
+    "485": {
+        "text_a": "I lent Tony the book partway.",
+        "text_b": null,
+        "label": "0"
+    },
+    "486": {
+        "text_a": "I believed these students to all like John.",
+        "text_b": null,
+        "label": "1"
+    },
+    "487": {
+        "text_a": "When into the room came Aunt Norris, Fanny stopped talking.",
+        "text_b": null,
+        "label": "0"
+    },
+    "488": {
+        "text_a": "If anybody comes, he rings the doorbell.",
+        "text_b": null,
+        "label": "1"
+    },
+    "489": {
+        "text_a": "John thinks that Mary's depiction of himself is wrong.",
+        "text_b": null,
+        "label": "0"
+    },
+    "490": {
+        "text_a": "John is taller than six feet.",
+        "text_b": null,
+        "label": "1"
+    },
+    "491": {
+        "text_a": "You shouldn't play with rifles because to is dangerous.",
+        "text_b": null,
+        "label": "0"
+    },
+    "492": {
+        "text_a": "Frank hopes to persuade Harry to make the cook wash the dishes.",
+        "text_b": null,
+        "label": "1"
+    },
+    "493": {
+        "text_a": "John thinks that left.",
+        "text_b": null,
+        "label": "0"
+    },
+    "494": {
+        "text_a": "I'll work on it if you do.",
+        "text_b": null,
+        "label": "1"
+    },
+    "495": {
+        "text_a": "I hope nobody will hurt himself.",
+        "text_b": null,
+        "label": "1"
+    },
+    "496": {
+        "text_a": "Carla mopped under the furniture.",
+        "text_b": null,
+        "label": "1"
+    },
+    "497": {
+        "text_a": "What have you eaten?",
+        "text_b": null,
+        "label": "1"
+    },
+    "498": {
+        "text_a": "Every boy has any potatoes.",
+        "text_b": null,
+        "label": "0"
+    },
+    "499": {
+        "text_a": "We just finished the final exam the result of which we can find out next week.",
+        "text_b": null,
+        "label": "1"
+    },
+    "500": {
+        "text_a": "Robert thinks that student should eat asparagus.",
+        "text_b": null,
+        "label": "1"
+    },
+    "501": {
+        "text_a": "Tom got understood to have asked for a refund.",
+        "text_b": null,
+        "label": "0"
+    },
+    "502": {
+        "text_a": "Every town in every country I had to I visited.",
+        "text_b": null,
+        "label": "1"
+    },
+    "503": {
+        "text_a": "Martha carved a toy out of a piece of wood for the baby.",
+        "text_b": null,
+        "label": "1"
+    },
+    "504": {
+        "text_a": "The child is impossible to teach him.",
+        "text_b": null,
+        "label": "0"
+    },
+    "505": {
+        "text_a": "Julie felt a twinge in her arm",
+        "text_b": null,
+        "label": "1"
+    },
+    "506": {
+        "text_a": "A statue of Jefferson stood on the comer of the two boulevards.",
+        "text_b": null,
+        "label": "1"
+    },
+    "507": {
+        "text_a": "John to love Mary would be doubtful.",
+        "text_b": null,
+        "label": "0"
+    },
+    "508": {
+        "text_a": "The excellent whisky which I went to the store and have bought was very costly.",
+        "text_b": null,
+        "label": "0"
+    },
+    "509": {
+        "text_a": "I think that he eats asparagus.",
+        "text_b": null,
+        "label": "1"
+    },
+    "510": {
+        "text_a": "Jack may be and Tony certainly is a werewolf.",
+        "text_b": null,
+        "label": "1"
+    },
+    "511": {
+        "text_a": "John convinced Bill to sleep.",
+        "text_b": null,
+        "label": "1"
+    },
+    "512": {
+        "text_a": "Which city do you believe the claim that Philip would invade?",
+        "text_b": null,
+        "label": "0"
+    },
+    "513": {
+        "text_a": "He saw the man with the stick.",
+        "text_b": null,
+        "label": "1"
+    },
+    "514": {
+        "text_a": "This is the gold that John put under the bathtub.",
+        "text_b": null,
+        "label": "1"
+    },
+    "515": {
+        "text_a": "Ellen warned Helen about the traffic jam.",
+        "text_b": null,
+        "label": "1"
+    },
+    "516": {
+        "text_a": "I had a realization of there.",
+        "text_b": null,
+        "label": "0"
+    },
+    "517": {
+        "text_a": "They arrived first",
+        "text_b": null,
+        "label": "1"
+    },
+    "518": {
+        "text_a": "Ellen told Helen a story.",
+        "text_b": null,
+        "label": "1"
+    },
+    "519": {
+        "text_a": "Gilgamesh might can seek Ishtar",
+        "text_b": null,
+        "label": "0"
+    },
+    "520": {
+        "text_a": "Her has kissed her.",
+        "text_b": null,
+        "label": "0"
+    },
+    "521": {
+        "text_a": "Frantically at, Anson danced extremely Trade",
+        "text_b": null,
+        "label": "0"
+    },
+    "522": {
+        "text_a": "It is not allowed to incriminate oneself.",
+        "text_b": null,
+        "label": "1"
+    },
+    "523": {
+        "text_a": "A man to come is unlikely.",
+        "text_b": null,
+        "label": "0"
+    },
+    "524": {
+        "text_a": "The hot sun was played under by the children.",
+        "text_b": null,
+        "label": "0"
+    },
+    "525": {
+        "text_a": "A philosopher is sometimes wrong.",
+        "text_b": null,
+        "label": "1"
+    },
+    "526": {
+        "text_a": "A taller man than Bill is here.",
+        "text_b": null,
+        "label": "1"
+    },
+    "527": {
+        "text_a": "Every man has ever beaten the centaur.",
+        "text_b": null,
+        "label": "0"
+    },
+    "528": {
+        "text_a": "What her mother wants her to be is such a fine surgeon that everyone will respect her.",
+        "text_b": null,
+        "label": "1"
+    },
+    "529": {
+        "text_a": "Any lion is usually majestic.",
+        "text_b": null,
+        "label": "0"
+    },
+    "530": {
+        "text_a": "Heidi thinks that the salmon flavored candy bars were eaten.",
+        "text_b": null,
+        "label": "1"
+    },
+    "531": {
+        "text_a": "Cassandra has foretold disaster again.",
+        "text_b": null,
+        "label": "1"
+    },
+    "532": {
+        "text_a": "He said that himself was hungry.",
+        "text_b": null,
+        "label": "0"
+    },
+    "533": {
+        "text_a": "The kids have arrived safely.",
+        "text_b": null,
+        "label": "1"
+    },
+    "534": {
+        "text_a": "The cottage which Mrs Dashwood accepted was very small.",
+        "text_b": null,
+        "label": "1"
+    },
+    "535": {
+        "text_a": "The door has seven holes in it and the window.",
+        "text_b": null,
+        "label": "0"
+    },
+    "536": {
+        "text_a": "The executive committee approved the new policy.",
+        "text_b": null,
+        "label": "1"
+    },
+    "537": {
+        "text_a": "John was lots more obnoxious than Fred was.",
+        "text_b": null,
+        "label": "1"
+    },
+    "538": {
+        "text_a": "Cheryl stood the books on the table.",
+        "text_b": null,
+        "label": "1"
+    },
+    "539": {
+        "text_a": "I don't think Fred will, either.",
+        "text_b": null,
+        "label": "1"
+    },
+    "540": {
+        "text_a": "Nora sent the book to Peter.",
+        "text_b": null,
+        "label": "1"
+    },
+    "541": {
+        "text_a": "John did not leave.",
+        "text_b": null,
+        "label": "1"
+    },
+    "542": {
+        "text_a": "There tries to be warm in September.",
+        "text_b": null,
+        "label": "0"
+    },
+    "543": {
+        "text_a": "Jane and Elizabeth were both at home.",
+        "text_b": null,
+        "label": "1"
+    },
+    "544": {
+        "text_a": "He would can go",
+        "text_b": null,
+        "label": "0"
+    },
+    "545": {
+        "text_a": "John gave the books to Mary at Christmas, and the records to Sue for her birthday.",
+        "text_b": null,
+        "label": "1"
+    },
+    "546": {
+        "text_a": "I hope nobody will hurt themselves.",
+        "text_b": null,
+        "label": "1"
+    },
+    "547": {
+        "text_a": "John convinced that Bill has slept.",
+        "text_b": null,
+        "label": "0"
+    },
+    "548": {
+        "text_a": "You should unload rifles because not to s is dangerous.",
+        "text_b": null,
+        "label": "1"
+    },
+    "549": {
+        "text_a": "I read him Judy's statement about himself.",
+        "text_b": null,
+        "label": "0"
+    },
+    "550": {
+        "text_a": "Joan plays and sings folk songs a wonderful old guitar from Spain.",
+        "text_b": null,
+        "label": "0"
+    },
+    "551": {
+        "text_a": "He's enough of a fool to try it.",
+        "text_b": null,
+        "label": "1"
+    },
+    "552": {
+        "text_a": "Mary's pictures of herself surprised Bill.",
+        "text_b": null,
+        "label": "1"
+    },
+    "553": {
+        "text_a": "The witch turned him from a prince.",
+        "text_b": null,
+        "label": "0"
+    },
+    "554": {
+        "text_a": "Why he knows the answer!",
+        "text_b": null,
+        "label": "0"
+    },
+    "555": {
+        "text_a": "Carla poured the pitcher with lemonade.",
+        "text_b": null,
+        "label": "0"
+    },
+    "556": {
+        "text_a": "I am not certain about when he will come.",
+        "text_b": null,
+        "label": "1"
+    },
+    "557": {
+        "text_a": "Philippa cried herself to sleep.",
+        "text_b": null,
+        "label": "1"
+    },
+    "558": {
+        "text_a": "The papers removed from the safe have not been found.",
+        "text_b": null,
+        "label": "1"
+    },
+    "559": {
+        "text_a": "Susan bought some flowers for her birthday.",
+        "text_b": null,
+        "label": "1"
+    },
+    "560": {
+        "text_a": "We are discussing their claim that flying saucers are real.",
+        "text_b": null,
+        "label": "1"
+    },
+    "561": {
+        "text_a": "Sue was the most likely not to say anything.",
+        "text_b": null,
+        "label": "1"
+    },
+    "562": {
+        "text_a": "The prisoner must have been being interrogated when the supervisor walked into the room and saw what was going on and put a stop to it.",
+        "text_b": null,
+        "label": "1"
+    },
+    "563": {
+        "text_a": "The ice melted.",
+        "text_b": null,
+        "label": "1"
+    },
+    "564": {
+        "text_a": "It is not certain that you'll marry any student.",
+        "text_b": null,
+        "label": "1"
+    },
+    "565": {
+        "text_a": "People go hunting in the Autumn.",
+        "text_b": null,
+        "label": "1"
+    },
+    "566": {
+        "text_a": "Julie filed letters to herself.",
+        "text_b": null,
+        "label": "1"
+    },
+    "567": {
+        "text_a": "There is eager to be fifty students in this class.",
+        "text_b": null,
+        "label": "1"
+    },
+    "568": {
+        "text_a": "I was eating not a peach but an apple",
+        "text_b": null,
+        "label": "1"
+    },
+    "569": {
+        "text_a": "If you take a dry match and strike it, it lights.",
+        "text_b": null,
+        "label": "1"
+    },
+    "570": {
+        "text_a": "Under the bed is a fun place to hide.",
+        "text_b": null,
+        "label": "1"
+    },
+    "571": {
+        "text_a": "The only travelers who anybody has ever robbed don't carry machetes.",
+        "text_b": null,
+        "label": "1"
+    },
+    "572": {
+        "text_a": "I succeeded in convincing, even though John had failed to persuade, Mary not to leave.",
+        "text_b": null,
+        "label": "1"
+    },
+    "573": {
+        "text_a": "Do you like peanut butter?",
+        "text_b": null,
+        "label": "1"
+    },
+    "574": {
+        "text_a": "There seems to be a fountain in the park.",
+        "text_b": null,
+        "label": "1"
+    },
+    "575": {
+        "text_a": "Agamemnon expected Esther to seem to be happy.",
+        "text_b": null,
+        "label": "1"
+    },
+    "576": {
+        "text_a": "The people in who we placed our trust left.",
+        "text_b": null,
+        "label": "0"
+    },
+    "577": {
+        "text_a": "Genie intoned that she was tired",
+        "text_b": null,
+        "label": "1"
+    },
+    "578": {
+        "text_a": "Each other's houses proved to the women that they had bad taste.",
+        "text_b": null,
+        "label": "0"
+    },
+    "579": {
+        "text_a": "Where do you guys live at?",
+        "text_b": null,
+        "label": "1"
+    },
+    "580": {
+        "text_a": "The witch went into the forest and thereby vanished.",
+        "text_b": null,
+        "label": "1"
+    },
+    "581": {
+        "text_a": "The louder who talks, the angrier you get?",
+        "text_b": null,
+        "label": "0"
+    },
+    "582": {
+        "text_a": "Bill is always complaining about the guys who work near him.",
+        "text_b": null,
+        "label": "1"
+    },
+    "583": {
+        "text_a": "How do you think John bought the sweater?",
+        "text_b": null,
+        "label": "1"
+    },
+    "584": {
+        "text_a": "Kim lives in the house Lee sold it to her.",
+        "text_b": null,
+        "label": "0"
+    },
+    "585": {
+        "text_a": "He has often seen Mary.",
+        "text_b": null,
+        "label": "1"
+    },
+    "586": {
+        "text_a": "He might have left.",
+        "text_b": null,
+        "label": "1"
+    },
+    "587": {
+        "text_a": "The building is tall and tall.",
+        "text_b": null,
+        "label": "0"
+    },
+    "588": {
+        "text_a": "Tom drives as that man does.",
+        "text_b": null,
+        "label": "1"
+    },
+    "589": {
+        "text_a": "We offered her with a job.",
+        "text_b": null,
+        "label": "0"
+    },
+    "590": {
+        "text_a": "The money that you gave me disappeared last night.",
+        "text_b": null,
+        "label": "1"
+    },
+    "591": {
+        "text_a": "They represented to the dean Mary as a genuine linguist.",
+        "text_b": null,
+        "label": "0"
+    },
+    "592": {
+        "text_a": "How fond of Esther is Agamemnon?",
+        "text_b": null,
+        "label": "1"
+    },
+    "593": {
+        "text_a": "Grandma is coming here tomorrow.",
+        "text_b": null,
+        "label": "1"
+    },
+    "594": {
+        "text_a": "Perhaps some dry socks would help?",
+        "text_b": null,
+        "label": "1"
+    },
+    "595": {
+        "text_a": "The yolk separated from the white.",
+        "text_b": null,
+        "label": "1"
+    },
+    "596": {
+        "text_a": "He turned from a prince into a frog.",
+        "text_b": null,
+        "label": "1"
+    },
+    "597": {
+        "text_a": "Pat is eager to be examined by the dentist.",
+        "text_b": null,
+        "label": "1"
+    },
+    "598": {
+        "text_a": "The butcher cuts the meat.",
+        "text_b": null,
+        "label": "1"
+    },
+    "599": {
+        "text_a": "The men would not enjoy that.",
+        "text_b": null,
+        "label": "1"
+    },
+    "600": {
+        "text_a": "Webster touched a sword after Henry had done it.",
+        "text_b": null,
+        "label": "1"
+    },
+    "601": {
+        "text_a": "I have wanted to meet the man who spent so much money planning the assassination of Kennedy for many years.",
+        "text_b": null,
+        "label": "1"
+    },
+    "602": {
+        "text_a": "Leah likes cookies.",
+        "text_b": null,
+        "label": "1"
+    },
+    "603": {
+        "text_a": "We listened to as little speech as possible.",
+        "text_b": null,
+        "label": "0"
+    },
+    "604": {
+        "text_a": "I don't want trouble.",
+        "text_b": null,
+        "label": "1"
+    },
+    "605": {
+        "text_a": "Carla slid those books across the table.",
+        "text_b": null,
+        "label": "1"
+    },
+    "606": {
+        "text_a": "That he ever went there alone is odd.",
+        "text_b": null,
+        "label": "1"
+    },
+    "607": {
+        "text_a": "Heidi saw drawings of her.",
+        "text_b": null,
+        "label": "1"
+    },
+    "608": {
+        "text_a": "Ronald scoffs at the belief that he would run if nominated.",
+        "text_b": null,
+        "label": "1"
+    },
+    "609": {
+        "text_a": "Julie and Jenny arrived first",
+        "text_b": null,
+        "label": "1"
+    },
+    "610": {
+        "text_a": "Those people, after the party, will not come home.",
+        "text_b": null,
+        "label": "1"
+    },
+    "611": {
+        "text_a": "What causes students to select particular majors?",
+        "text_b": null,
+        "label": "1"
+    },
+    "612": {
+        "text_a": "The police might plant the drugs in the apartment.",
+        "text_b": null,
+        "label": "1"
+    },
+    "613": {
+        "text_a": "In this cave was found an ancient treasure trove.",
+        "text_b": null,
+        "label": "1"
+    },
+    "614": {
+        "text_a": "Martha carved a piece of wood into a toy for the baby.",
+        "text_b": null,
+        "label": "1"
+    },
+    "615": {
+        "text_a": "I'll give to my good friend from Akron some.",
+        "text_b": null,
+        "label": "0"
+    },
+    "616": {
+        "text_a": "We believed there to be a fountain in the park.",
+        "text_b": null,
+        "label": "1"
+    },
+    "617": {
+        "text_a": "It may rain.",
+        "text_b": null,
+        "label": "1"
+    },
+    "618": {
+        "text_a": "The news pleased the students.",
+        "text_b": null,
+        "label": "1"
+    },
+    "619": {
+        "text_a": "Ida hunted for deer in the woods.",
+        "text_b": null,
+        "label": "1"
+    },
+    "620": {
+        "text_a": "Yes, she used.",
+        "text_b": null,
+        "label": "0"
+    },
+    "621": {
+        "text_a": "They represented seriously Mary as a genuine linguist.",
+        "text_b": null,
+        "label": "0"
+    },
+    "622": {
+        "text_a": "Poseidon appears to have turned out to have left.",
+        "text_b": null,
+        "label": "1"
+    },
+    "623": {
+        "text_a": "Dracula thought that himself was the Prince of Darkness.",
+        "text_b": null,
+        "label": "0"
+    },
+    "624": {
+        "text_a": "This truck spread fewer salt than that one.",
+        "text_b": null,
+        "label": "0"
+    },
+    "625": {
+        "text_a": "Over the fort fluttered a large flag.",
+        "text_b": null,
+        "label": "1"
+    },
+    "626": {
+        "text_a": "I didn't eat any ice cream and any cake.",
+        "text_b": null,
+        "label": "0"
+    },
+    "627": {
+        "text_a": "I raw eat fish drunk.",
+        "text_b": null,
+        "label": "0"
+    },
+    "628": {
+        "text_a": "Ellen warned that melons were selling.",
+        "text_b": null,
+        "label": "1"
+    },
+    "629": {
+        "text_a": "Carla slid the book to Dale.",
+        "text_b": null,
+        "label": "1"
+    },
+    "630": {
+        "text_a": "The horse wouldn't budge.",
+        "text_b": null,
+        "label": "1"
+    },
+    "631": {
+        "text_a": "John laughed.",
+        "text_b": null,
+        "label": "1"
+    },
+    "632": {
+        "text_a": "Every student in Mary's class happened to vote Republican.",
+        "text_b": null,
+        "label": "1"
+    },
+    "633": {
+        "text_a": "Who will they recommend?",
+        "text_b": null,
+        "label": "1"
+    },
+    "634": {
+        "text_a": "Linguistics students like phonetics tutorials.",
+        "text_b": null,
+        "label": "1"
+    },
+    "635": {
+        "text_a": "Jessica loaded boxes into the wagon.",
+        "text_b": null,
+        "label": "1"
+    },
+    "636": {
+        "text_a": "The moral destruction of the president was certainly not helpful.",
+        "text_b": null,
+        "label": "1"
+    },
+    "637": {
+        "text_a": "The person who in came at that moment was Aunt Norris.",
+        "text_b": null,
+        "label": "0"
+    },
+    "638": {
+        "text_a": "The dragons simply all died out.",
+        "text_b": null,
+        "label": "1"
+    },
+    "639": {
+        "text_a": "What Alison and David did was soak their feet in a bucket",
+        "text_b": null,
+        "label": "1"
+    },
+    "640": {
+        "text_a": "Mary knows that John was elected.",
+        "text_b": null,
+        "label": "1"
+    },
+    "641": {
+        "text_a": "Bill rolled the ball down the hill.",
+        "text_b": null,
+        "label": "1"
+    },
+    "642": {
+        "text_a": "I doubt that Mary reads mysteries.",
+        "text_b": null,
+        "label": "1"
+    },
+    "643": {
+        "text_a": "We drove all the way to Buenos Aires.",
+        "text_b": null,
+        "label": "1"
+    },
+    "644": {
+        "text_a": "Hole into disappeared ground the the in clever a little.",
+        "text_b": null,
+        "label": "0"
+    },
+    "645": {
+        "text_a": "Sally eats the stuff more.",
+        "text_b": null,
+        "label": "1"
+    },
+    "646": {
+        "text_a": "Did Captain Wentworth write a letter to Anne Elliott?",
+        "text_b": null,
+        "label": "1"
+    },
+    "647": {
+        "text_a": "Gene Simmons was originally named Haim Goldberg.",
+        "text_b": null,
+        "label": "1"
+    },
+    "648": {
+        "text_a": "I have some papers to announce that I've got to grade.",
+        "text_b": null,
+        "label": "0"
+    },
+    "649": {
+        "text_a": "I want to peruse that contract before filing it away.",
+        "text_b": null,
+        "label": "1"
+    },
+    "650": {
+        "text_a": "Did that John showed up please you?",
+        "text_b": null,
+        "label": "0"
+    },
+    "651": {
+        "text_a": "That new handle detaches easily.",
+        "text_b": null,
+        "label": "1"
+    },
+    "652": {
+        "text_a": "The umpire called the game off.",
+        "text_b": null,
+        "label": "1"
+    },
+    "653": {
+        "text_a": "Every man lifted the table together.",
+        "text_b": null,
+        "label": "0"
+    },
+    "654": {
+        "text_a": "Two miles are as far as they can walk.",
+        "text_b": null,
+        "label": "0"
+    },
+    "655": {
+        "text_a": "John carried to the door.",
+        "text_b": null,
+        "label": "0"
+    },
+    "656": {
+        "text_a": "That's a most kind answer that I ever heard.",
+        "text_b": null,
+        "label": "0"
+    },
+    "657": {
+        "text_a": "The horse fell",
+        "text_b": null,
+        "label": "1"
+    },
+    "658": {
+        "text_a": "Carol cut herself on the thumb.",
+        "text_b": null,
+        "label": "1"
+    },
+    "659": {
+        "text_a": "A review seems to have come out yesterday of this article.",
+        "text_b": null,
+        "label": "1"
+    },
+    "660": {
+        "text_a": "He's more reliable a man.",
+        "text_b": null,
+        "label": "0"
+    },
+    "661": {
+        "text_a": "Mary cuts the paper easily.",
+        "text_b": null,
+        "label": "1"
+    },
+    "662": {
+        "text_a": "The woman believed that the man was ill who was here.",
+        "text_b": null,
+        "label": "1"
+    },
+    "663": {
+        "text_a": "Mary is happy with her work, and John is with his children.",
+        "text_b": null,
+        "label": "1"
+    },
+    "664": {
+        "text_a": "That Jack sometimes slept is impossible.",
+        "text_b": null,
+        "label": "1"
+    },
+    "665": {
+        "text_a": "I know who is mad at John.",
+        "text_b": null,
+        "label": "1"
+    },
+    "666": {
+        "text_a": "I detached the handle from the box.",
+        "text_b": null,
+        "label": "1"
+    },
+    "667": {
+        "text_a": "Cynthia lunched on peaches.",
+        "text_b": null,
+        "label": "1"
+    },
+    "668": {
+        "text_a": "His book",
+        "text_b": null,
+        "label": "1"
+    },
+    "669": {
+        "text_a": "A burlap sack of potatoes with mealy skins fell on the professor of linguistics with the terrible taste in T-shirts from the twelfth story.",
+        "text_b": null,
+        "label": "1"
+    },
+    "670": {
+        "text_a": "She writes more clearly than she speaks.",
+        "text_b": null,
+        "label": "1"
+    },
+    "671": {
+        "text_a": "The jeweller copied the name on the ring.",
+        "text_b": null,
+        "label": "1"
+    },
+    "672": {
+        "text_a": "I saw more of the man than you did.",
+        "text_b": null,
+        "label": "1"
+    },
+    "673": {
+        "text_a": "The magician vanished a rabbit into thin air.",
+        "text_b": null,
+        "label": "0"
+    },
+    "674": {
+        "text_a": "Bill married Kathy.",
+        "text_b": null,
+        "label": "1"
+    },
+    "675": {
+        "text_a": "John's quilt has a hole in its upper right-hand corner.",
+        "text_b": null,
+        "label": "1"
+    },
+    "676": {
+        "text_a": "Himself saw him",
+        "text_b": null,
+        "label": "0"
+    },
+    "677": {
+        "text_a": "The hardest that it is believed that it has ever snowed here was last January 12th.",
+        "text_b": null,
+        "label": "1"
+    },
+    "678": {
+        "text_a": "Odysseus planned to hear the sirens.",
+        "text_b": null,
+        "label": "1"
+    },
+    "679": {
+        "text_a": "Medea killed Jason.",
+        "text_b": null,
+        "label": "1"
+    },
+    "680": {
+        "text_a": "After the executioner left, Poseidon wept.",
+        "text_b": null,
+        "label": "1"
+    },
+    "681": {
+        "text_a": "John convinced Bill to visit Mary.",
+        "text_b": null,
+        "label": "1"
+    },
+    "682": {
+        "text_a": "The box contained the ball to the ground.",
+        "text_b": null,
+        "label": "0"
+    },
+    "683": {
+        "text_a": "You better not drink.",
+        "text_b": null,
+        "label": "1"
+    },
+    "684": {
+        "text_a": "Bill seems to be obnoxious, but I don't think that Sam happens.",
+        "text_b": null,
+        "label": "0"
+    },
+    "685": {
+        "text_a": "John whispered that Mary left.",
+        "text_b": null,
+        "label": "1"
+    },
+    "686": {
+        "text_a": "You give any senator enough opportunity and he will succumb to corruption.",
+        "text_b": null,
+        "label": "1"
+    },
+    "687": {
+        "text_a": "John will enthusiastically have been eating cake.",
+        "text_b": null,
+        "label": "1"
+    },
+    "688": {
+        "text_a": "Carmen bought a dress from Diana.",
+        "text_b": null,
+        "label": "1"
+    },
+    "689": {
+        "text_a": "That the golden thread would show Jason his path through the labyrinth was",
+        "text_b": null,
+        "label": "1"
+    },
+    "690": {
+        "text_a": "I sensed the eagerness in him.",
+        "text_b": null,
+        "label": "1"
+    },
+    "691": {
+        "text_a": "I will eat spaghetti on Sunday with Marco.",
+        "text_b": null,
+        "label": "1"
+    },
+    "692": {
+        "text_a": "Gilgamesh will seek Ishtar",
+        "text_b": null,
+        "label": "1"
+    },
+    "693": {
+        "text_a": "What happened was they knew his parents.",
+        "text_b": null,
+        "label": "0"
+    },
+    "694": {
+        "text_a": "The hot potato had several hundred people yelling for me to put it down gently.",
+        "text_b": null,
+        "label": "0"
+    },
+    "695": {
+        "text_a": "Darin has eaten more squid than John has octopus.",
+        "text_b": null,
+        "label": "1"
+    },
+    "696": {
+        "text_a": "Miriam tutored her brother.",
+        "text_b": null,
+        "label": "1"
+    },
+    "697": {
+        "text_a": "The stone knocked against the pole into the road.",
+        "text_b": null,
+        "label": "0"
+    },
+    "698": {
+        "text_a": "Who said he would give the cloak to Lee?",
+        "text_b": null,
+        "label": "1"
+    },
+    "699": {
+        "text_a": "John must do not have eaten.",
+        "text_b": null,
+        "label": "0"
+    },
+    "700": {
+        "text_a": "I heated up the coffee and Sally wiped the table off.",
+        "text_b": null,
+        "label": "1"
+    },
+    "701": {
+        "text_a": "We know the defendants seem eager to testify against the criminal.",
+        "text_b": null,
+        "label": "1"
+    },
+    "702": {
+        "text_a": "Mary or Sue could tell you that.",
+        "text_b": null,
+        "label": "1"
+    },
+    "703": {
+        "text_a": "much equipment is needed.",
+        "text_b": null,
+        "label": "1"
+    },
+    "704": {
+        "text_a": "Mary claimed that eating cabbage, Holly started.",
+        "text_b": null,
+        "label": "0"
+    },
+    "705": {
+        "text_a": "John sells books, Mary buys records and Bill V newspapers.",
+        "text_b": null,
+        "label": "1"
+    },
+    "706": {
+        "text_a": "There jumped out of the box a little white rabbit.",
+        "text_b": null,
+        "label": "1"
+    },
+    "707": {
+        "text_a": "Frank threw himself into the sofa.",
+        "text_b": null,
+        "label": "1"
+    },
+    "708": {
+        "text_a": "Many of the people were dying of thirst.",
+        "text_b": null,
+        "label": "1"
+    },
+    "709": {
+        "text_a": "Kim likes Sandy, and Lee Leslie. to try to go to Rome.",
+        "text_b": null,
+        "label": "1"
+    },
+    "710": {
+        "text_a": "John tried to sleep.",
+        "text_b": null,
+        "label": "1"
+    },
+    "711": {
+        "text_a": "Would for him to have played the piano have surprised you?",
+        "text_b": null,
+        "label": "0"
+    },
+    "712": {
+        "text_a": "Both the workers will wear carnations.",
+        "text_b": null,
+        "label": "1"
+    },
+    "713": {
+        "text_a": "Sarah sang.",
+        "text_b": null,
+        "label": "1"
+    },
+    "714": {
+        "text_a": "My wife, somebody stole her handbag last night.",
+        "text_b": null,
+        "label": "1"
+    },
+    "715": {
+        "text_a": "Stephen believed it to be easy to please Kim.",
+        "text_b": null,
+        "label": "1"
+    },
+    "716": {
+        "text_a": "I'm going to call somebody who is.",
+        "text_b": null,
+        "label": "0"
+    },
+    "717": {
+        "text_a": "The sheep cries",
+        "text_b": null,
+        "label": "1"
+    },
+    "718": {
+        "text_a": "Chairman was elected Graham.",
+        "text_b": null,
+        "label": "0"
+    },
+    "719": {
+        "text_a": "You didn't leave, left you?",
+        "text_b": null,
+        "label": "0"
+    },
+    "720": {
+        "text_a": "We are aware of the existing problems.",
+        "text_b": null,
+        "label": "1"
+    },
+    "721": {
+        "text_a": "Jason expected Medea to be treated by the doctor",
+        "text_b": null,
+        "label": "1"
+    },
+    "722": {
+        "text_a": "Alison drove the car.",
+        "text_b": null,
+        "label": "1"
+    },
+    "723": {
+        "text_a": "There are arriving three men at that station.",
+        "text_b": null,
+        "label": "1"
+    },
+    "724": {
+        "text_a": "The scene of the movie was in Chicago.",
+        "text_b": null,
+        "label": "1"
+    },
+    "725": {
+        "text_a": "That Jack ever slept is impossible.",
+        "text_b": null,
+        "label": "1"
+    },
+    "726": {
+        "text_a": "The more he reads, the more books I wonder to whom he will give.",
+        "text_b": null,
+        "label": "0"
+    },
+    "727": {
+        "text_a": "Won't John go to school?",
+        "text_b": null,
+        "label": "1"
+    },
+    "728": {
+        "text_a": "Kim to beat his dog and alienated cats.",
+        "text_b": null,
+        "label": "0"
+    },
+    "729": {
+        "text_a": "I was born in 1970.",
+        "text_b": null,
+        "label": "1"
+    },
+    "730": {
+        "text_a": "He book",
+        "text_b": null,
+        "label": "0"
+    },
+    "731": {
+        "text_a": "which books about cooking does Henri want to buy?",
+        "text_b": null,
+        "label": "1"
+    },
+    "732": {
+        "text_a": "It tends to be warm in September.",
+        "text_b": null,
+        "label": "1"
+    },
+    "733": {
+        "text_a": "We contributed our paycheck to her.",
+        "text_b": null,
+        "label": "1"
+    },
+    "734": {
+        "text_a": "The hospital was donated the book to.",
+        "text_b": null,
+        "label": "0"
+    },
+    "735": {
+        "text_a": "The terrorist escaped the prison cell.",
+        "text_b": null,
+        "label": "1"
+    },
+    "736": {
+        "text_a": "About 20 liters of acid was poured into the beaker.",
+        "text_b": null,
+        "label": "1"
+    },
+    "737": {
+        "text_a": "I have six too many marbles.",
+        "text_b": null,
+        "label": "1"
+    },
+    "738": {
+        "text_a": "Aphrodite freed animals",
+        "text_b": null,
+        "label": "1"
+    },
+    "739": {
+        "text_a": "Mary really appreciates and constantly praises himself and Bill knows it.",
+        "text_b": null,
+        "label": "0"
+    },
+    "740": {
+        "text_a": "The dragons have all been slain.",
+        "text_b": null,
+        "label": "1"
+    },
+    "741": {
+        "text_a": "He put the clothes.",
+        "text_b": null,
+        "label": "1"
+    },
+    "742": {
+        "text_a": "We like our friends and they like their friends, too.",
+        "text_b": null,
+        "label": "1"
+    },
+    "743": {
+        "text_a": "Who is that he has met extremely unlikely?",
+        "text_b": null,
+        "label": "0"
+    },
+    "744": {
+        "text_a": "The tuna must have been eaten.",
+        "text_b": null,
+        "label": "1"
+    },
+    "745": {
+        "text_a": "Before you make plans, consult the secretary.",
+        "text_b": null,
+        "label": "1"
+    },
+    "746": {
+        "text_a": "Proud of him I've never been.",
+        "text_b": null,
+        "label": "1"
+    },
+    "747": {
+        "text_a": "Sally eats caviar too much for her own good.",
+        "text_b": null,
+        "label": "1"
+    },
+    "748": {
+        "text_a": "The students are proud of themselves.",
+        "text_b": null,
+        "label": "1"
+    },
+    "749": {
+        "text_a": "The snake clever disappeared into a hole in the ground.",
+        "text_b": null,
+        "label": "0"
+    },
+    "750": {
+        "text_a": "Kim was dancing, and Sandy was, too.",
+        "text_b": null,
+        "label": "1"
+    },
+    "751": {
+        "text_a": "He is the kind of person with whom to consult.",
+        "text_b": null,
+        "label": "1"
+    },
+    "752": {
+        "text_a": "What did Bill confirm that Roger had eaten?",
+        "text_b": null,
+        "label": "0"
+    },
+    "753": {
+        "text_a": "There run many people.",
+        "text_b": null,
+        "label": "0"
+    },
+    "754": {
+        "text_a": "The two boys looked up the high stairs.",
+        "text_b": null,
+        "label": "1"
+    },
+    "755": {
+        "text_a": "Many flags fluttered over the fort.",
+        "text_b": null,
+        "label": "1"
+    },
+    "756": {
+        "text_a": "Bill believes that Anna and he are similar.",
+        "text_b": null,
+        "label": "1"
+    },
+    "757": {
+        "text_a": "Jason expected the doctor to treat Medea",
+        "text_b": null,
+        "label": "1"
+    },
+    "758": {
+        "text_a": "Louis begged Kate to shave himself.",
+        "text_b": null,
+        "label": "0"
+    },
+    "759": {
+        "text_a": "Dana would be unlikely for Pat to be called upon.",
+        "text_b": null,
+        "label": "0"
+    },
+    "760": {
+        "text_a": "Us, we'll go together.",
+        "text_b": null,
+        "label": "1"
+    },
+    "761": {
+        "text_a": "Humans love to eat owners of pigs.",
+        "text_b": null,
+        "label": "1"
+    },
+    "762": {
+        "text_a": "The cottage which Mrs Dashwood accepted was rather small.",
+        "text_b": null,
+        "label": "1"
+    },
+    "763": {
+        "text_a": "Bill floated into the cave.",
+        "text_b": null,
+        "label": "1"
+    },
+    "764": {
+        "text_a": "I have Tom's feeling that the company will squander the money.",
+        "text_b": null,
+        "label": "0"
+    },
+    "765": {
+        "text_a": "John suddenly put the customers off.",
+        "text_b": null,
+        "label": "1"
+    },
+    "766": {
+        "text_a": "Heidi thinks that she has won.",
+        "text_b": null,
+        "label": "1"
+    },
+    "767": {
+        "text_a": "A big green insect flew into the soup.",
+        "text_b": null,
+        "label": "1"
+    },
+    "768": {
+        "text_a": "It was several young students that the policeman met in the park last night.",
+        "text_b": null,
+        "label": "1"
+    },
+    "769": {
+        "text_a": "John considers him a nice guy.",
+        "text_b": null,
+        "label": "1"
+    },
+    "770": {
+        "text_a": "I dislike it for him to tickle myself.",
+        "text_b": null,
+        "label": "0"
+    },
+    "771": {
+        "text_a": "A poodle gives live birth.",
+        "text_b": null,
+        "label": "1"
+    },
+    "772": {
+        "text_a": "is taller than that man.",
+        "text_b": null,
+        "label": "1"
+    },
+    "773": {
+        "text_a": "John believes it to be obvious that Bill left.",
+        "text_b": null,
+        "label": "1"
+    },
+    "774": {
+        "text_a": "You may pick every flower.",
+        "text_b": null,
+        "label": "1"
+    },
+    "775": {
+        "text_a": "I talked to Winston about him.",
+        "text_b": null,
+        "label": "0"
+    },
+    "776": {
+        "text_a": "What did Bill cook and wash the dishes?",
+        "text_b": null,
+        "label": "0"
+    },
+    "777": {
+        "text_a": "Student studies English for 4 hours a day.",
+        "text_b": null,
+        "label": "0"
+    },
+    "778": {
+        "text_a": "The dumplings which Sasha is gobbling down faster than I can reheat them are extremely tasty, if I do say so.",
+        "text_b": null,
+        "label": "1"
+    },
+    "779": {
+        "text_a": "Chris must liking syntax.",
+        "text_b": null,
+        "label": "1"
+    },
+    "780": {
+        "text_a": "The scandal was talked about for days.",
+        "text_b": null,
+        "label": "1"
+    },
+    "781": {
+        "text_a": "Who do you think Hobbs imagined Mary said Tom saw?",
+        "text_b": null,
+        "label": "1"
+    },
+    "782": {
+        "text_a": "John believes that Bill slept.",
+        "text_b": null,
+        "label": "1"
+    },
+    "783": {
+        "text_a": "Professor Smith would support Sue and Prof Jones Bill.",
+        "text_b": null,
+        "label": "0"
+    },
+    "784": {
+        "text_a": "Fluffy is sick, as surprises me.",
+        "text_b": null,
+        "label": "0"
+    },
+    "785": {
+        "text_a": "John kisses often Mary.",
+        "text_b": null,
+        "label": "0"
+    },
+    "786": {
+        "text_a": "Every senator seems to become more corrupt, if he talks to more lobbyists.",
+        "text_b": null,
+        "label": "1"
+    },
+    "787": {
+        "text_a": "Calvin could will eat the beef waffles.",
+        "text_b": null,
+        "label": "0"
+    },
+    "788": {
+        "text_a": "John bothers me.",
+        "text_b": null,
+        "label": "1"
+    },
+    "789": {
+        "text_a": "She gets upset if I exclude her from anything.",
+        "text_b": null,
+        "label": "1"
+    },
+    "790": {
+        "text_a": "The cat thinks that he is out of the bag.",
+        "text_b": null,
+        "label": "1"
+    },
+    "791": {
+        "text_a": "Whenever Bill smokes, Susan hates him a lot more.",
+        "text_b": null,
+        "label": "1"
+    },
+    "792": {
+        "text_a": "Who did you meet all when you were in Derry?",
+        "text_b": null,
+        "label": "1"
+    },
+    "793": {
+        "text_a": "I believed she is pregnant",
+        "text_b": null,
+        "label": "0"
+    },
+    "794": {
+        "text_a": "There was an error in the proof Johns presented.",
+        "text_b": null,
+        "label": "1"
+    },
+    "795": {
+        "text_a": "He tries to put on everyone who he doesn't like.",
+        "text_b": null,
+        "label": "0"
+    },
+    "796": {
+        "text_a": "Julie felt he was there",
+        "text_b": null,
+        "label": "1"
+    },
+    "797": {
+        "text_a": "What I arranged for Jenny was to be present.",
+        "text_b": null,
+        "label": "0"
+    },
+    "798": {
+        "text_a": "It is this hat that I know the boy who is wearing.",
+        "text_b": null,
+        "label": "0"
+    },
+    "799": {
+        "text_a": "Jean tried to behave.",
+        "text_b": null,
+        "label": "1"
+    },
+    "800": {
+        "text_a": "What does John wonder Mary bought?",
+        "text_b": null,
+        "label": "0"
+    },
+    "801": {
+        "text_a": "John learned French perfectly immediately.",
+        "text_b": null,
+        "label": "1"
+    },
+    "802": {
+        "text_a": "If John can speak French fluently \u2013 which we all know he can \u2013 we will have no problems.",
+        "text_b": null,
+        "label": "1"
+    },
+    "803": {
+        "text_a": "The piano was bought for Jane by Frank.",
+        "text_b": null,
+        "label": "1"
+    },
+    "804": {
+        "text_a": "You must pick a flower.",
+        "text_b": null,
+        "label": "1"
+    },
+    "805": {
+        "text_a": "Fluffy is sick, which I fell asleep and Tom suddenly realized.",
+        "text_b": null,
+        "label": "0"
+    },
+    "806": {
+        "text_a": "Once Janet left, Fred became all the crazier.",
+        "text_b": null,
+        "label": "1"
+    },
+    "807": {
+        "text_a": "Two or three books take a very long time to read.",
+        "text_b": null,
+        "label": "1"
+    },
+    "808": {
+        "text_a": "Kim is eager to recommend.",
+        "text_b": null,
+        "label": "0"
+    },
+    "809": {
+        "text_a": "John will kick the ball.",
+        "text_b": null,
+        "label": "1"
+    },
+    "810": {
+        "text_a": "A fellow student saw this felt sorry for Miss Kim and offered her his own book.",
+        "text_b": null,
+        "label": "1"
+    },
+    "811": {
+        "text_a": "Who did that Plato loved prove to be his undoing.",
+        "text_b": null,
+        "label": "0"
+    },
+    "812": {
+        "text_a": "The more books I ask to whom he will give, the more he reads.",
+        "text_b": null,
+        "label": "0"
+    },
+    "813": {
+        "text_a": "The official to whom Smith loaned the money has been indicted.",
+        "text_b": null,
+        "label": "1"
+    },
+    "814": {
+        "text_a": "That you have done it really well is what I meant.",
+        "text_b": null,
+        "label": "0"
+    },
+    "815": {
+        "text_a": "John tried to make Sam let George ask Bill to keep delivering the mail.",
+        "text_b": null,
+        "label": "1"
+    },
+    "816": {
+        "text_a": "Gilgamesh doesn't ate the honey",
+        "text_b": null,
+        "label": "0"
+    },
+    "817": {
+        "text_a": "It is rumored that he left town.",
+        "text_b": null,
+        "label": "1"
+    },
+    "818": {
+        "text_a": "The electric main joins the house circuit in the basement.",
+        "text_b": null,
+        "label": "1"
+    },
+    "819": {
+        "text_a": "A critic thinks that every book is readable.",
+        "text_b": null,
+        "label": "1"
+    },
+    "820": {
+        "text_a": "Can you find the light bulb store?",
+        "text_b": null,
+        "label": "1"
+    },
+    "821": {
+        "text_a": "He bought these flowers for Aaron.",
+        "text_b": null,
+        "label": "1"
+    },
+    "822": {
+        "text_a": "There lived a man with his grandson.",
+        "text_b": null,
+        "label": "1"
+    },
+    "823": {
+        "text_a": "`` Doing my taxes '' gives a headache to 22 percent of Americans surveyed for Pfizer, which makes tylenol pain relief medicine.",
+        "text_b": null,
+        "label": "1"
+    },
+    "824": {
+        "text_a": "I know you ate asparagus.",
+        "text_b": null,
+        "label": "1"
+    },
+    "825": {
+        "text_a": "It hung on the wall.",
+        "text_b": null,
+        "label": "1"
+    },
+    "826": {
+        "text_a": "John hummed, and Mary sang, the same tune.",
+        "text_b": null,
+        "label": "1"
+    },
+    "827": {
+        "text_a": "Bill kissed herself.",
+        "text_b": null,
+        "label": "0"
+    },
+    "828": {
+        "text_a": "The problem disappeared the accusation.",
+        "text_b": null,
+        "label": "0"
+    },
+    "829": {
+        "text_a": "The hair dryer dried the clothes.",
+        "text_b": null,
+        "label": "1"
+    },
+    "830": {
+        "text_a": "I wonder whether has Mary worked for Microsoft.",
+        "text_b": null,
+        "label": "0"
+    },
+    "831": {
+        "text_a": "What I believe that he was wearing is this hat.",
+        "text_b": null,
+        "label": "1"
+    },
+    "832": {
+        "text_a": "Karen asked where to put the chairs.",
+        "text_b": null,
+        "label": "1"
+    },
+    "833": {
+        "text_a": "That he was sick, we talked about for days.",
+        "text_b": null,
+        "label": "1"
+    },
+    "834": {
+        "text_a": "Mickey looked the reference up.",
+        "text_b": null,
+        "label": "1"
+    },
+    "835": {
+        "text_a": "Her cousin clerked for Judge Davis.",
+        "text_b": null,
+        "label": "1"
+    },
+    "836": {
+        "text_a": "Everyone claimed that the poison was neutralized.",
+        "text_b": null,
+        "label": "1"
+    },
+    "837": {
+        "text_a": "Did Frank buy something for Jane.",
+        "text_b": null,
+        "label": "1"
+    },
+    "838": {
+        "text_a": "There tried to be intelligent.",
+        "text_b": null,
+        "label": "0"
+    },
+    "839": {
+        "text_a": "The King of Rock and Roll's records led to dancing.",
+        "text_b": null,
+        "label": "1"
+    },
+    "840": {
+        "text_a": "The witch went into the forest by vanishing.",
+        "text_b": null,
+        "label": "0"
+    },
+    "841": {
+        "text_a": "Carmen bought a dress.",
+        "text_b": null,
+        "label": "1"
+    },
+    "842": {
+        "text_a": "John thinks that Bill left.",
+        "text_b": null,
+        "label": "1"
+    },
+    "843": {
+        "text_a": "John came from Seoul.",
+        "text_b": null,
+        "label": "1"
+    },
+    "844": {
+        "text_a": "What do you think he is doing now?",
+        "text_b": null,
+        "label": "1"
+    },
+    "845": {
+        "text_a": "No one's mother saw himself.",
+        "text_b": null,
+        "label": "0"
+    },
+    "846": {
+        "text_a": "Felicia wrote a fine paper on Zapotec.",
+        "text_b": null,
+        "label": "1"
+    },
+    "847": {
+        "text_a": "Calvin will strike himself.",
+        "text_b": null,
+        "label": "1"
+    },
+    "848": {
+        "text_a": "Felicia threw the ball off the bench.",
+        "text_b": null,
+        "label": "1"
+    },
+    "849": {
+        "text_a": "Sally will give me more helpful advice than the advice I got from you.",
+        "text_b": null,
+        "label": "1"
+    },
+    "850": {
+        "text_a": "He used to go there very often.",
+        "text_b": null,
+        "label": "1"
+    },
+    "851": {
+        "text_a": "In the box put John the book.",
+        "text_b": null,
+        "label": "0"
+    },
+    "852": {
+        "text_a": "That's an obviously so good solution.",
+        "text_b": null,
+        "label": "0"
+    },
+    "853": {
+        "text_a": "What was that the Vikings ate a real surprise to you?",
+        "text_b": null,
+        "label": "0"
+    },
+    "854": {
+        "text_a": "Squirrels pelt easily with acorns.",
+        "text_b": null,
+        "label": "0"
+    },
+    "855": {
+        "text_a": "Look after yourself!",
+        "text_b": null,
+        "label": "1"
+    }
+}

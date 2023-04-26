@@ -1,0 +1,33 @@
+index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
+1016	main-captions	images	2014	0024	none	none	sheep standing in afield.	A sheep grazing in a field.	3.2
+2506	main-news	MSRpar	2012test	0095	none	none	She said he persisted and she eventually allowed him to fix her bike while she sat in the front seat of his car.	She said she eventually allowed him to fix her bike while she sat in his car, and they chatted.	3.875
+2073	main-forum	deft-forum	2014	0073	none	none	No extortion, no bribery, no money involved He's asking for money for his vote.	No extortion, no bribery, no money involved Only class E felonies.	3.8
+645	main-captions	MSRvid	2012train	0223	none	none	a group of people dancing	A group of men are dancing.	3.400
+19	main-captions	MSRvid	2012test	0029	none	none	The man is riding a horse.	A man is riding on a horse.	5.000
+1075	main-captions	images	2014	0102	none	none	A red moped parked on a sidewalk in front of graffiti.	The red scooter is sitting on the street in front of the building.	3.6
+414	main-captions	MSRvid	2012test	0624	none	none	A man is playing the guitar.	The man played his guitar with a friend.	3.200
+3344	main-news	MSRpar	2012train	0603	none	none	The witness, a 27-year-old Kosovan parking attendant with criminal convictions for dishonesty, was paid 10,000 by the News of the World.	The witness was a 27-year-old Kosovan parking attendant, who was paid by the News of the World, the court heard.	3.625
+2655	main-news	MSRpar	2012test	0324	none	none	A judge ordered the child placed in state custody Aug. 8.	On Aug. 8, Juvenile Court Judge Robert Yeates ordered that Parker be placed in protective custody.	3.200
+3884	main-news	headlines	2013	0169	none	none	Syrian forces launch new attacks	Syria forces launch Aleppo attack	3.4
+4002	main-news	headlines	2013	0314	none	none	Palestinians: 2 Gaza militants killed in Israeli airstrike on coastal strip	Officials: Gaza man killed in Israeli airstrike (AP)	3
+1571	main-captions	images	2015	0232	none	none	a boy jumps into the blue pool water.	The young boy is jumping into the pool on his belly.	3.40
+5639	main-news	headlines	2016	0751	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)	World Cup hit by new stadium death	Worker dies at World Cup stadium	3
+1978	main-captions	images	2015	1434	none	none	Two kids are walking on a path in the woods.	Two children walking down a path in the woods.	5.00
+1009	main-captions	images	2014	0012	none	none	A jockey riding a horse.	A jockey riding a horse in a pen.	3.8
+4364	main-news	headlines	2014	0020	none	none	100 killed in new Darfur tribal clashes	'9 Dead' in New Darfur Tribal Clash	2.8
+5034	main-news	headlines	2015	0205	none	none	Glasgow helicopter death toll rises to nine	Earthquake death toll rises to 260	0.60
+518	main-captions	MSRvid	2012train	0043	none	none	A man is playing a flute.	A man is playing a guitar.	2.000
+4313	main-news	headlines	2013	0706	none	none	Usain Bolt wins 200m – Steven Howard reaction	Facebook mobile gains drive revenue growth: reaction	0.2
+483	main-captions	MSRvid	2012test	0731	none	none	A cat is licking himself.	A man is slicing a white onion with a mandolin slicer.	0.000
+4337	main-news	headlines	2013	0737	none	none	Barack Obama admits US has 'more nuclear weapons than we need'	French gunman wants to 'die with weapons in hands'	0.4
+4728	main-news	headlines	2014	0471	none	none	UK confirms fears over Syria's chemical weapons	End 'near' for Syria's chemical weapons	1.4
+176	main-captions	MSRvid	2012test	0260	none	none	Three women are dancing.	The man is dancing.	1.600
+2141	main-forum	deft-forum	2014	0141	none	none	I've never accused him of over-milligraming, nothing.	I've never accused him of doctoring a baseball.	0.4
+334	main-captions	MSRvid	2012test	0499	none	none	A woman is slicing octopus.	A man is playing the guitar.	0.000
+4123	main-news	headlines	2013	0461	none	none	Yemen Suicide Blast, Drone Attack Kill At Least 30	Spate of Iraq attacks kill at least six	1
+1404	main-captions	images	2014	0600	none	none	A black and white photo of a love seat.	A black and white photo of a bicycle.	1.8
+555	main-captions	MSRvid	2012train	0091	none	none	A woman is cutting an onion.	A man is chopping an onion.	2.000
+699	main-captions	MSRvid	2012train	0293	none	none	A woman is dancing in the rain.	A woman is adding oil to a dish.	0.250
+3861	main-news	headlines	2013	0140	none	none	Erdogan and Putin talked in raised voice	Foreign militants killed in Somalia in strike on car	0
+4908	main-news	headlines	2014	0696	none	none	RF FM urges Syrian opposition to assist in immediate release of all foreigners captured in Syria	S Korea opposition candidate closes poll gap	0.6
+4225	main-news	headlines	2013	0593	none	none	Aust shares up 1% after interest rate cut	RBA delivers another rate cut	1

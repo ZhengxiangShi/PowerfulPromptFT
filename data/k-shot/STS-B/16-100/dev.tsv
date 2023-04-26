@@ -1,0 +1,33 @@
+index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
+4043	main-news	headlines	2013	0363	none	none	Several dead, 550 injured in Argentina train crash	49 feared dead in Buenos Aires train crash	1.4
+4338	main-news	headlines	2013	0738	none	none	2 rockets hit in the Eshkol region; no injuries	10 rockets in 20 minutes in Eshkol Regional Council	1.8
+119	main-captions	MSRvid	2012test	0176	none	none	A man is riding a bike.	A man is riding on a horse.	2.000
+5602	main-news	headlines	2016	0407	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)	Mandela's condition has 'improved'	Mandela's condition has 'worsened over past 48 hours'	1
+4082	main-news	headlines	2013	0411	none	none	Tsunami warning: No need for SA to panic	Tsunami warning after Aceh quake	2.2
+2313	main-forum	deft-forum	2014	0313	none	none	Ive watched kids play.	I like watching kids play.	2.2
+4959	main-news	headlines	2015	0007	none	none	North Korea shuns offer of talks	North Korea shoots 2 rockets	1.20
+344	main-captions	MSRvid	2012test	0513	none	none	A boy is pushing a van.	A person is slicing a tomato.	0.000
+4754	main-news	headlines	2014	0506	none	none	Rupee down 8 paise vs dollar in early trade	Rupee up 22 paise against dollar in early trade	1.8
+5468	main-news	headlines	2015	1294	none	none	Car bomb kills 20 in northwest Syria	Car bomb kills 40 in northwest Pakistan	1.20
+857	main-captions	MSRvid	2012train	0530	none	none	A group of girls are exiting a taxi.	A video clip of Rihanna leaving a taxi.	2.000
+640	main-captions	MSRvid	2012train	0213	none	none	A woman is cutting an apple.	A woman is cutting potato.	1.800
+786	main-captions	MSRvid	2012train	0426	none	none	A man is walking outside.	A man is dancing.	0.750
+4249	main-news	headlines	2013	0621	none	none	Profiles of Egypt's main presidential candidates	Second day of Egyptian presidential election	1.2
+5691	main-news	headlines	2016	1133	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)	Iran ends cooperation agreement with Pakistan	Iran, Tajikistan sign cooperation agreement	2
+294	main-captions	MSRvid	2012test	0440	none	none	A girl is playing a violin.	A baby is laughing and giggling.	0.250
+4434	main-news	headlines	2014	0110	none	none	Death toll climbs to 15 in Indonesia boat sinking	Indonesia: Death toll rises to 11 in Indonesia boat capsize	3.6
+2310	main-forum	deft-forum	2014	0310	none	none	That's what the data available shows.	That's what the historical record shows.	3.6
+3775	main-news	headlines	2013	0029	none	none	China's Cabinet promises to boost economy	China's Wen promises job creation	3.2
+2524	main-news	MSRpar	2012test	0123	none	none	Pines said he would convene the relevant party bodies within 10 days to discuss whether new elections would be held or whether a temporary leader would be appointed.	Mitzna and party secretary Ophir Pines agreed to convene party organizations within 10 days to discuss whether new primaries would be held or a temporary leader appointed.	3.600
+2977	main-news	MSRpar	2012train	0039	none	none	Boeing said the final agreement is expected to be signed during the next few weeks.	The Korean Air deal is expected to be finalized "in the next several weeks," Boeing spokesman Bob Saling said.	3.000
+4967	main-news	headlines	2015	0030	none	none	EU foreign ministers to discuss Syria arms embargo	EU foreign ministers seek solution on Syria arms	3.60
+4483	main-news	headlines	2014	0168	none	none	Ryanair reports record profits but warns growth likely to slow this year	Stansted: Ryanair reports 13% rise in annual profits but warns of slower growth this year	3.4
+2990	main-news	MSRpar	2012train	0055	none	none	Strayhorn said it was the first time in Texas history a comptroller had not certified the appropriations act.	In a news release Thursday, Strayhorn said this was the first time a comptroller rejected a budget.	3.200
+2224	main-forum	deft-forum	2014	0224	none	none	What are they trying to hide?	I then asked: What are they trying to hide?	3.6
+412	main-captions	MSRvid	2012test	0621	none	none	A man is holding up and talking about a gray You Tube T-shirt.	A man is showing a t shirt.	2.750
+815	main-captions	MSRvid	2012train	0475	none	none	A cat opens a drawer and climbs inside.	A big cat opens a plastic drawer with his paws and then hops inside.	3.750
+3179	main-news	MSRpar	2012train	0355	none	none	Besides Hampton and Newport News, the grant funds water testing in Yorktown, King George County, Norfolk and Virginia Beach.	The grant also funds beach testing in King George County, Norfolk and Virginia Beach.	3.000
+3187	main-news	MSRpar	2012train	0371	none	none	The rapper's lawyer, Mark Gann, didn't return calls for comment.	The 27-year-old rapper's attorney in the civil matter, Mark Gann, did not return calls for comment.	4.500
+807	main-captions	MSRvid	2012train	0460	none	none	A baby monkey scratches itself.	The monkey scratched his tummy.	3.250
+1212	main-captions	images	2014	0319	none	none	A cruise liner docked at a port.	A cruise ship docked at a coast.	3.2
+4670	main-news	headlines	2014	0395	none	none	19 hurt in New Orleans shooting	Police: 19 hurt in NOLA Mother's Day shooting	4.2

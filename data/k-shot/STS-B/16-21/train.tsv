@@ -1,0 +1,33 @@
+index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
+5434	main-news	headlines	2015	1202	none	none	Bangkok tense on Thai election eve	Bangladesh: Crackdown Escalates Ahead of Election	2.20
+4209	main-news	headlines	2013	0572	none	none	Yemen suicide attack kills 7 soldiers: officials	Afghan suicide car bomb kills at least seven: officials	1.6
+452	main-captions	MSRvid	2012test	0684	none	none	A woman is stirring two eggs in a glass bowl.	A young girl is singing on a stage.	0.000
+242	main-captions	MSRvid	2012test	0360	none	none	A woman is playing a game with a man.	A man is playing piano.	0.600
+5731	main-news	headlines	2016	1346	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)	Ebola UK: NHS staff 'panicked' after suspected Ebola cases	UK says investigating 2 suspected MERS cases	0
+1878	main-captions	images	2015	1159	none	none	A little boy is standing in front of a wedding party laughing.	A person standing on a stage in front of a seated crowd	1.80
+5708	main-news	headlines	2016	1234	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)	Nigeria admits slow response in Ebola case	US ramps up response to Ebola crisis	1
+2568	main-news	MSRpar	2012test	0199	none	none	The technology-laced Nasdaq Composite Index dipped 0.08 of a point to 1,646.	The technology-laced Nasdaq Composite Index <.IXIC> added 1.92 points, or 0.12 percent, at 1,647.94.	2.400
+86	main-captions	MSRvid	2012test	0125	none	none	A man swims underwater.	A woman is swimming underwater.	2.000
+4024	main-news	headlines	2013	0342	none	none	Polls open in Russian presidential election	Polls close in Senegal's presidential election	1.4
+1089	main-captions	images	2014	0125	none	none	An orange tabby cat sleeping on the sofa.	Man wearing a bib sitting on a green couch.	0
+3519	main-news	deft-news	2014	0069	none	none	abuja is the capital of	tskhinvali is the capital of georgia.	0.8
+1565	main-captions	images	2015	0223	none	none	A white and black dog is jumping into a pool.	A woman in a black apron is standing in front of a mirror.	0.00
+960	main-captions	MSRvid	2012train	0688	none	none	A woman cuts up a vegetable.	A woman is slicing egg plant.	2.250
+462	main-captions	MSRvid	2012test	0695	none	none	A boy takes off his sunglasses.	A boy is screaming.	0.500
+5720	main-news	headlines	2016	1290	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)	South Korea regrets North's refusal of talks	South Korea reports 14th Mers death, 12 new cases	1
+2837	main-news	MSRpar	2012test	0585	none	none	The priest, the Rev. John F. Johnston, 64, of 35th Avenue in Jackson Heights, was charged with aggravated harassment and criminal possession of a weapon.	The Rev. John Johnston, 64, was charged with aggravated harassment in the phone call case and with criminal possession of a weapon, according to a police statement.	3.750
+3333	main-news	MSRpar	2012train	0586	none	none	Hovan did not speak, but his lawyer, John Speranza, said his client "did not wake up that day" intending to hurt anyone.	Hovan "did not wake up that day" intending to hurt anyone, defense attorney John Speranza said.	4.500
+19	main-captions	MSRvid	2012test	0029	none	none	The man is riding a horse.	A man is riding on a horse.	5.000
+3773	main-news	headlines	2013	0026	none	none	Saudis to permit women to compete in Olympics	Saudi Women Allowed To Compete At Olympics	4.8
+3605	main-news	deft-news	2014	0155	none	none	russian president vladimir putin states that the decision to cease implementation of the conventional forces in europe treaty is a response to u.s. plans to establish missile defense sites in eastern europe and to nato's failure to ratify an amended version of the treaty.	russian president vladimir putin states that the decision is a response to u.s. plans to establish missile defense sites in eastern europe and to nato's failure to ratify an amended version of the treaty.	4.2
+2678	main-news	MSRpar	2012test	0359	none	none	Two of the Britons, Sandy Mitchell from Glasgow and Glasgow-born William Sampson, face the death penalty.	Sandy Mitchell, 44, from Kirkintilloch, Glasgow, and William Sampson, a British citizen born in Glasgow, face beheading in public.	3.250
+2961	main-news	MSRpar	2012train	0013	none	none	The Episcopal Church ''is alienating itself from the Anglican Communion,'' said the Very Rev. Peter Karanja, provost of the All Saints Cathedral, in Nairobi.	In Nairobi, the provost of All Saints Cathedral, the Very Reverend Peter Karanja, said the US Episcopal Church was alienating itself from the Anglican Communion.	5.000
+2734	main-news	MSRpar	2012test	0435	none	none	Chairman Michael Powell and FCC colleagues at the Wednesday hearing.	FCC chief Michael Powell presides over hearing Monday.	3.200
+2461	main-news	MSRpar	2012test	0021	none	none	An hour later, an Israeli helicopter fired missiles at a car in Gaza City, killing two Hamas officials and at least five other people.	An hour later Israeli attack helicopters rained missiles on a car in Gaza City, killing seven people, Palestinian sources said.	4.250
+5301	main-news	headlines	2015	0863	none	none	Google Unveils Prototype Self-Driving Car	Google Unveils Concept Self-Driving Car	5.00
+422	main-captions	MSRvid	2012test	0633	none	none	An explosion is booming in the desert.	A nuclear weapon explodes in a desert.	3.400
+3107	main-news	MSRpar	2012train	0239	none	none	In addition, the Justice Department said that the FBI has conducted ''fewer than 10'' investigations involving visits to mosques.	In addition, "fewer than 10" FBI offices have conducted investigations involving visits to Islamic mosques, the Justice Department said.	3.750
+5180	main-news	headlines	2015	0574	none	none	Gunmen Surround Libya's Foreign Ministry To Push Demands	Gunmen surround Libyan foreign ministry to push demands	5.00
+4513	main-news	headlines	2014	0203	none	none	Iran hopes nuclear talks will yield 'roadmap'	Iran Nuclear Talks in Geneva Spur High Hopes	4.4
+3584	main-news	deft-news	2014	0134	none	none	the indian government has prohibited direct or indirect export and import of all items, materials, goods and technology that could contribute to iran's enrichment-related, reprocessing or heavy water-related activities.	india has prohibited direct or indirect export and import of all items, materials, goods and technology that could contribute to iran's nuclear weapons delivery systems.	3.2
+5176	main-news	headlines	2015	0560	none	none	News of Terrorism and the Israeli-Palestinian Conflict (January 22 ‚Äď 28, 2014)	News of Terrorism and the Israeli-Palestinian Conflict (July 31 ‚Äď August 6, 2013)	3.00

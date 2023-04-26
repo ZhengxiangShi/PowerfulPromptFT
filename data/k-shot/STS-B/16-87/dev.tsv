@@ -1,0 +1,33 @@
+index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
+230	main-captions	MSRvid	2012test	0339	none	none	A woman is cutting meat into pieces.	A woman is cutting up some meat.	4.800
+2837	main-news	MSRpar	2012test	0585	none	none	The priest, the Rev. John F. Johnston, 64, of 35th Avenue in Jackson Heights, was charged with aggravated harassment and criminal possession of a weapon.	The Rev. John Johnston, 64, was charged with aggravated harassment in the phone call case and with criminal possession of a weapon, according to a police statement.	3.750
+4753	main-news	headlines	2014	0505	none	none	Nigeria lawmaker charged over alleged bribery	Nigerian MP charged with accepting $3m bribe	3.4
+3058	main-news	MSRpar	2012train	0152	none	none	Mayor Joe T. Parker said late Thursday that the three workers were two men and a woman who were inside the building when the first blast occurred.	The missing workers, two men and a woman, were inside the building when the first blast occurred, Mayor Joe T. Parker said.	4.400
+5594	main-news	headlines	2016	0314	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)	Chinese satellite spots large object in search area	Malaysia: Chinese satellite found object in ocean	3
+3900	main-news	headlines	2013	0186	none	none	Bangladesh Muslims torch Buddhist shrines, police say	Muslims torch Buddhist temples	3.6
+3564	main-news	deft-news	2014	0114	none	none	estonian officials stated that some of the cyber attacks that caused estonian government websites to shut down temporarily came from computers in the administration of russia including in the office of president vladimir putin.	officials in estonia including prime minister andrus ansip have claimed that some of the cyber attacks came from russian government computers including computers in the office of russian president vladimir putin.	3.8
+668	main-captions	MSRvid	2012train	0251	none	none	A man is rapidly chopping some mushrooms using a knife.	A person is quickly chopping mushrooms with a knife.	3.750
+2312	main-forum	deft-forum	2014	0312	none	none	I thought that was mostly just the Dutch.	In fact, it's just the Dutch.	2.6
+1546	main-captions	images	2015	0177	none	none	A man is standing in water near a waterfall.	A man wades in the water and watches a water fall.	3.40
+2197	main-forum	deft-forum	2014	0197	none	none	What do we get in return for doing the fighting for them?	------ ----------- What do we get in return for doing the fighting for them?	5
+5590	main-news	headlines	2016	0276	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)	Quake of 6.2 magnitude strikes off Indonesia's Sumatra - USGS	Earthquake of 6.9 magnitude strikes off Indonesia island	3
+211	main-captions	MSRvid	2012test	0311	none	none	A man is slicing a potato into pieces.	A man is cutting a potato.	4.200
+5079	main-news	headlines	2015	0308	none	none	China's Peace Ark departs for the Philippines Thursday	China sends aid team to Philippines	4.00
+2693	main-news	MSRpar	2012test	0379	none	none	"I´m very proud of the citizens of this state," Gov. John Baldacci said after votes from Tuesday´s referendum were counted.	"I'm very proud of the citizens of this state," said Gov. John Baldacci, a casino foe.	3.200
+4794	main-news	headlines	2014	0555	none	none	West hails Syria opposition vote to join peace talks	Syrian opposition to name delegation for talks	2.6
+3738	main-news	deft-news	2014	0288	none	none	the international atomic energy association stated that jordan has agreed to the additional measures.	international atomic energy association is the united nations watchdog.	2
+220	main-captions	MSRvid	2012test	0323	none	none	Someone is slicing an onion.	Someoen is peeling a potato.	1.000
+751	main-captions	MSRvid	2012train	0366	none	none	A man is dancing.	A rat is running.	0.000
+4249	main-news	headlines	2013	0621	none	none	Profiles of Egypt's main presidential candidates	Second day of Egyptian presidential election	1.2
+4891	main-news	headlines	2014	0674	none	none	Palestinians, Jordan coordinate stances on peace talks	Hamas senior denies Gaza, PA coordinated on peace talks	1.8
+813	main-captions	MSRvid	2012train	0472	none	none	The two dogs were in the pen.	The cowboy rode his horse in the desert.	0.000
+3035	main-news	MSRpar	2012train	0116	none	none	Get it all out," says Howard Davidowitz, chairman of Davidowitz & Associates, a national retail consulting firm based in New York City.	Innocent or not, "she's damaged goods," said Howard Davidowitz, chairman of Davidowitz & Associates, a national retail consulting firm in New York.	1.400
+3889	main-news	headlines	2013	0175	none	none	Second teenager charged with murder	Brother of EastEnders actress Gemma McCluskie is charged with her murder	1.4
+4760	main-news	headlines	2014	0515	none	none	China quake: Death toll rises	China flu death toll rises to six	1.4
+1692	main-captions	images	2015	0569	none	none	A grey hound is active in a grassy field.	A bunch of bikes racing on a track.	0.00
+2342	main-forum	deft-forum	2014	0342	none	none	The great thing about living here is there's space.	The bad thing is there's space.	1.8
+845	main-captions	MSRvid	2012train	0515	none	none	A man is peeling a potato.	A man is hiking.	0.500
+2351	main-forum	deft-forum	2014	0351	none	none	Classical Gas We are all vessels filled with many wonders.	Time of the Season by the Zombies We are all vessels filled with many wonders.	2.4
+1733	main-captions	images	2015	0705	none	none	A black and white dog swimming in the pool	A black and white dog running with something in his mouth.	2.00
+4313	main-news	headlines	2013	0706	none	none	Usain Bolt wins 200m – Steven Howard reaction	Facebook mobile gains drive revenue growth: reaction	0.2
+1902	main-captions	images	2015	1222	none	none	A woman holding a newspaper.	A man rollerblading on a metal bar.	0.00

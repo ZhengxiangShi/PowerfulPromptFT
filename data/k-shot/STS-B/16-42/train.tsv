@@ -1,0 +1,33 @@
+index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
+4034	main-news	headlines	2013	0352	none	none	More than 30 striking miners killed	More than 30 striking miners killed in South Africa	3.8
+2671	main-news	MSRpar	2012test	0349	none	none	The songs are on offer for 99 cents each, or $9.99 for an album.	The company will offer songs for 99 cents and albums for $9.95.	3.333
+3268	main-news	MSRpar	2012train	0490	none	none	In a not-too-subtle swipe at Dean, he predicted Americans would not elect a Democrat "who sounds an uncertain trumpet in these dangerous times."	They will not elect as president a Democrat who sounds an uncertain trumpet in these dangerous times."	3.500
+3250	main-news	MSRpar	2012train	0463	none	none	Still, he noted Miami must decide whether to seek ACC membership for the next school year by June 30 to adhere to Big East guidelines.	Still, he noted that Miami must decide whether to seek A.C.C. membership by June 30 to adhere to Big East guidelines.	4.600
+4350	main-news	headlines	2014	0004	none	none	Liquid ammonia leak kills 15 in Shanghai	Liquid ammonia leak kills at least 15 in Shanghai	4.6
+4165	main-news	headlines	2013	0517	none	none	Libyans begin handing in weapons	Libyans transfer weapons to army	3.2
+2458	main-news	MSRpar	2012test	0013	none	none	But butterflies exposed to an earlier light cycle, from 1am to 1pm, orientated themselves towards the south-east.	But butterflies housed under an earlier light cycle, 1 a.m. to 1 p.m., flew toward the southeast.	4.600
+132	main-captions	MSRvid	2012test	0195	none	none	A man and woman are driving down the street in a jeep.	A man and woman are driving down the road in an open air vehicle.	4.000
+1025	main-captions	images	2014	0040	none	none	A brown horse stands in a lush green field.	A brown horse in a green field.	3.8
+4639	main-news	headlines	2014	0359	none	none	Obama Praises Mandela 'Inspiration'	Obama hails Mandela's inspiration effect	4.8
+501	main-captions	MSRvid	2012train	0023	none	none	A woman is cutting an onion.	A woman is cutting through an onion.	5.000
+1103	main-captions	images	2014	0143	none	none	A boat with four sails is sailing on water.	Sail boat sailing on the water.	3.6
+1789	main-captions	images	2015	0871	none	none	The blonde woman is wearing a black, american flag, tartan cap.	A red-haired woman is wearing a black beret adorned with the American flag.	2.80
+3571	main-news	deft-news	2014	0121	none	none	the cfe is very important for european security.	the cfe is a cornerstone of european security.	5
+3765	main-news	headlines	2013	0017	none	none	Greece bond exchange the largest debt restructuring in history	Greece secures biggest debt deal in history	2.8
+393	main-captions	MSRvid	2012test	0595	none	none	A group of penguins is walking.	A large amount of penguins are heading to the ocean.	2.800
+5241	main-news	headlines	2015	0714	none	none	Sony Xperia Z2 and Nokia‚Äôs X series unveiled	Court orders political ban on Italy‚Äôs Berlusconi	0.00
+2201	main-forum	deft-forum	2014	0201	none	none	He's not wealthy because he's successful.	Why hate people because they are successful?	0.8
+4211	main-news	headlines	2013	0577	none	none	Three more US soldiers killed in Afghanistan	NATO Soldier Killed in Afghanistan	1.8
+1161	main-captions	images	2014	0232	none	none	A small white dog chews on a twig while lying on a wooden deck.	The white dog is laying on the wooden floor underneath the table.	1.6
+5333	main-news	headlines	2015	0940	none	none	Puerto Rican arrested for production of child pornography	Indian guru arrested on suspicion of rape	0.40
+1874	main-captions	images	2015	1149	none	none	A woman dressed in green is playing with her tan dog.	A tan dog licks a girls hand while laying down.	1.60
+239	main-captions	MSRvid	2012test	0355	none	none	The man is slicing a fish open.	A man is slicing a potato.	2.200
+787	main-captions	MSRvid	2012train	0428	none	none	A man dries his hands.	A woman fixes her hair.	0.250
+1964	main-captions	images	2015	1388	none	none	A skier wearing blue snow pants is flying through the air near a jump.	A skier stands on his hands in the snow in front of a movie camera.	1.40
+4716	main-news	headlines	2014	0456	none	none	Singapore stocks close 0.4% higher	Indian stocks open higher	1.8
+167	main-captions	MSRvid	2012test	0246	none	none	A woman is feeding a man.	A woman is mixing meat.	1.000
+5422	main-news	headlines	2015	1168	none	none	17:02 23 killed in Iraq car bombings	11 children killed in Syria bombings	0.60
+4997	main-news	headlines	2015	0104	none	none	The Note's Must-Reads for Friday May 24, 2013	The Note's Must-Reads for Tuesday October 29, 2013	2.00
+4459	main-news	headlines	2014	0141	none	none	Wave of bombings kills 15 in Iraq	Car bombs kill at least 49 in Iraq	2.2
+1379	main-captions	images	2014	0561	none	none	a close up of a small cactus in a pot.	a close up of a woman holding a white puppy.	0.8
+561	main-captions	MSRvid	2012train	0100	none	none	A man is talking with a woman.	A woman is walking with a dog.	0.500

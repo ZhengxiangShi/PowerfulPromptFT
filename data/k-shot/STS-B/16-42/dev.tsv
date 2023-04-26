@@ -1,0 +1,33 @@
+index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
+2787	main-news	MSRpar	2012test	0511	none	none	In turn SuSE will license Java 2 Standard Edition while also formalising an existing agreement to distribute Sun's Java Virtual Machine for running Java applications.	Nuremberg, Germany-based SuSE will license Sun's Java 2 Standard Edition (J2SE) and ship Sun's Java Virtual Machine across its Linux software line.	3.750
+4509	main-news	headlines	2014	0198	none	none	Bangladesh Opposition Leader Sentenced to Death for War Crimes	Bangladesh: Fugitive Sentenced to Death by War Crimes Tribunal	3.6
+2350	main-forum	deft-forum	2014	0350	none	none	For the trillionth time, I've never said rehabilitation doesn't work.	The point you quote should say "I never said rehabilitation could never work."	3.4
+3153	main-news	MSRpar	2012train	0302	none	none	Scientists believed Stardust trapped thousands of particles of dust.	Stardust was designed to gather thousands of dust particles streaming from Wild 2.	3.000
+4775	main-news	headlines	2014	0534	none	none	Man sets himself on fire on the National Mall	Man sets himself on fire at Washington's National Mall	4.8
+1860	main-captions	images	2015	1111	none	none	The black dog is walking through the tall grass.	The black dog is running through the grass.	3.80
+3523	main-news	deft-news	2014	0073	none	none	iran's nuclear projects are for peaceful purposes.	iran insists that its nuclear program is for peaceful purposes	3.6
+2584	main-news	MSRpar	2012test	0221	none	none	Shares of Guidant plummeted in trading both on and off the New York Stock Exchange before a news halt was imposed after midday.	Shares of Guidant were down 5.3 percent at $40.92 in afternoon trading on the New York Stock Exchange.	2.647
+4687	main-news	headlines	2014	0417	none	none	US Senate to meet as path out of fiscal impasse still elusive	US Senate has Rare Sunday Session Days Amid Fiscal Impasse	3.6
+1328	main-captions	images	2014	0484	none	none	A black cow and a brown cow stands in a plain in front of an uprooted tree.	A black cow and a brown cow standing in front of a small copse of trees in a field.	4.2
+2620	main-news	MSRpar	2012test	0272	none	none	"I don't know if the person I'm talking to now may end up being someone else at another time that may not follow the rules," Parrish said.	"I don't know whether the person I'm talking to now may end up being someone else," Parrish said.	3.400
+3518	main-news	deft-news	2014	0068	none	none	north korea has claimed nuclear ambitions and currently north korea is reported to have missiles aimed at japan.	north korea has boasted of nuclear ambitions and north korea is now reported to have missiles trained on	4
+3724	main-news	deft-news	2014	0274	none	none	at the state scientific center of applied microbiology there is every kind of deadly bacteria that was studied for use in the secret biological weapons program of the soviet union.	the state scientific center of applied microbiology has been working with western scientists to convert the complex into a biomedical manufacturing site.	3.4
+1383	main-captions	images	2014	0566	none	none	A black and white photo of a dilapidated wooden fence.	A black and white photo of an old wooden fence near a dirty street.	4.5
+3742	main-news	deft-news	2014	0292	none	none	saudi arabia is an absolute monarchy that has taken steps towards reform.	saudi arabia is an absolute monarchy and has a consultative council appointed by the government.	3.4
+3213	main-news	MSRpar	2012train	0412	none	none	GALLOWAY TOWNSHIP, N.J. Annika Sorenstam drew the crowds, Michelle Wie got the publicity but Angela Stanford took her first LPGA victory.	GALLOWAY TOWNSHIP, N.J. >> Annika Sorenstam and Michelle Wie drew the crowds, but Angela Stanford took her first LPGA victory.	4.000
+3793	main-news	headlines	2013	0053	none	none	Is Madeleine McCann Still Alive?	Reopen Madeleine case, police urge	0.6
+5342	main-news	headlines	2015	0960	none	none	Headlines in major Iranian newspapers on Dec 30	Headlines in major Iranian newspapers on July 6	2.20
+1168	main-captions	images	2014	0243	none	none	A buddha statue sits on a table with a wooden table runner.	A bird standing on top of a wooden fencepost.	0.4
+1755	main-captions	images	2015	0777	none	none	A black dog is running through the snow.	A black pit bull dog is running through the dirt.	2.20
+1047	main-captions	images	2014	0066	none	none	Black and white cat lying under bush.	The black and white cat with yellow eyes lounges in the dirt.	2.4
+5386	main-news	headlines	2015	1070	none	none	Chinese shares close higher Tuesday	Chinese stocks close lower Thursday	1.60
+783	main-captions	MSRvid	2012train	0423	none	none	A person is frying.	A person is peeling a potato.	1.200
+5075	main-news	headlines	2015	0298	none	none	Novice 'steered South Korea ferry'	South Korea ferry captain arrested	2.40
+4759	main-news	headlines	2014	0512	none	none	Brief clashes with police in Belfast	Mourners clash with police in Tunisia	1.2
+4949	main-news	headlines	2014	0743	none	none	Pak missions in UAE gear up for elections	Islamist parties in Egypt unite for elections	1.4
+4281	main-news	headlines	2013	0661	none	none	China stocks open higher Wednesday	US stocks open higher despite GDP miss	0.8
+439	main-captions	MSRvid	2012test	0659	none	none	A man lays on the ground and aims a rifle.	A man is spreading butter on a tortilla.	0.000
+4467	main-news	headlines	2014	0149	none	none	Snowden asks to stay in Russia	Snowden releases first Russia video	1.4
+1609	main-captions	images	2015	0344	none	none	Young boys running along the pavement.	A black dog running along the edge of the ocean.	0.50
+5691	main-news	headlines	2016	1133	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)	Iran ends cooperation agreement with Pakistan	Iran, Tajikistan sign cooperation agreement	2
+101	main-captions	MSRvid	2012test	0148	none	none	A woman is slicing a leek.	A woman is slicing ginger.	2.200

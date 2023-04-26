@@ -1,0 +1,33 @@
+index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
+4466	main-news	headlines	2014	0148	none	none	Murder claim over Diana's death New information which has been passed to the police relating to the deaths of Princess Diana and Dodi Fayed is thought to include an allegation that they were murdered	Diana and Fayed death info received new The deaths of Princess Diana and Dodi Al Fayed are being looked at again by police after they received information.	3.5
+1145	main-captions	images	2014	0210	none	none	A living room with a dining table in the background.	A living room with large sofas and a dining table in the background.	3.6
+3993	main-news	headlines	2013	0302	none	none	US pledge to rebuild Haiti not being met	US Pledge to Rebuild Haiti Not Being Met	5
+1365	main-captions	images	2014	0538	none	none	A white plane on the runway.	A white airplane is on a runway.	4.8
+4670	main-news	headlines	2014	0395	none	none	19 hurt in New Orleans shooting	Police: 19 hurt in NOLA Mother's Day shooting	4.2
+422	main-captions	MSRvid	2012test	0633	none	none	An explosion is booming in the desert.	A nuclear weapon explodes in a desert.	3.400
+4708	main-news	headlines	2014	0445	none	none	Thirty-Seven Dead In Italy Tour Bus Plunge	Thirty Dead In Italian Bus Plunge	3.2
+704	main-captions	MSRvid	2012train	0302	none	none	A chicken is pecking at a dead mouse.	A rooster pecks at a dead mouse.	3.600
+2540	main-news	MSRpar	2012test	0151	none	none	It's also a strategic win for Overture, given that Knight Ridder had the option of signing on Google's services.	It's also a strategic win for Overture, given that Knight Ridder had been using Google's advertising services.	4.000
+3420	main-news	MSRpar	2012train	0706	none	none	Blair's government included the charge that Saddam sought uranium from Niger in a September 2002 dossier setting out the case for military action.	Britain included the accusation in a September 2002 dossier setting out the case for war in Iraq.	3.000
+218	main-captions	MSRvid	2012test	0320	none	none	A person plays a keyboard.	Someone is playing a keyboard.	5.000
+1057	main-captions	images	2014	0080	none	none	A woman holding a small baby.	A smiling woman holding a small baby.	4
+2865	main-news	MSRpar	2012test	0631	none	none	About 120 potential jurors were being asked to complete a lengthy questionnaire.	The jurors were taken into the courtroom in groups of 40 and asked to fill out a questionnaire.	3.200
+4492	main-news	headlines	2014	0179	none	none	Obama meets with Mandela family	Obama meets Zuma and pays tribute to Mandela	3
+4080	main-news	headlines	2013	0409	none	none	Egyptians vote in landmark presidential election	Egyptians go to polls in historic election	4
+3643	main-news	deft-news	2014	0193	none	none	variants of the advanced light helicopter (alh) contain rocket launchers from belgium; rockets, guns and engines from france; brake systems from italy; fuel tanks and gearboxes from britain; self-protection equipment from a swedish company and have received crucial design development and engine control manufacturing from german companies.	the alh's arsenal includes-- rocket launchers from belgium rockets, guns and engines from france brake systems from italy fuel tanks and gearboxes from britain self-protection equipment from a swedish company.	3.6
+175	main-captions	MSRvid	2012test	0259	none	none	A man is folding paper.	A woman is slicing a pepper.	0.600
+5422	main-news	headlines	2015	1168	none	none	17:02 23 killed in Iraq car bombings	11 children killed in Syria bombings	0.60
+492	main-captions	MSRvid	2012test	0748	none	none	A badger is digging in the dirt.	A man is moving large rocks.	0.000
+869	main-captions	MSRvid	2012train	0549	none	none	A monkey is walking on a bed.	A man is riding a horse.	0.000
+5455	main-news	headlines	2015	1264	none	none	Philip leaves hospital after 11 days	Mandela leaves hospital after 10 days	1.80
+5403	main-news	headlines	2015	1125	none	none	Tokyo stocks close up 0.13pc	Tokyo stocks close 0.75pc down	1.80
+4128	main-news	headlines	2013	0468	none	none	Tropical Storm Isaac drenches Haiti, swipes Cuba	Tropical Storm Isaac threatens dam	1.4
+452	main-captions	MSRvid	2012test	0684	none	none	A woman is stirring two eggs in a glass bowl.	A young girl is singing on a stage.	0.000
+2368	main-forum	deft-forum	2014	0368	none	none	And Nugent was a complete fool to say what he said.	Natalie was a complete fool to have insulted their fan base.	0.6
+2418	main-forum	deft-forum	2014	0418	none	none	Originally Posted by jacko!	Originally Posted by IZZY!	1.2
+1185	main-captions	images	2014	0271	none	none	Two brown horses standing in grassy field.	Two men sailing in a small sailboat.	0
+2075	main-forum	deft-forum	2014	0075	none	none	Should I just tell her how I feel?	Should I just wait it out and see how it goes?	2.2
+5363	main-news	headlines	2015	1013	none	none	Three bomb attacks kill six soldiers, one civilian	School bomb attack kills two in southern Thailand	1.00
+4648	main-news	headlines	2014	0368	none	none	Iran says serious issues remain in nuclear talks	Iran vows to preserve "peaceful" nuclear program	1.6
+2093	main-forum	deft-forum	2014	0093	none	none	Got some Heine and coors light i started it last night xanis.	i started it last night xanis.	2
+715	main-captions	MSRvid	2012train	0315	none	none	A man is diving into a swimming pool.	A man is singing into a microphone.	0.667

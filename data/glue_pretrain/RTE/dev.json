@@ -1,0 +1,1247 @@
+{
+    "0": {
+        "text_a": "September 26 - Trial against former Italian Prime Minister Giulio Andreotti, accused of Mafia connections, begins.",
+        "text_b": "Andreotti collaborates with the Mafia.",
+        "label": "not_entailment"
+    },
+    "1": {
+        "text_a": "Only 16 women were elected to the 223-member parliament in 1995, and only 2 women hold ministerial posts.",
+        "text_b": "Women are poorly represented in parliament.",
+        "label": "entailment"
+    },
+    "2": {
+        "text_a": "Nicholas Burns stated in an exclusive interview for \"Utrinski Vesnik\" from Pristina that it would be disgraceful if Athens puts a veto on Macedonia's application for membership in the European Union and NATO.",
+        "text_b": "Greece and Macedonia are in dispute over name.",
+        "label": "not_entailment"
+    },
+    "3": {
+        "text_a": "Some 55 percent of the German public are opposed to the euro, less than 150 days before its introduction on January 1, 2002, a poll by research group Wahlen showed.",
+        "text_b": "The introduction of the euro has been opposed.",
+        "label": "entailment"
+    },
+    "4": {
+        "text_a": "The Security Council voted in 2002 to protect U.S. soldiers and personnel from other nations that haven't ratified the creation of the court through a treaty, and last June renewed the immunity for a year.",
+        "text_b": "Immunity for soldiers renewed.",
+        "label": "entailment"
+    },
+    "5": {
+        "text_a": "World health officials warned yesterday that West Africa and Central Africa were on the verge of the worst polio outbreak in years, stemming from the refusal of a single state in northern Nigeria to vaccinate children against the disease.",
+        "text_b": "African polio outbreak feared",
+        "label": "entailment"
+    },
+    "6": {
+        "text_a": "The president of the organization for the construction of the new Acropolis Museum, professor Dimitrios Pandermalis, announced that the Museum will be ready to operate as an exhibition center for archaeological treasures in 2007. In response to this statement, the Greek government re-issued demands regarding the subject of the Parthenon Marbles' restoration to Greece from the United Kingdom. After visiting the construction site, Greek Culture Minister George Voulgarakis reiterated yesterday that the new Athens museum would be ready to receive visitors by the end of next year.",
+        "text_b": "Demetrios Pandermalis is the president of the organization for the construction of the new Acropolis Museum.",
+        "label": "entailment"
+    },
+    "7": {
+        "text_a": "The results of numerous epidemiological studies and recent clinical trials provide consistent evidence that diets rich in fruits and vegetables can reduce the risk of chronic disease.",
+        "text_b": "Fruits and vegetables prevent osteoporosis.",
+        "label": "not_entailment"
+    },
+    "8": {
+        "text_a": "Startling new research into mobile phones claims they may reduce a man's sperm count by up to 30%.",
+        "text_b": "Male fertility may be affected by use of a mobile phones.",
+        "label": "entailment"
+    },
+    "9": {
+        "text_a": "A rocket attack killed two Israelis, including a 3-year-old boy.",
+        "text_b": "A three-year-old was killed in a rocket attack.",
+        "label": "entailment"
+    },
+    "10": {
+        "text_a": "Critics say last year's massive election victory was marred by fraud and corruption and that the pope must beware of allowing his visit, sponsored by the state, to be seen as legitimizing an authoritarian regime. The bishops in Angola twice have denounced the government for leaving its people mired in poverty while leaders enrich themselves off oil and diamonds.  Since he arrived on Friday from Cameroon, the pope has met with dos Santos and spoken out against corruption in Africa, the continent with the fastest-growing Catholic population in the world.",
+        "text_b": "The pope talked about corruption in Africa during his visit in Angola.",
+        "label": "entailment"
+    },
+    "11": {
+        "text_a": "The New Zealand Rugby League team (Kiwis) have been docked two competition points and hooker Nathan Fien barred from playing in the Gilette Rugby League Tri-Nations series. It comes after allegations of Fien's availability to play for the Kiwi's were exposed by a documentation of his birth certificate. At a hearing the Rugby League International Federation ruled that Fien was unable to play for the kiwis as he was Australian born. Instead of his grandmother a resident of New Zealand, it was in fact his great-grandmother. According to Rugby League International Federation chairman Colin Love, the Kiwis thought great-grandparents were as good as grandparents.",
+        "text_b": "Nathan Fien is a resident of Australia.",
+        "label": "not_entailment"
+    },
+    "12": {
+        "text_a": "The longest mission which these Salyuts supported was 63 days. The second generation Salyuts would fly missions much longer and would need to be resupplied from time to time; therefore, a supply ferry was mandatory to maintain a fully operational Salyut for two years with 40,000 pounds of fuel, food, clothing and water.",
+        "text_b": "Russians hold record for longest stay in space.",
+        "label": "not_entailment"
+    },
+    "13": {
+        "text_a": "Despite the turmoil in Israeli society, there is little doubt that Prime Minister Ariel Sharon will pull the nearly 9,000 Israeli settlers out of Gaza, now a closed military zone.",
+        "text_b": "9,000 settlers are employed by Israel.",
+        "label": "not_entailment"
+    },
+    "14": {
+        "text_a": "U.S. policy on drug trafficking is not consistent with the need to put an end and actively repress the consumption of drugs. The solution is not based on the destruction of a native plant, coca, in the continent, but on an active fight against the Colombian drug mafia, which has created a great money and crime empire in Colombia with powerful ramifications outside its borders.",
+        "text_b": "A native plant is destroyed by the Colombian drug mafia.",
+        "label": "not_entailment"
+    },
+    "15": {
+        "text_a": "Typhoon Chanchu, packing winds up to 170 kph (106 mph) and the strongest typhoon on record to enter the South China Sea in May, made landfall between the cities of Shantou and Xiamen and was advancing northeast, the Hong Kong Observatory said.",
+        "text_b": "A typhoon batters the Philippines.",
+        "label": "not_entailment"
+    },
+    "16": {
+        "text_a": "Some of the buildings around the city square in the Kota also date from colonial times, including the old city hall ( 1710 ), which has been restored and now serves as the municipal museum.",
+        "text_b": "In the Old City are the old port, the Dutch town hall, and a square.",
+        "label": "not_entailment"
+    },
+    "17": {
+        "text_a": "The PMDB is also the party led by Senator Jader Barbalho, the recently elected Senate President heaped with serious corruption charges.",
+        "text_b": "Jader Barbalho is the Senate President.",
+        "label": "entailment"
+    },
+    "18": {
+        "text_a": "If a Mexican approaches the border, he's assumed to be trying to illegally cross.",
+        "text_b": "Mexicans continue to illegally cross border",
+        "label": "not_entailment"
+    },
+    "19": {
+        "text_a": "Taiwan's former president Lee Teng-hui , the spiritual leader of the pro-independence TSU , and Premier Frank Hsieh , a member of the Democratic Progressive Party , are also taking part in the march.",
+        "text_b": "Chen Shui-bian is the new President of Taiwan.",
+        "label": "not_entailment"
+    },
+    "20": {
+        "text_a": "In 1979, the very first cases of AIDS appeared in New York. Cases of the disease that had never been seen prior to 1979, but is now considered more deadly than the bubonic plague, continued to surface in California and New York, almost exclusively in homosexual men.",
+        "text_b": "AIDS spreads in Africa.",
+        "label": "not_entailment"
+    },
+    "21": {
+        "text_a": "Police have arrested the owner of a mattress factory in Hay Hassini, Casablanca, Morocco which burned down in a disaster that claimed 55 lives. His son, who was the factory's manager, was also arrested. Those killed \u201535 of whom were women \u2015were trapped inside by locked fire exits, which were barricaded to stop theft during working hours. \"The people who died were either asphyxiated or burned,\" commented a firefighter. 17 were wounded. Moustapha Taouil of the Casablanca civil protection service said the blaze was triggered by an inadequatly maintained electric saw on the ground floor. The initial fire quickly engulfed all four storeys of the building.",
+        "text_b": "Casablanca is a Moroccan city.",
+        "label": "entailment"
+    },
+    "22": {
+        "text_a": "Last month, Menu Foods recalled all of its 60 million products of dry and wet dog and cat food after pets began to fall ill and in some cases died of kidney failure. \"Natural Balance, Pacoima, CA, is issuing a voluntary nationwide recall for all of its Venison dog products and the dry Venison cat food only, regardless of date codes. The recalled products include Venison and Brown Rice canned and bagged dog foods, Venison and Brown Rice dog treats, and Venison and Green Pea dry cat food. Recent laboratory results show that the products contain melamine. We believe the source of the melamine is a rice protein concentrate. Natural Balance has confirmed this morning that some production batches of these products may contain melamine,\" said a press released issued by Natural Balance.",
+        "text_b": "Natural Balance produces pet food.",
+        "label": "entailment"
+    },
+    "23": {
+        "text_a": "By buying local companies, Philip Morris and its subsidiary inherit informal trade contacts cultivated under Soviet rule that may help to smooth any future moves east.",
+        "text_b": "American tobacco companies used state tobacco monopoly liberalization.",
+        "label": "not_entailment"
+    },
+    "24": {
+        "text_a": "Three plays later, quarterback James Pinkney was sacked by Wake's Goryal Scales on third-and-one, forcing the team to punt.",
+        "text_b": "James Pinkney was an employee of Goryal Scales.",
+        "label": "not_entailment"
+    },
+    "25": {
+        "text_a": "The Bank of Italy, the ultimate arbiter of Italian banking mergers, has been engulfed by scandal since police wire taps revealed Fazio and his wife advised a local banker in a bid for Bank Antonveneta against Dutch bank ABN AMRO.",
+        "text_b": "A local banker bids for Bank Antonveneta.",
+        "label": "entailment"
+    },
+    "26": {
+        "text_a": "The Fifth Golden Rooster and Hundred Flowers Festival, to be held in southeast city of Kunming from October 9 to 13, will feature award-giving ceremonies, film exhibitions, as well as business exchanges.",
+        "text_b": "The Golden Palm has been awarded at the Cannes film Festival.",
+        "label": "not_entailment"
+    },
+    "27": {
+        "text_a": "It would help the economy by putting people back to work and more money in the hands of consumers.",
+        "text_b": "More money in the hands of consumers means more money can be spent to get the economy going.",
+        "label": "entailment"
+    },
+    "28": {
+        "text_a": "UNSCOM employs about 120 persons in Iraq, including 40 inspectors.",
+        "text_b": "Wilson uses some 120 persons in Iraq, 40 of whom are inspectors.",
+        "label": "not_entailment"
+    },
+    "29": {
+        "text_a": "Sources in Tegucigalpa reported that many Latin American countries are gearing up to face Hurricane \"Mitch\".",
+        "text_b": "South American countries are preparing for \"Mitch\"",
+        "label": "entailment"
+    },
+    "30": {
+        "text_a": "Rolf Ekeus the Swedish diplomat who chairs the commission said that while Baghdad had been cooperative in helping his panel establish procedures for monitoring and verifying the weapons destruction it is unclear how the Iraqis will react once the system is in operation .",
+        "text_b": "Rolf Ekeus is a Swedish diplomat.",
+        "label": "entailment"
+    },
+    "31": {
+        "text_a": "The 42-year-old actor was outside a movie theater in central London's Leicester Square, doing press interviews, Sunday, when a man squirted Cruise with a water pistol disguised as a microphone, London's Metropolitan Police said.",
+        "text_b": "Cruise was in Leicester Square when he was squirted with water.",
+        "label": "entailment"
+    },
+    "32": {
+        "text_a": "Io is 2,236 miles (3,598 kilometers) in diameter, slightly larger than the Earth's moon.",
+        "text_b": "The terrestrial moon has a diameter of 3746 kilometers.",
+        "label": "not_entailment"
+    },
+    "33": {
+        "text_a": "Oil prices this Tuesday rose sharply in New York and London reaching a record 42,33 US dollars per barrel, 2.45 US dollars more than last Friday.",
+        "text_b": "Oil prices this Tuesday surged to an all-time high in New York, at 42 dollars a barrel, 1.92 dollars a barrel more than last Friday.",
+        "label": "not_entailment"
+    },
+    "34": {
+        "text_a": "The New-York based company said, Tuesday, that profits totaled a record $946 million, or 75 cents a share, in the January-March period, up from $794 million, or 61 cents a share, a year earlier.",
+        "text_b": "Net income grew to $369 million, or 83 cents per share, in the January-March period from $291 million, or 65 cents per share, a year ago.",
+        "label": "not_entailment"
+    },
+    "35": {
+        "text_a": "Scripps Memorial Hospital Encinitas emergency room doctors and nurses treat two to three injured surfers.",
+        "text_b": "Scripps Hospital assists surfing accident victims.",
+        "label": "entailment"
+    },
+    "36": {
+        "text_a": "\"Do you remember Tsar Nikolai's era? When the Red Army came and when Vladimir Lenin died? Well I do. So take a guess how old I am.\" Meet Sohan Dosova - the newly found treasure of Kazakhstan. She is 130 years old, at least she is according to her documents. The Soviet passport issued in the early 1980s states that Sohan Dosova was born in the Karaganda region on 27 March 1879. Now after a new national census in Kazakhstan, she has been \"rediscovered\".",
+        "text_b": "Sohan Dosova is 130 years old.",
+        "label": "entailment"
+    },
+    "37": {
+        "text_a": "He had been hand-picked by John Sculley to take over Steve Jobs' position as head of the Macintosh group.",
+        "text_b": "John Sculley was an executive of the Macintosh group.",
+        "label": "entailment"
+    },
+    "38": {
+        "text_a": "For a western European country, the birth rate in Finland is high.",
+        "text_b": "Finland is the European country with the highest birth rate.",
+        "label": "not_entailment"
+    },
+    "39": {
+        "text_a": "There is no way Marlowe could legally leave Italy, especially after an arrest warrant has been issued for him by the authorities. Assisted by Zaleshoff, he succeeds in making his escape from Milan.",
+        "text_b": "Marlowe was arrested by Italian authorities.",
+        "label": "not_entailment"
+    },
+    "40": {
+        "text_a": "South African President Thabo Mbeki, the main mediator in C\u00f4te d'Ivoire's peace process, said on Sunday that Pretoria is heightening its intervention in the West African nation to pave the way for elections later this year.",
+        "text_b": "Pretoria is located in C\u00f4te d'Ivoire.",
+        "label": "not_entailment"
+    },
+    "41": {
+        "text_a": "Mayor Michael Bloomberg seemed ambivalent to the change, saying \"I would like to see it stay the Freedom Tower, but it's their building, and they don't need me dumping on it. If they could rent the whole thing by changing the name, I guess they're going to do that, and they probably, from a responsible point of view, should. From a patriotic point of view, is it going to make any difference?\".",
+        "text_b": "The Freedom Tower belongs to Michael Bloomberg.",
+        "label": "not_entailment"
+    },
+    "42": {
+        "text_a": "Babe Ruth's career total would have been 1 higher had that rule not been in effect in the early part of his career. The all-time career record for home runs in Major League Baseball is 755, held by Hank Aaron since 1974.",
+        "text_b": "Babe Ruth hit 755 home runs in his lifetime.",
+        "label": "not_entailment"
+    },
+    "43": {
+        "text_a": "Jack Straw, the Foreign Secretary, will meet his Brazilian counterpart, Celso Amorim, in London today.",
+        "text_b": "Celso Amorim resides in London.",
+        "label": "not_entailment"
+    },
+    "44": {
+        "text_a": "Four men were released on bail and were ordered to return to a police station Monday, when they may be charged with assault, a police spokesman said.",
+        "text_b": "All four men have been released on bail and are due to return to a police station.",
+        "label": "entailment"
+    },
+    "45": {
+        "text_a": "The father of an Oxnard teenager accused of gunning down a gay classmate who was romantically attracted to him has been found dead, Ventura County authorities said today.  Bill McInerney, 45, was found shortly before 8 a.m. in the living room of his Silver Strand home by a friend, said James Baroni, Ventura County's chief deputy medical examiner. The friend was supposed to drive him to a court hearing in his son's murder trial, Baroni said.  McInerney's 15-year-old son, Brandon, is accused of murder and a hate crime in the Feb. 12, 2008, shooting death of classmate Lawrence \"Larry\" King, 15. The two boys had been sparring in the days before the killing, allegedly because Larry had expressed a romantic interest in Brandon.",
+        "text_b": "Bill McInerney is accused of killing a gay teenager.",
+        "label": "not_entailment"
+    },
+    "46": {
+        "text_a": "At the police-training center in Waipahu, 17 members of the Honolulu Police Department's recruit class practiced driving on this training course on Friday. It will be the last recruit class for a while. Another class set to begin next week has been postponed and a second recruit class scheduled for July will also likely be put off to save money. \"We're going to just delay it for now until the budget situation clears up a little bit more,\" Honolulu Mayor Mufi Hannemann said.",
+        "text_b": "Mufi Hannemann is the mayor of Honolulu.",
+        "label": "entailment"
+    },
+    "47": {
+        "text_a": "Alan Mulally, Boeing's head of the unit, said at the start of the strike that it may cause delivery delays that would give Airbus SAS an advantage in what is the strongest commercial aircraft market in five years.",
+        "text_b": "Boeing is a subsidiary of Airbus SAS.",
+        "label": "not_entailment"
+    },
+    "48": {
+        "text_a": "The evidence for the continuing accretion of gas by the Milky Way involves high-velocity clouds, or HVCs--mysterious clumps of hydrogen, moving rapidly through the outer regions of the galaxy.",
+        "text_b": "High-velocity clouds are made up of hydrogen.",
+        "label": "entailment"
+    },
+    "49": {
+        "text_a": "The discovery of the body of a warrior - thought to have died in battle more than 2,000 years ago - could help archaeologists to pinpoint the site of an ancient holy site. The young warrior, aged about 30, with his spear, a sword, his belt and scabbard, stunned archaeologists who found his stone coffin.",
+        "text_b": "Altai ice maiden triggers major dispute.",
+        "label": "not_entailment"
+    },
+    "50": {
+        "text_a": "Named the Solomon R. Guggenheim Museum in honor of its founder, the building opened in 1959, drawing huge crowds and stirring considerable controversy.",
+        "text_b": "The Solomon R. Guggenheim Museum was opened in 1959.",
+        "label": "entailment"
+    },
+    "51": {
+        "text_a": "Clonaid scientist, Brigitte Boisselier, said the first human clone - a girl nicknamed Eve - was born on Thursday to an American mother.",
+        "text_b": "Brigitte Boisselier announced that a cloned baby had been born.",
+        "label": "entailment"
+    },
+    "52": {
+        "text_a": "Anna Politkovskaya was found shot dead on Saturday in a lift at her block of flats in the Russian capital, Moscow.",
+        "text_b": "Anna Politkovskaya was murdered.",
+        "label": "entailment"
+    },
+    "53": {
+        "text_a": "Another French daily newspaper talks about PixVillage.",
+        "text_b": "PixVillage is a French newspaper.",
+        "label": "not_entailment"
+    },
+    "54": {
+        "text_a": "C&D Technologies announced that it has closed the acquisition of Datel, Inc.",
+        "text_b": "Datel acquired C&D Technologies",
+        "label": "not_entailment"
+    },
+    "55": {
+        "text_a": "THE presidents of Honduras and El Salvador were set yesterday to begin two days of talks in San Salvador, amid continuing tension in border areas.",
+        "text_b": "Honduras and El Salvador entered a dispute over their borders.",
+        "label": "entailment"
+    },
+    "56": {
+        "text_a": "New Zealand's Qualifications Authority said Friday that it still strongly discourages students from using anything other than full English, but that credit will be given if the answer \"clearly shows the required understanding,\" even if it contains text-speak.",
+        "text_b": "Full English is recommended by New Zealand's Qualifications Authority.",
+        "label": "entailment"
+    },
+    "57": {
+        "text_a": "Democrat Culbert L. Olson, elected governor of California in 1938, was a loyal supporter of Roosevelt's New Deal.",
+        "text_b": "Democrat Culbert L. Olson was elected governor of California.",
+        "label": "entailment"
+    },
+    "58": {
+        "text_a": "Thai soldiers have been accused of crossing into Cambodia near a disputed temple where the two sides briefly exchanged fire last year. A spokesman for Cambodia's government said that about 100 troops crossed the border before retreating hours later. A Thai border commander denied there had been any troop movements and said there had been no increase in tension. Thailand and Cambodia both lay claim to the temple area. Despite several rounds of talks, a settlement remains elusive. Soldiers from the two countries have been stationed in the area since the clashes in July last year.",
+        "text_b": "Thai soldiers have shot two Cambodians crossing the border.",
+        "label": "not_entailment"
+    },
+    "59": {
+        "text_a": "After the SkyWest airliner touched down, the Airport Movement Area Safety System (AMASS) alerted and the air traffic controller transmitted \"Hold, Hold, Hold\" to the SkyWest flight crew in an attempt to stop the aircraft short of runway 1L. The SkyWest crew applied maximum braking that resulted in the airplane stopping in the middle of runway 1L. As this was occurring, the captain of Republic Airlines flight 4912 took control of the aircraft from the first officer, realized the aircraft was traveling too fast to stop, and initiated an immediate takeoff. According to the crew of SkyWest 5741, the Republic Airlines aircraft overflew theirs by 30 to 50 feet. The Federal Aviation Administration has categorized the incident as an operational error.",
+        "text_b": "NTSB is responsible for investigating transportation accidents in the United States.",
+        "label": "not_entailment"
+    },
+    "60": {
+        "text_a": "But most Israelis, including those sympathetic to the settlers' efforts to reclaim all the territory that was part of the biblical Land of Israel, reacted with horror to the Hebron killings and the subsequent violence.",
+        "text_b": "Hebron is located 20 miles south of Jerusalem.",
+        "label": "not_entailment"
+    },
+    "61": {
+        "text_a": "Although most Palestinians crossed into Egypt in order to shop and see relatives, Palestinian officials say that the recent border chaos enabled smugglers to bring drugs and weapons into Gaza.",
+        "text_b": "Egyptian and Palestinian border guards failed repeatedly in efforts to end the chaos and to close the border.",
+        "label": "not_entailment"
+    },
+    "62": {
+        "text_a": "Larry Estrada, whose father served in the Marine Corps in Vietnam, said he has always had a great appreciation for the military and wanted to do his part to help.",
+        "text_b": "Larry Estrada's father belonged to the Marine Corps.",
+        "label": "entailment"
+    },
+    "63": {
+        "text_a": "Other wildlife, such as gemsbok, zebras and springbok, are also dependent on the Ugab wetlands.",
+        "text_b": "Zebras depend on the Ugab wetlands.",
+        "label": "entailment"
+    },
+    "64": {
+        "text_a": "The watchdog International Atomic Energy Agency meets in Vienna on September 19.",
+        "text_b": "The International Atomic Energy Agency holds a meeting in Vienna.",
+        "label": "entailment"
+    },
+    "65": {
+        "text_a": "Samantha Orobator was arrested at Wattay Airport in Laos in August last year after she was allegedly caught with 680g of heroin. In Laos, smuggling more than 500g carries a mandatory death sentence. Reprieve lawyer Anna Morris flew into the country today fearing the trial would start before they were allowed to meet on Tuesday. According to the charity, Orobator was able to make contact with their office in London today and said she had been told the trial would start tomorrow morning. Reprieve said the Laotian authorities brought the trial forward in an apparent attempt to stop lawyers from intervening. Up until now the 20-year-old from south London has had no legal representation.",
+        "text_b": "Samantha Orobator is a heroin addicted.",
+        "label": "not_entailment"
+    },
+    "66": {
+        "text_a": "The agreement also stated a period of transition for the Baltic countries to last until December 31, 1999. This was a much shorter period than that which was assigned to the Central European countries (their transition periods were declared to be 10 years). Estonia declined the transition period, Latvia received a transition period of four years, and Lithuania received a transition period of six years.",
+        "text_b": "Baltic Countries join the EU.",
+        "label": "not_entailment"
+    },
+    "67": {
+        "text_a": "On Wednesday night people in the Bah\u00e7elievler district of Yenibosna in Istanbul, Turkey, claimed that they had seen a UFO flying in the sky, the Turkish newspaper Sabah reports. They said that the UFO was glowing with white lights and that it revolved around itself. Istanbul has had previous UFO incidents in the past, and in 2002, the Istanbul UFO Museum was opened to the public.",
+        "text_b": "A UFO might have been seen in Turkey.",
+        "label": "entailment"
+    },
+    "68": {
+        "text_a": "Acid attacks on women are carried out across Asia, with reports of such incidents from Burma, Cambodia, India and Pakistan.",
+        "text_b": "Acid attacks are carried out on women",
+        "label": "entailment"
+    },
+    "69": {
+        "text_a": "The soldier, James Barker, one of four American soldiers accused of raping the Iraqi girl and killing her family in the March 2006 incident, pleaded guilty on Wednesday to rape and murder in Fort Campbell, Kentucky.",
+        "text_b": "James Barker is accused of raping an Iraqi girl and killing her family.",
+        "label": "entailment"
+    },
+    "70": {
+        "text_a": "Akmal's colleague, Walter Murray of the Gulf Intelligence Monitor agreed, saying it would be foolish for the group to alienate potential supporters in the West and endanger the fruits of years of lobbying western governments with such attacks. Murray felt the bombers were more likely \"...loose cannons...\" in Iran's military or intelligence services. According to Iranian top national security official Ali Agha Mohammadi, \"[t]he terrorists of Ahvaz infiltrated Iran from the region of Basra\" in southern Iraq.\" He added that \"[t]hese terrorists have been trained under the umbrella of the Americans in Iraq.\"",
+        "text_b": "Walter Murray works with Akmal.",
+        "label": "entailment"
+    },
+    "71": {
+        "text_a": "The Pentagon is rejecting demands by Kyrgyzstan to pay for the past use of Manas air base, a key military facility for US aircraft flying missions to Afghanistan.",
+        "text_b": "Manas air base is located in Kyrgyzstan.",
+        "label": "entailment"
+    },
+    "72": {
+        "text_a": "Two Belgian soldiers, part of the UN peacekeeping force in Lebanon, were wounded Friday after stepping on a cluster bomb during a mine-clearing operation in southern Lebanon. One of the two soldiers stepped on a cluster bomb while clearing a minefield near the village of Majdel Silim. Their injuries were \"serious but not life-threatening\", a UNIFIL spokesman said, however this was denied by the cabinet of the Belgian Minister of Defence, Andr\u00e9 Flahaut. One soldier was wounded at the neck, the second was wounded at the foot.",
+        "text_b": "UNIFIL is affiliated with the Belgian Minister of Defence.",
+        "label": "not_entailment"
+    },
+    "73": {
+        "text_a": "Weinstock painstakingly reviewed dozens of studies for evidence of any link between sunscreen use and either an increase or decrease in melanoma.",
+        "text_b": "skin cancer numbers increase.",
+        "label": "not_entailment"
+    },
+    "74": {
+        "text_a": "In documents they filed with the U.S. District Court for the District of Columbia, government lawyers argued that three inmates who committed suicide last month by hanging themselves coordinated their actions by using attorney-client confidentiality to communicate with each other. Government officials said that among papers marked \"Attorney Client Privilege\" were instructions on how to tie knots and a classified memo on camp activities and inmate locations.",
+        "text_b": "Three people committed suicide in jail.",
+        "label": "entailment"
+    },
+    "75": {
+        "text_a": "Jose Padilla, who is a former Chicago gang member, was found by jury to be guilty of supporting Islamic terrorist groups abroad. The co-defendants, Adham Hassoun and Kifan Jayyousi were also found guilty on conspiracy to murder, kidnap, and maim people in a foreign country; conspiracy to provide material support for terrorists; and providing material support for terrorists.",
+        "text_b": "Jose Padilla did not support terrorism.",
+        "label": "not_entailment"
+    },
+    "76": {
+        "text_a": "Digging in a different trench Phoenix's robotic Arm connected with a hard surface that has scientists excited about the prospect of next uncovering an icy layer.  \"We have dug a trench and uncovered a hard layer at the same depth as the ice layer in our other trench,\" said Washington University robotic arm investigator for Phoenix, Ray Arvidson. The arm tried at least three times to penetrate the layer, but was unsuccessful. As a result the arm went into a holding pattern, awaiting its next commands.",
+        "text_b": "A robotic arm has been used for scientific discoveries.",
+        "label": "entailment"
+    },
+    "77": {
+        "text_a": "The fatal shooting of Steven Charles Jenkins, a terminally ill AIDS patient, by his friend Philip Lee Saylor at Cedars-Sinai Medical Center has again focused attention on the problems of death and dying in our society.",
+        "text_b": "Steven Jenkins was shot by a friend.",
+        "label": "entailment"
+    },
+    "78": {
+        "text_a": "Craig Conway, fired as PeopleSoft's chief executive officer before the company was bought by Oracle, was in England last week.",
+        "text_b": "Craig Conway works for Oracle.",
+        "label": "not_entailment"
+    },
+    "79": {
+        "text_a": "The organisation reports that it has recently seen a significant rise in the number of complaints and some of these involve modem connections being redirected, unbeknown to the users.",
+        "text_b": "Users were unaware of the modem connections' redirection.",
+        "label": "entailment"
+    },
+    "80": {
+        "text_a": "Someone said to be an informant within Abu Musab al-Zarqawi's trusted circle told Coalition forces the insurgent leader was going to have a meeting, it has emerged. This information appears to have led US F-16Cs to a safehouse in the Iraqi town of Hibhid, where the Jordanian and five others, including a child, were killed on Wednesday.",
+        "text_b": "Al-Zarquawi is dead.",
+        "label": "not_entailment"
+    },
+    "81": {
+        "text_a": "Contrast the Leitrim story with that of Rita Levi-Montalcini, an Italian Nobel laureate who turned 100 last Wednesday. She still attends for work every day at the European Brain Research Institute in Rome, which she founded. She was appointed a senator for life in 2001, and in 2006, aged 97, she attended the opening assembly of the newly elected senate. She takes part in discussions in the Upper House, and in 2004 defended the teaching of evolution in Italian schools. There is no record of her having claimed a day off because of festival commitments. Apparently she even manages to work right through the Rose of Tralee without lifting her head from her Petri dish.",
+        "text_b": "Rita Levi-Montalcini is a Nobel prize winner.",
+        "label": "entailment"
+    },
+    "82": {
+        "text_a": "Hudson's mother, Darnell Donerson, 57, and brother, Jason Hudson, 29 were found dead in Donerson's home on October 24 and the body of Hudson's 7-year-old nephew, Julian King was found four days later in a stolen SUV. A handgun police say is tied to the case was found nearby, but Reuters reports that Bond did not comment on any evidence in the case.",
+        "text_b": "Jason Hudson was Jennifer's brother.",
+        "label": "not_entailment"
+    },
+    "83": {
+        "text_a": "The dual citizenship debate has been a major distraction for the Weah campaign and many of his opponents have been secretly advocating against his presence in the race.",
+        "text_b": "Weah does business with his opponents.",
+        "label": "not_entailment"
+    },
+    "84": {
+        "text_a": "Martin was taken to New Orleans Ochsner Foundation Hospital, where nurse Jinny Resor said he was treated for dehydration.",
+        "text_b": "Martin works for the Ochsner Foundation Hospital.",
+        "label": "not_entailment"
+    },
+    "85": {
+        "text_a": "Environmental and social groups criticized the World Bank decision for shying from meaningful reform.",
+        "text_b": "The World Bank is criticized for its policies.",
+        "label": "entailment"
+    },
+    "86": {
+        "text_a": "In 1954, in a gesture of friendship to mark the 300th anniversary of Ukrainian union with Russia, Soviet Premier Nikita Khrushchev gave Crimea to Ukraine.",
+        "text_b": "Crimea became part of Ukraine in 1954.",
+        "label": "entailment"
+    },
+    "87": {
+        "text_a": "Microsoft Corp. and Intel Corp., on Monday, threw their weight behind the next-generation, HD DVD format being promoted by Toshiba Corp., in a blow to Sony Corp.'s Blu-ray format.",
+        "text_b": "Microsoft Corp. is a competitor of Toshiba Corp.",
+        "label": "not_entailment"
+    },
+    "88": {
+        "text_a": "The terror attacks, it was clear, had blasted a hole in the dam holding back Mumbai's reservoir of woes. While the protesters seemed to be reacting to a tragedy that had left at least 164 people dead and 308 injured, they were really venting the frustrations of having to cope with life in a city with an infrastructure so stretched that simply getting to work and back is an ordeal. At peak hour, the commuter trains - which carry six million people each day - are packed with up to 5,000 commuters, even though they're built for 1,800.",
+        "text_b": "The Mumbai attacks claimed at least 164 lives.",
+        "label": "entailment"
+    },
+    "89": {
+        "text_a": "During a IRS raid in Spring 2006, the government confiscated records, $42,000 in cash was seized, and that day Kent Hovind withdrew $70,000 from the Creation Science Evangelism account, half in a check; the other in cash. At the November trial, the young Earth creationist chose not to present a defense case. While the prosecution noted Hovind never filed income taxes with the government, others testified Hovind claimed he had \"beat\" the tax system, and employees said Hovind's evangelism was a business not a ministry.",
+        "text_b": "Hovind  was found guilty on 59 federal counts.",
+        "label": "not_entailment"
+    },
+    "90": {
+        "text_a": "Iraq would have been an unsafe, unsecure country that did pose a threat to the world.",
+        "text_b": "A threat to the world would have arisen from Iraq.",
+        "label": "entailment"
+    },
+    "91": {
+        "text_a": "Long-distance telephone company MCI Inc., on Friday, touted its $6.75 billion deal to be bought by Verizon Communications Inc., but said it would thoroughly analyze a revised $8 billion bid by Qwest Communications International Inc.",
+        "text_b": "MCI made no mention of its planned $6.7 billion agreement to be acquired by Verizon Communications in its release, Friday.",
+        "label": "not_entailment"
+    },
+    "92": {
+        "text_a": "The Salt Lake City 2002 Winter Olympics will take place from February 8th to February 24th 2002. The Paralympics will take place in Salt Lake City from March 7th to March 16th 2002.",
+        "text_b": "2002 Olympic Winter games take place in Salt Lake.",
+        "label": "entailment"
+    },
+    "93": {
+        "text_a": "In Jerusalem, the faithful celebrated Mass at the Church of the Holy Sepulcher, traditionally believed to mark the site where Jesus was crucified, buried and then resurrected. Brown-robed friars marched into the church to the sound of bagpipes, followed by clergymen in purple capes and others bearing crosses. And in the earthquake-ravaged central Italian city of L'Aquila, survivors gathered in makeshift chapels set up in tent cities that are housing some of the 55,000 people driven from their homes by Monday's 6.3-magnitude temblor.",
+        "text_b": "A 6.3-magnitude earthquake struck the center of Italy.",
+        "label": "entailment"
+    },
+    "94": {
+        "text_a": "The area is used by both nomadic herders, who follow their herds and stay in mobile cattle camps, and sedentary farmers. \"Attacks in this region could be the work of the (Tuareg rebel) Niger Justice Movement (MNJ) or they could be the work of Malian bandits,\" a security source, who declined to be identified, told Reuters. The rebels say that wealth generated from Niger's vast uranium deposits has not been distributed equally, and demand more autonomy for the Tuareg inhabitants of the northern Agadez region, where most of Niger's uranium is mined. At least 300 rebels and 80 government soldiers have been killed since the MNJ began its military campaign in early 2007.",
+        "text_b": "MNJ is a group of Malian bandits.",
+        "label": "not_entailment"
+    },
+    "95": {
+        "text_a": "In naming Guillermo Ortiz to be Mexico's finance minister, President Ernesto Zedillo appointed a friend, former colleague and, like himself, a U.S.-trained economist.",
+        "text_b": "Guillermo Ortiz was born in Mexico.",
+        "label": "not_entailment"
+    },
+    "96": {
+        "text_a": "It was like hitting the jackpot.",
+        "text_b": "It was like removing the lottery.",
+        "label": "not_entailment"
+    },
+    "97": {
+        "text_a": "For others, in the northern hemisphere, judgment may be a little off due to Seasonal Affective Disorder (SAD), which is often at its peak in the weeks following the shortest hours of daylight.",
+        "text_b": "Seasonal Affective Disorder (SAD) is a worldwide disorder.",
+        "label": "not_entailment"
+    },
+    "98": {
+        "text_a": "Tony Shalhoub won best actor in a comedy for \"Monk\", and James Spader won best actor in a drama for \"Boston Legal.\"",
+        "text_b": "James Spader won best actor for \"Boston Legal.\"",
+        "label": "entailment"
+    },
+    "99": {
+        "text_a": "Environment Minister David Anderson today announced his decision regarding the environmental assessment of the proposed Toulnustouc Hydroelectric Project.",
+        "text_b": "A hydroelectric project is proposed or is under construction.",
+        "label": "entailment"
+    },
+    "100": {
+        "text_a": "The revamped engine indexes more pages than before, can give direct answers to factual questions, and features tools to help people create detailed queries.",
+        "text_b": "The engine can answer specific queries directly.",
+        "label": "entailment"
+    },
+    "101": {
+        "text_a": "Everest Grand Circle Expedition, Nepal and Tibet. First circumambulation of Everest; trekking, skiing, and mountaineering. First American winter ascent of Pumori (elev. 23,422'). Immortalized in the book Everest Grand Circle. Ned Gillette, Jan Reynolds, Jim Bridwell, Steve McKinney, Craig Calonica and Rick Barker.",
+        "text_b": "A woman succeeds in climbing Everest solo.",
+        "label": "not_entailment"
+    },
+    "102": {
+        "text_a": "Martha Stewart, 64, is back, after serving five months in a West Virginia federal prison for lying about a 2001 stock sale.",
+        "text_b": "Martha Stewart was convicted of lying about a stock trade and served five months in prison.",
+        "label": "entailment"
+    },
+    "103": {
+        "text_a": "The book contains short stories by the famous Bulgarian writer, Nikolai Haitov.",
+        "text_b": "Nikolai Haitov is a writer.",
+        "label": "entailment"
+    },
+    "104": {
+        "text_a": "Hoping to loosen Microsoft's ironclad grip on the personal computer desktop, a tiny Seattle company will unveil an onscreen menu bar Monday that bypasses Windows with direct links to programs and the Internet.",
+        "text_b": "Microsoft Windows is an operating system.",
+        "label": "not_entailment"
+    },
+    "105": {
+        "text_a": "Military ties between the two countries have been governed officially by an arms embargo imposed by Britain on Argentina.",
+        "text_b": "Britain has maintained an arm embargo.",
+        "label": "entailment"
+    },
+    "106": {
+        "text_a": "PST Chittagong, Bangladesh-- Muhammad Yunus, Bangladesh's \"Banker to the Poor\" who provides loans to help millions of people fight poverty by starting businesses, has won the Nobel Peace Prize.",
+        "text_b": "Muhammad Yunus won the Nobel Prize for Peace.",
+        "label": "entailment"
+    },
+    "107": {
+        "text_a": "South Korean President Roh Moo-hyun Thursday asked the Board of Audit and Inspection (BAI) to investigate questions arising about the Foreign Ministry's response to the kidnapping of a South Korean in Iraq who was later killed by Muslim militants, according to Yonhap.",
+        "text_b": "Roh Moo-hyun asked the BAI to kidnap a South Korean in Iraq.",
+        "label": "not_entailment"
+    },
+    "108": {
+        "text_a": "\"It's a vote of confidence that the momentum is going to continue\", Doyle said . The momentum also appears to be moving south . The Mexican election is the latest indication that the free-market reforms that have swept Latin America during the past decade are gaining political acceptance . In Brazil , prices rose sharply , reacting to the Mexico vote and to new polls favorable to free-market presidential candidate Fernando Henrique Cardoso .",
+        "text_b": "Fernando Henrique Cardoso is a presidential candidate.",
+        "label": "entailment"
+    },
+    "109": {
+        "text_a": "Leftist guerrillas early Tuesday attacked a residential neighborhood in northern San Salvador where many government and military leaders have their homes.",
+        "text_b": "Guerrillas attacked government buildings.",
+        "label": "not_entailment"
+    },
+    "110": {
+        "text_a": "Practically every architect of international stature has vied for the bonanza of public and private projects -- including Renzo Piano, Peter Eisenman, Philip Johnson, Rafael Moneo, Helmut Jahn and Richard Rogers.",
+        "text_b": "Renzo Piano is an architect.",
+        "label": "entailment"
+    },
+    "111": {
+        "text_a": "Albert Sabin developed an oral, attenuated (live) vaccine, which, with Salk's discovery, brought polio under control.",
+        "text_b": "Polio is under control in the world.",
+        "label": "entailment"
+    },
+    "112": {
+        "text_a": "The founder of Thailand's \"yellow shirt\" protest movement that shut down Bangkok airports last year was shot and wounded in an assassination attempt Friday, just days after troops cracked down on rioting protesters from the rival, anti-government \"red shirt\" group. The government quickly moved to tighten security around Prime Minister Abhisit Vejjajiva, who said a state of emergency that was imposed Sunday in Bangkok would remain in place. Vehicles carrying Abhisit were attacked twice by red-shirted protesters in the run-up to this week's riots.",
+        "text_b": "The \"yellow\" and the \"red shirts\" are enemies.",
+        "label": "entailment"
+    },
+    "113": {
+        "text_a": "Hinostroza's children told police that four hooded individuals broke into the house and shot their mother after having insulted her.",
+        "text_b": "Hinostroza's children attaked their mother with a gun.",
+        "label": "not_entailment"
+    },
+    "114": {
+        "text_a": "The Bakun Hydroelectric Project (BHEP) comprises the construction of a 2,400MW hydroelectric dam, the transmission of its electricity, and the building of related infrastructure including access roads.",
+        "text_b": "A hydroelectric project is proposed or is under construction.",
+        "label": "entailment"
+    },
+    "115": {
+        "text_a": "Announced early Wednesday morning at Nokia's GoEvent, in a plan to expand the company's revenue, Finland-based company Nokia Inc. is developing a mobile phone similar to its rival iPhone, which will be available in the near future for Nokia customers. The phone is expected to be available by 2008. Most of the features are the same as the iPhone's. They include music, games, and many other features, even ones that the iPhone may not have. Ovi (in Finnish meaning \"Door\") will be the door for more than 2 million songs and games available for download on the new device. Users will be able to download wirelessly in their own home or anywhere there is access to a computer.",
+        "text_b": "Nokia is a company based in Finland.",
+        "label": "entailment"
+    },
+    "116": {
+        "text_a": "Two years ago Moore had a 5,300-pound monument showcasing the Ten Commandments placed in the rotunda of the Judicial Building, which is just down the street from the Capitol, and a federal judge ordered Moore to remove the plaque.",
+        "text_b": "Moore now has the commandments plaque posted in his office.",
+        "label": "not_entailment"
+    },
+    "117": {
+        "text_a": "In that aircraft accident, four people were killed: the pilot, who was wearing civilian clothes, and three other people who were wearing military uniforms.",
+        "text_b": "Four people were assassinated by the pilot.",
+        "label": "not_entailment"
+    },
+    "118": {
+        "text_a": "Police say that he was wearing orange overalls, a balaclava and a pistol when he stole $6300 from Cherrywood at about 3:15 p.m. Outside the bank Leatham was trying to hijack a car, he threatened an old man with his pistol, eventually stealing a black Mitsubishi Mirage. The car was later found abandoned around Fairmont Terrace in the Glenn Terrace or Ridge Street area.",
+        "text_b": "Children in New Zealand are forced to wear orange overalls.",
+        "label": "not_entailment"
+    },
+    "119": {
+        "text_a": "GUS on Friday disposed of its remaining home shopping business and last non-UK retail operation with the \u20ac390m (\u00a3265m) sale of the Dutch home shopping company, Wehkamp, to Industri Kapital, a private equity firm.",
+        "text_b": "Wehkamp cost \u20ac390m.",
+        "label": "entailment"
+    },
+    "120": {
+        "text_a": "In addition to establishing the electoral commission, the laws also concern nationality, a contentious issue since citizenship laws were tightened to exclude one of Gbagbo's main competitors from the 2000 presidential race, former prime minister Alassane Ouattara.",
+        "text_b": "Gbagbo is a competitor of Ouattara.",
+        "label": "entailment"
+    },
+    "121": {
+        "text_a": "Nevertheless, increased longevity and falling birth rates are major factors making many state pension systems across Europe unsustainable in their present form. Some member states have already introduced major reforms (e.g. Germany, France and Austria) others have continued to adapt their existing systems.",
+        "text_b": "National pension systems currently adopted in Europe are in difficulties.",
+        "label": "entailment"
+    },
+    "122": {
+        "text_a": "He is the professor of theater and drama at Loyola University and the director of Wilson's \"Two Trains Running,\" now onstage at Pegasus Players.",
+        "text_b": "\"Two Trains Running\" was written by Wilson.",
+        "label": "entailment"
+    },
+    "123": {
+        "text_a": "Neil Armstrong was an aviator in the Navy and was chosen with the second group of astronauts in 1962. Made seven flights in the X-15 program (1960 photo), reaching an altitude of 207,500 feet. Was backup command pilot for Gemini 5, command pilot for Gemini 8, backup command pilot for Gemini 11, backup commander for Apollo 8, and commander for Apollo 11: successfully completing the first moonwalk.",
+        "text_b": "Neil Armstrong was the first man who landed on the Moon.",
+        "label": "entailment"
+    },
+    "124": {
+        "text_a": "Scott Island was discovered and landed upon in December 1902 by Captain William Colbeck commander of the Morning, relief ship for Capt. Robert F. Scott's expedition.",
+        "text_b": "Capt. Scott reached Scott Island in December 1902.",
+        "label": "not_entailment"
+    },
+    "125": {
+        "text_a": "After giving nearly 5,000 people a second chance at life, doctors are celebrating the 25th anniversary of Britian's first heart transplant which was performed at Cambridgeshire's Papworth Hospital in 1979.",
+        "text_b": "The first heart transplant in Britian was performed in 1979.",
+        "label": "entailment"
+    },
+    "126": {
+        "text_a": "Microsoft Corp. and Intel Corp., on Monday, threw their weight behind the next-generation, HD DVD format being promoted by Toshiba Corp., in a blow to Sony Corp.'s Blu-ray format.",
+        "text_b": "Toshiba Corp. is a partner of Sony Corp.",
+        "label": "not_entailment"
+    },
+    "127": {
+        "text_a": "Venezuelan President Hugo Chavez has said he is prepared to receive detainees held by the US military at the Guantanamo Bay camp in Cuba. US President Barack Obama has ordered the closure of the controversial camp, in which around 240 inmates are held, by next year. Mr Chavez made his offer at a summit of South American and Arab countries.  It is highly unlikely the Pentagon will take him up on it, however, given the poor state of US ties with Venezuela.",
+        "text_b": "About 240 people are detained in the prison at Guantanamo.",
+        "label": "entailment"
+    },
+    "128": {
+        "text_a": "Seasonal affective disorder (SAD), a type of depression, is a debilitating problem that interferes with the quality of life of thousands of patients, especially during the fall, winter and early spring. This syndrome seems to be a worldwide phenomenon and occurs cross culturally, especially in countries far from the equator.",
+        "text_b": "Seasonal affective disorder (SAD) is a worldwide disorder.",
+        "label": "entailment"
+    },
+    "129": {
+        "text_a": "Over 100 people died in a massive stampede at the Chamunda Devi temple Jodhpur, in the western state of Rajasthan, India. 168 people were killed, with just as many injured. A temple wall collapsed, causing panic among ten of thousands of gathered Hindu worshippers who then began to run for safety, causing the stampede. Several are still believed to be trapped under the rubble.",
+        "text_b": "100 died at Chamunda Devi Temple.",
+        "label": "not_entailment"
+    },
+    "130": {
+        "text_a": "Located just three miles from Tullamore and only 45 minutes from the K Club, venue of the 2006 Ryder Cup, is Esker Hills, a genuine hidden gem and one of Irish golf's best kept secrets.",
+        "text_b": "The K Club will host the 2006 Ryder Cup.",
+        "label": "entailment"
+    },
+    "131": {
+        "text_a": "Two of Japan's biggest financial institutions on Friday announced plans to merge and create the world's largest bank, underscoring growing sentiments that the country's long troubled banking system has significantly improved.",
+        "text_b": "The merger of Japanese Banks creates the world's biggest bank.",
+        "label": "not_entailment"
+    },
+    "132": {
+        "text_a": "A run by Mr. Feinblatt would complicate what is already a three-person race because he most likely would have the support of the powerful mayor, who is running for a third term. Such a move could also irritate the outgoing district attorney, Robert M. Morgenthau, because it could hurt the chances of his preferred candidate, Cyrus R. Vance Jr. The relationship between Mr. Morgenthau and Mr. Bloomberg has been strained, in part because of the district attorney's investigation into the fire at the former Deutsche Bank building, which found that lapses by the city had contributed to the deaths of two firefighters.",
+        "text_b": "Feinblatt works for Bloomberg.",
+        "label": "not_entailment"
+    },
+    "133": {
+        "text_a": "According to the captain, the 1999 ferry was inspected by the Transport Ministry on December 9 and was certified to be in good condition. \"It seems that due to the weather conditions the chance is little, but we still hope,\" Djamal stated. With 17 crew members, and carrying 200 tons of cargo, the ill-fated PT Nur Budi owned and operated ferry sank so fast that the crew \"had no chance to ask the passengers to wear life jackets.\"",
+        "text_b": "An Indonesian ferry with 300 passengers sank.",
+        "label": "not_entailment"
+    },
+    "134": {
+        "text_a": "Then the most important part of the day begins as Muslims go to the mosque, their special place of worship.",
+        "text_b": "Muslims pray at the mosque.",
+        "label": "entailment"
+    },
+    "135": {
+        "text_a": "Drew Barrymore and Justin Long have been cast in a romantic comedy called Going the Distance. The New Line Cinema film is to be directed by documentary filmmaker Nanette Burstein, who made the films The Kid Stays in the Picture and American Teen. It will be Burstein's feature film debut. Going the Distance, written by New Line staffer Geoff LaTulippe, will focus on a couple dealing with challenges arising from a cross-country romance. Media reports did not indicate a release date had been determined.",
+        "text_b": "Drew Barrymore is in a relationship with Justin Long.",
+        "label": "not_entailment"
+    },
+    "136": {
+        "text_a": "Floods are one of Europe's most widespread disasters. Major flooding has occurred nearly every year somewhere on our continent during the last few decades.",
+        "text_b": "Flooding in Europe causes major economic losses.",
+        "label": "not_entailment"
+    },
+    "137": {
+        "text_a": "The Philippines has developed into a natural hub for U.S. contact center support with the use of English as the second national language and primary language of business.",
+        "text_b": "English is the primary language of the Philippines.",
+        "label": "not_entailment"
+    },
+    "138": {
+        "text_a": "A recent study found no evidence of seasonal affective disorder in Iceland where the sun does not appear for a long time in the winter.",
+        "text_b": "Seasonal affective disorder (SAD) is a worldwide disorder.",
+        "label": "not_entailment"
+    },
+    "139": {
+        "text_a": "Warrington-born Chris Evans denies he went wild, despite quitting Radio 1 in 1997 and later being sacked by Virgin Radio for not turning up for work during a five-day drinking binge.",
+        "text_b": "Virgin Radio was the employer of Chris Evans.",
+        "label": "entailment"
+    },
+    "140": {
+        "text_a": "Paul Hester, drummer for the popular 1980s band \"Crowded House\", was found dead in a Melbourne park Saturday. An ambulance service spokeswoman told the Sydney Morning Herald that ambulance officers arrived at Elsternwick Park on Saturday afternoon. They reported Hester had \"attempted suicide\" and suffered \"strangulation\". The 46-year-old-father-of-two was last seen walking his two dogs in the popular suburban park near his home on Friday evening. Hester had a history with bouts of depression, but seemed to be coping well following eight years of therapy. Friends told the The Daily Telegraph, however, that he suffered a recent turmoil in his love life. Firstly, there was the end of his romance with long-time partner and mother of his two daughters, and then a parting last December with New Zealand singer Kashan, whom he planned to wed in May.",
+        "text_b": "Kashan dated Paul Hester.",
+        "label": "entailment"
+    },
+    "141": {
+        "text_a": "Bomb-sniffing dogs were brought to Rodriguez's Mulberry St. apartment.",
+        "text_b": "Bomb-sniffing dogs were estimated at Rodriguez's Mulberry St. apartment.",
+        "label": "not_entailment"
+    },
+    "142": {
+        "text_a": "In more than 40 years as a broadcaster, right up to the last weeks before his death, Sir Clement established himself as one of Britain's most recognizable personalities. He cultivated a reputation as a grumpy, irritable but hugely entertaining performer. He won widespread public affection, particularly for his appearances since 1967 as a relentlessly inventive, assertive and witty panelist on the 30-minute radio show \"Just a Minute,\" in which contestants vie to speak on offbeat topics for 60 seconds without \"hesitation, repetition or deviation.\".",
+        "text_b": "Sir Clement Freud was the grandson of Sigmund Freud.",
+        "label": "not_entailment"
+    },
+    "143": {
+        "text_a": "Newspapers choke on rising paper costs and falling revenue.",
+        "text_b": "The cost of paper is rising.",
+        "label": "entailment"
+    },
+    "144": {
+        "text_a": "The release of its report led to calls for a complete ivory trade ban, and at the seventh conference in 1989, the African Elephant was moved to appendix one of the treaty.",
+        "text_b": "The ban on ivory trade has been effective in protecting the elephant from extinction.",
+        "label": "not_entailment"
+    },
+    "145": {
+        "text_a": "THE French justice minister who returned to work five days after having a baby, only to lose her job, launched a political comeback last week, letting it be known that she will run for mayor of Paris. Rachida Dati, 43, long seen as President Nicolas Sarkozy's favourite among the \"Sarko-zettes\" - his women ministers - lost his confidence and was ordered to leave the cabinet and instead run for the European parliament. She used the launch of her party's European election campaign to deny she was a Sarkozy creation and to add gravitas to the \"bling-bling\" image attached to her since she posed in a \u00a315,000 Christian Dior dress at a fashion gala.",
+        "text_b": "Rachida Dati has Moroccan origins.",
+        "label": "not_entailment"
+    },
+    "146": {
+        "text_a": "Bosnia's leading Muslim daily Dnevni Avaz writes excitedly about \"a sensational discovery\" of \"the first European pyramid\" in the central town of Visoko, just north of Sarajevo.",
+        "text_b": "Europe's first pyramid has been discovered near Sarajevo.",
+        "label": "entailment"
+    },
+    "147": {
+        "text_a": "GM has initiated criminal investigations in Germany and the US on the basis of their suspicions that Mr Lopez and his team stole confidential information before defecting to VW in March.",
+        "text_b": "Lopez took documents from GM to VW.",
+        "label": "not_entailment"
+    },
+    "148": {
+        "text_a": "\"These new results from Cassini may be the first evidence of gases originating either from the surface or possibly from the interior of Enceladus,\" said Dr. Michele Dougherty, principal investigator for the Cassini magnetometer and professor at Imperial College in London. Scientists have suspected Enceladus as geologically active and a possible source of Saturn's icy E ring. Enceladus is the most reflective object in the solar system, reflecting about 90 percent of the sunlight that hits it.",
+        "text_b": "Titan is the fifteenth of Saturn's known satellites.",
+        "label": "not_entailment"
+    },
+    "149": {
+        "text_a": "A male rabbit is called a buck and a female rabbit is called a doe, just like deer.",
+        "text_b": "A female rabbit is called a doe.",
+        "label": "entailment"
+    },
+    "150": {
+        "text_a": "Reaction Engines Limited, a firm in Oxford, United Kingdom, has recently been awarded \u20ac1 million by the European Space Agency. This money is to be used for development work for the firm's SABRE engines. The SABRE engines are for a reusable spaceplane that it is intended to be able to travel into space and return completely intact.",
+        "text_b": "The SABRE engines could be in service within 10 years.",
+        "label": "not_entailment"
+    },
+    "151": {
+        "text_a": "\"The aftershocks were less in the past two months, but they seem to be starting again. We are really worried about the fate of these islands,\" Smriti Kana Saha of Ranjat village, in the Middle Andaman Island, told Reuters by phone.",
+        "text_b": "Smriti Kana Saha is a resident of Ranjat village.",
+        "label": "entailment"
+    },
+    "152": {
+        "text_a": "Australian cheerleaders have been told today to cover up their midriffs under calls by Gymnastics Australia, as they believe it encourages girls to be self-conscious. Nerine Cooper, head of Gymnastics Australia, told the Sunday Telegraph, \"We don't want girls to feel under pressure to lose weight because of uniforms.\" Lisa Ince, head of Sydney Professional Dancers, disagreed. \"It's ridiculous really, if the thinking is that a midriff is offensive, then every dance school and athletics club would face the same restrictions,\" she said. The ban will affect about 150 teams registered with Gymnastics Australia.",
+        "text_b": "Lisa Ince is the chief of Sydney Professional Dancers.",
+        "label": "entailment"
+    },
+    "153": {
+        "text_a": "The iF awards are presented in Hanover, Germany, at the International Forum Design Hannover GMBH. There are a number of fields and disciplines which have their own awards.TAG Heuer's Monaco Calibre 360 LS Concept Chronograph has won the award in the Leisure/Lifestyle category. The timepiece was chosen from over 2,200 watches from 35 countries. This prestigious award was given to the company for the second time in two years. Last year the winner in the same category was TAG Heuer's Professional Golf Watch, designed together with Tiger Woods. This year's winning timepiece from TAG Heuer has a mechanical movement, which represents the first in the history of watchmaking to reach a precision of 1/100th of a second. The watch itself is to be seen at the iF design exhibition 2007, held in Hanover, from March 15 till August.",
+        "text_b": "Tiger Woods attends the iF design exhibition 2007.",
+        "label": "not_entailment"
+    },
+    "154": {
+        "text_a": "The BBC would like to apologise to both the Queen and Annie Leibovitz for any upset this may have caused.    - BBC statement The British Broadcasting Corporation (BBC) has apologised to Queen Elizabeth II and photographer, Annie Leibovitz, after a trailer for a documentary suggested she had walked out of a portrait sitting when the photographer asked her to remove her crown. The trailer shows a clip of the photographer telling the Queen, \"I think it will look better without the crown because the garter robe is so...\"",
+        "text_b": "Queen Elizabeth II is the head of the Commonwealth.",
+        "label": "not_entailment"
+    },
+    "155": {
+        "text_a": "The Duke of Edinburgh and I are very happy that the Prince of Wales and Mrs. Parker Bowles are to marry.",
+        "text_b": "I am delighted and wish The Prince of Wales and Parker Bowles a happy life.",
+        "label": "not_entailment"
+    },
+    "156": {
+        "text_a": "Last month, native bird trappers have snared and caught the Luzon Buttonquail (Turnix worcesteri or Worcester's buttonquail) in Dalton Pass, a cold and wind-swept bird passageway in the Caraballo Mountains, in Nueva Vizcaya, located between Cordillera Central and Sierra Madre mountain ranges, in Northern Luzon. The rare species, previously known to birders only through drawings based on dead museum specimens collected several decades ago, was identified in a documentary filmed in the Philippines called Bye-Bye Birdie.\"",
+        "text_b": "Luzon Buttonquail is a rare species from the Philippines.",
+        "label": "entailment"
+    },
+    "157": {
+        "text_a": "The Sector 15A locality in Noida, India, which is considered an elite enclave of rich industrialists, bureaucrats and professionals was in for a shock when Anant Gupta, son of Adobe India CEO Naresh Gupta was abducted in broad daylight by two unidentified men on Monday. The Noida police was subsequently notified but they were unable to locate the motor-cycle used by the kidnappers as no one was able to take down the registration number of the vehicle. A number of raiding teams have been formed by the police to track down the offenders.",
+        "text_b": "Anant Gupta was kidnapped in India.",
+        "label": "entailment"
+    },
+    "158": {
+        "text_a": "The maker of a promising ovarian cancer drug said, Friday, that he stopped enrolling women in a study because several patients developed gastrointestinal holes.",
+        "text_b": "A study of a promising cancer drug was stopped because of a serious side effect.",
+        "label": "entailment"
+    },
+    "159": {
+        "text_a": "ET confirms that actor Bruce Willis has married his girlfriend of a year, model/actress Emma Heming.  A small, private wedding ceremony took place on Saturday at Willis' home in Parrot Cay, Turks & Caicos, a rep said.  In attendance were the 54-year-old actor's first wife, Demi Moore, and her husband Ashton Kutcher, as well as his daughters Rumer, Scout, and Tallulah Belle. The couple plans to hold a civil ceremony when they return to California.",
+        "text_b": "Bruce Willis' wife is from California.",
+        "label": "not_entailment"
+    },
+    "160": {
+        "text_a": "Turkey is unlikely to become involved in, or allow U.S. forces to use Turkish territory in a Middle East war that does not threaten her territory directly.",
+        "text_b": "U.S. to use Turkish military bases.",
+        "label": "not_entailment"
+    },
+    "161": {
+        "text_a": "The automobile industry, led by General Motors and Ford, offered price discounts from June-August that temporarily boosted sales, but these discounts may have masked underlying weakness.",
+        "text_b": "Ford is part of the automobile industry.",
+        "label": "entailment"
+    },
+    "162": {
+        "text_a": "Health Minister Ben Bradshaw described the party's loss to the British National Party and to the Greens as a, \"terrible loss\" and blamed the economic conditions such as rising food and fuel costs as factors that dampens the Labour Party's appeal with the public. Conservative Party leader David Cameron countered Bradshaw's opinion by saying, Mr. Brown was to blame for the economic distress. Cameroon cited the Prime Minister's ten years of handling the economy as minister prior to assuming office when Tony Blair stepped down last year.",
+        "text_b": "Blair was Prime Minister before Brown.",
+        "label": "entailment"
+    },
+    "163": {
+        "text_a": "Cyprus, divided or not, joins the EU on the 1st of May.",
+        "text_b": "Cyprus was divided into two parts on May 1.",
+        "label": "not_entailment"
+    },
+    "164": {
+        "text_a": "Centre-left voters in Italy have chosen Romano Prodi as the candidate who will challenge Prime Minister Silvio Berlusconi in next year's election. The former European Commission president and Italian PM won 73.5% of votes, according to partial results of primaries.",
+        "text_b": "Romano Prodi wins Italian primaries.",
+        "label": "entailment"
+    },
+    "165": {
+        "text_a": "The greatest threat to life and property associated with a hurricane and tropical storm is storm surge.",
+        "text_b": "A tropical storm has caused significant property damage or loss of life.",
+        "label": "not_entailment"
+    },
+    "166": {
+        "text_a": "Her Majesty Queen Elizabeth II was born in London on April, 21 1926, first child of the Duke and Duchess of York, subsequently King George VI and Queen Elizabeth. Five weeks later she was christened in the chapel of Buckingham Palace and was given the names Elizabeth Alexandra Mary Windsor. The Queen ascended the throne on February 6, 1952 upon the death of her father, King George VI. Her Coronation followed on June 2, 1953.",
+        "text_b": "Elizabeth the Second's father was George VI.",
+        "label": "entailment"
+    },
+    "167": {
+        "text_a": "Oscar-winning director Franco Zeffirelli has been awarded an honorary knighthood for his \"valuable services to British performing arts\".",
+        "text_b": "Italian director is awarded an honorary Oscar.",
+        "label": "not_entailment"
+    },
+    "168": {
+        "text_a": "The 84-year-old pope was wheeled to a hospital window, and blessed the crowd by making the sign of the cross in clear gestures, as a Vatican photographer snapped pictures.",
+        "text_b": "The pope made the sign of the cross.",
+        "label": "entailment"
+    },
+    "169": {
+        "text_a": "US telecom giant AT&T reported a nearly 10 percent drop in quarterly net profit on Wednesday but beat expectations on a hefty increase in wireless revenue and improved performance by Apple's iPhone. Net profit fell 9.7 percent in the first quarter compared with the same quarter last year to 3.12 billion US dollars while revenue fell 0.6 percent to 30.6 billion US dollars, the company said in a statement. Earnings per share of 53 cents were better than the 48 cents per share expected by Wall Street analysts.",
+        "text_b": "iPhone is a product of AT&T's.",
+        "label": "not_entailment"
+    },
+    "170": {
+        "text_a": "Argentina announced that it has decided to lift financial and trade restrictions on imports from Britain that were imposed during the 1982 Falklands conflict.",
+        "text_b": "Argentina lifted restrictions on British imports.",
+        "label": "entailment"
+    },
+    "171": {
+        "text_a": "The ceasefire declaration by the Liberation Tigers of Tamil Eelam (LTTE) and its immediate rejection by the government have emphasised the starkness of the situation in which the guerrilla group finds itself, 37 years after first taking up arms for the cause of a Tamil homeland and 26 years after the start of all-out war. Masters of communication, the Tigers were quick to disseminate their message to journalists all over Colombo and overseas, too. But to many it seemed like a cry of desperation from the losing side.",
+        "text_b": "The Liberation Tigers of Tamil Eelam is a guerrilla group.",
+        "label": "entailment"
+    },
+    "172": {
+        "text_a": "Two men have been charged with starting the Zaca Fire, the second-largest wildfire in the history of California. The fire is continuing to burn through the Los Padres National Forest, and has consumed a total of 240,000 acres, having started on July 4. However, the fire is now under control, and is expected to be contained by September 4. Jose Jesus Cabrera of Santa Ynez, 38, Santiago Iniguez Cervantes of Santa Maria, 46, and the company of Rancho La Laguna, whom they worked for, have all been charged with six counts of felony in relation to starting the fire.",
+        "text_b": "Cabrera and Cervantes are accused of having caused the Zaca Fire.",
+        "label": "entailment"
+    },
+    "173": {
+        "text_a": "U.S. District Judge Leonie Brinkema accepted would-be hijacker Zacarias Moussaoui's guilty pleas on six charges of conspiracy laid against him for his plotting to participate in the Sept. 11 attacks . Moussaoui, who had to be restrained at one point during the trial in an Alexandria, Virginia courthouse, was polite and quiet during the day's appearance.",
+        "text_b": "Moussaoui participated in the Sept. 11 attacks.",
+        "label": "not_entailment"
+    },
+    "174": {
+        "text_a": "Canada rig count at 148, down 46 compared to last week's and down 27 compared to last year's.",
+        "text_b": "Last year, the tally was 148",
+        "label": "not_entailment"
+    },
+    "175": {
+        "text_a": "According to the Spanish daily, this type of bacterium is prevalent in hospitals throughout the world, but the incidence of infection in Madrid hospitals is lower than the Spanish average. The head of the Neonatal Unit at 12 de Octubre Hospital, Carmen Pay's, explained that the bacterium is very adaptable \"and keeps on learning\". The father of the dead baby, an Ecuadorian named Angel Marcelo, was quoted as saying that the progress of the baby had at first been \"tremendous\", and that he had even been taken off the respirator, but that a few days later he began to cough up blood, dying soon afterwards.",
+        "text_b": "The Spanish daily is set in Madrid.",
+        "label": "not_entailment"
+    },
+    "176": {
+        "text_a": "The nation got its long-awaited first look at Bo in action as the Obamas showed off the family's new dog on the South Lawn. First lady Michelle Obama did most of the walking while the 6-month-old Portuguese water dog scampered about. Then daughter Malia took a turn, and Bo took off running. The girls grinned as they played with Bo. Sasha clapped her hands at one point, calling for the dog's attention. Plainly pleased, the president said, \"He's a star. He's got star quality.\"",
+        "text_b": "Obama's dog is called Bo.",
+        "label": "entailment"
+    },
+    "177": {
+        "text_a": "G & H Restaurant Specialties has not released a statement regarding the violations, but the corporate offices in Louisville, Kentucky for KFC said, \"our franchisee has finalized a plan for some structural repairs... The units will be temporarily closed while these building maintenance issues are addressed. [They will be] re-opened as soon as the repairs are complete.\" The health department also gave violations out to the East Delevan store for failing to maintain a clean floor throughout the restaurant and for not stopping food from becoming contaminated. Several rat traps were also found inside the storage cooler and around the kitchen area, but the establishment was \"not free of rodents,\" said Commissioner of the Erie County Health Department, Dr. Anthony Billittier.",
+        "text_b": "Louisville is in Kentucky.",
+        "label": "entailment"
+    },
+    "178": {
+        "text_a": "Passions surrounding Germany's final match at the Euro 2004 soccer championships turned violent when a woman stabbed her partner in the head because she didn't want to watch the game on television.",
+        "text_b": "A woman passionately wanted to watch the soccer championship.",
+        "label": "not_entailment"
+    },
+    "179": {
+        "text_a": "Oracle had fought to keep the forms from being released",
+        "text_b": "Oracle released a confidential document",
+        "label": "not_entailment"
+    },
+    "180": {
+        "text_a": "One year on since he was elected to office as President of Paraguay, Fernando Lugo is making headlines in the country he leads, but for all the wrong reasons. Newspapers and TV programmes have been dominated by stories of women coming forward to claim they had a child with the former Catholic bishop. This \"political soap opera\", complained one of these reports, is \"paralysing the government\".  Three women have made allegations so far and there were reports in the Paraguay media that there may be more claims to come.",
+        "text_b": "Fernando Lugo was a Catholic bishop.",
+        "label": "entailment"
+    },
+    "181": {
+        "text_a": "A former FBI special agent, Rowley, and Becky Lourey, whose son was killed in Iraq, will leave for Texas on Thursday and camp at the site for a few days.",
+        "text_b": "Rowley and Lourey are relatives.",
+        "label": "not_entailment"
+    },
+    "182": {
+        "text_a": "The Italian air transport sector features many typical causes of industrial conflict, including: the troubled economic situation of Alitalia, Italy's flagship airline (IT0404304F); a set of specific factors concerning services delivery; and a marked fragmentation of trade union representation.",
+        "text_b": "Italian flight assistants go on strike.",
+        "label": "not_entailment"
+    },
+    "183": {
+        "text_a": "Epiphyte is the name applied to the class of plants which typically do not root in the soil but, rather, attach themselves to trees or other tall objects where they can obtain light and moisture.",
+        "text_b": "Plants are grown in substances other than soil.",
+        "label": "entailment"
+    },
+    "184": {
+        "text_a": "Nick Leeson was jailed for fraud following the collapse of Barings Bank in 1995. He had run up losses of 850m on the Far East stock markets.",
+        "text_b": "Nick Leeson was arrested for collapse of Barings Bank PLC.",
+        "label": "entailment"
+    },
+    "185": {
+        "text_a": "Nepali mountaineer Ang Rita Sherpa last week broke his own record of the number of climbing Mt. Everest.",
+        "text_b": "Alison Hargreaves is the first woman to have made the climb up the Everest with no artificial oxygen.",
+        "label": "not_entailment"
+    },
+    "186": {
+        "text_a": "The industrial espionage case involving GM and VW began with the hiring of Jos Ignacio Lopez, an employee of GM subsidiary Adam Opel, by VW as production director.",
+        "text_b": "There was an industrial espionage case involving GM and VW.",
+        "label": "entailment"
+    },
+    "187": {
+        "text_a": "Nigeria's Kano State and US drugs firm Pfizer have agreed to settle a multi-million dollar lawsuit out of court, lawyers for both sides say. Pfizer has been accused of killing 11 children and injuring 181 others when an antibiotic was tested on them during a meningitis epidemic in 1996. The company denies the claims, saying they were victims of the outbreak. The Kano State lawyer told the BBC compensation would be paid to victims, but figures could not yet be disclosed. Barrister Aliyu Umar said money would also be given to a local hospital.",
+        "text_b": "Pfizer is accused of murdering 11 children.",
+        "label": "entailment"
+    },
+    "188": {
+        "text_a": "Rozsa ( Rose ) Hill , the third hill near the river, lies north of Castle Hill.",
+        "text_b": "Rozsa Hill lies north of Castle Hill.",
+        "label": "entailment"
+    },
+    "189": {
+        "text_a": "I recently took a round trip from Abuja to Yola, the capital of Adamawa State and back to Abuja, with a fourteen-seater bus.",
+        "text_b": "Abuja is located in Adamawa State.",
+        "label": "not_entailment"
+    },
+    "190": {
+        "text_a": "In a statement to reporters, Parker called the spilt with Gap a mutual decision, and walks away $38 million richer and recently signed a 2-year deal with former employer HBO to develop future programming for the network. Parker is also scheduled to appear in two upcoming comedy films, a movie adaptation of the Comedy Central series, Strangers with Candy, as well as The Family Stone, costarring Diane Keaton and Claire Danes.",
+        "text_b": "Claire Danes is an actress who played in \"Stardust\".",
+        "label": "not_entailment"
+    },
+    "191": {
+        "text_a": "Bogota, 4 May 88 - The dissemination of a document questioning Colombia's oil policy, is reportedly the aim of the publicity stunt carried out by the pro-Castro Army Of National Liberation, which kidnapped several honorary consuls, newsmen, and political leaders.",
+        "text_b": "Several honorary consuls were kidnapped on 4 May 88.",
+        "label": "not_entailment"
+    },
+    "192": {
+        "text_a": "The Scots pioneered the idea of a single currency, when they shared the Ecu with France during the Auld Alliance, and therefore they are certain to join in the monetary union process again when the EU states amalgamate their currencies under Maastricht.",
+        "text_b": "France still maintains Ecu is the best denomination for the Maastricht single-currency..",
+        "label": "not_entailment"
+    },
+    "193": {
+        "text_a": "Heavy rain flooded parts of the site, with dozens of tents lost under water, while lightning strikes affected the stages and knocked out power lines.",
+        "text_b": "100 tents had been washed away.",
+        "label": "not_entailment"
+    },
+    "194": {
+        "text_a": "Rose made his first start since joining the Knicks 10 games ago, replacing Thomas, who has an infected elbow.",
+        "text_b": "Rose joined the Knicks 10 games ago.",
+        "label": "entailment"
+    },
+    "195": {
+        "text_a": "Thousands of troops are being deployed to secure the city of Bogor, where Bush is to hold talks with his Indonesian counterpart, Susilo Bambang Yudhoyono.",
+        "text_b": "Bush is scheduled to visit the city of Bogor.",
+        "label": "entailment"
+    },
+    "196": {
+        "text_a": "Money raised from the sale will go into a trust for Hepburn's family.",
+        "text_b": "Proceeds go to Hepburn's family.",
+        "label": "entailment"
+    },
+    "197": {
+        "text_a": "Two young soldiers have killed themselves after falling ill with suspected Gulf War Syndrome, following the latest conflict in Iraq.",
+        "text_b": "Many US soldiers developed Gulf War Syndrome after the Gulf War.",
+        "label": "not_entailment"
+    },
+    "198": {
+        "text_a": "Mexico City (Mexico), 12 Jan 90 (DPA) - Salvadoran Social Democratic politician Hector Oqueli Colindres was kidnapped today, in Guatemala city, along with Guatemalan Social Democratic leader Gilda Flores, his party, in Mexico City, reported.",
+        "text_b": "Hector Oqueli Colindres comes from El Salvador.",
+        "label": "entailment"
+    },
+    "199": {
+        "text_a": "Medium-size black holes actually do exist, according to the latest findings from NASA's Hubble Space Telescope, but scientists had to look in some unexpected places to find them. The previously undiscovered black holes provide an important link that sheds light on the way in which black holes grow.",
+        "text_b": "Hubble discovers black holes.",
+        "label": "entailment"
+    },
+    "200": {
+        "text_a": "The weapon Inspectors have had since 1991 to peacefully disarm Iraq of its weapons of mass destruction.",
+        "text_b": "Weapons inspectors will go back to Iraq.",
+        "label": "not_entailment"
+    },
+    "201": {
+        "text_a": "The official religion is Theravada Buddhism, which is also practiced in neighboring Laos, Thailand, Burma and Sri Lanka.",
+        "text_b": "The official religion of Thailand is Theravada Buddhism.",
+        "label": "not_entailment"
+    },
+    "202": {
+        "text_a": "Vinicio Cerezo tacitly blamed president Alfredo Cristiani's administration for the crisis which prevails in the country as a result of the Farabundo Marti National Liberation Front's (FMLN) offensive. Meanwhile, Morales Ehrlich blamed the extreme- right, death-squads of El Salvador for the assassination of six Jesuit priests at the Central American University.",
+        "text_b": "Farabundo Marti National Liberation Front is suspected of the assassination of six Jesuit priests.",
+        "label": "not_entailment"
+    },
+    "203": {
+        "text_a": "Earlier this year reporter Judith Miller was jailed for refusing to name the US-government source who identified a member of the US Central Intelligence Agency (CIA), Valerie Plame.",
+        "text_b": "Judith Miller is a member of CIA.",
+        "label": "not_entailment"
+    },
+    "204": {
+        "text_a": "Nigeria has been the culprit so far, preventing the world from being completely polio-free.",
+        "text_b": "Polio is under control in the world.",
+        "label": "not_entailment"
+    },
+    "205": {
+        "text_a": "According to an Israeli official, the murders of Galan, a high-ranking police officer, and a judge last week were probably carried out by an Israeli mercenary paid by the Medellin cartel - the world's most powerful drug-trafficking mafia - which has set up paramilitary squads accused of hundreds of individual murders and massacres against political and labor leaders, as well as peasants and patriotic union leftist militants in different parts of the country.",
+        "text_b": "Political and labor leaders were killed by patriotic union leftist militants.",
+        "label": "not_entailment"
+    },
+    "206": {
+        "text_a": "In the modest backyard of Rosemarie Morgan's 1890-era house, about a half-mile from Yale University, there is a small Buddha, azalea and forsythia, Japanese cherry and plum trees, and an Amish-made chicken coop with five residents \u2014 four who lay eggs and Gloria, who is barren but one heck of a watchdog. The fowl are technically illegal under New Haven's zoning code, which prohibited raising hens and other livestock when it was updated during the 1950s. But these days, many dozens of backyard hens are generally tolerated under the city's informal enforcement program \u2014 call it \"don't cluck, don't tell\" \u2014 that mostly looks the other way. With urban fowl increasingly common, Alderman Roland Lemar has introduced legislation that would allow residents to raise up to six hens.",
+        "text_b": "The Morgans have lived near Yale University since the 1950s.",
+        "label": "not_entailment"
+    },
+    "207": {
+        "text_a": "The prize is named after Alfred Nobel, a pacifist and entrepreneur who invented dynamite in 1866. Nobel left much of his wealth to establish the award, which has honoured achievements in physics, chemistry, medicine, literature and efforts to promote peace since 1901.",
+        "text_b": "Alfred Nobel invented dynamite in 1866.",
+        "label": "entailment"
+    },
+    "208": {
+        "text_a": "Ashley Olsen has decided to remain with her twin sister, Mary-Kate, instead of going on a planned trip to Australia to promote the opening of the siblings' latest movie adventure \"New York Minute,\" reports the AP.",
+        "text_b": "Ashley Olsen plans a trip to Australia with Mary-Kate.",
+        "label": "not_entailment"
+    },
+    "209": {
+        "text_a": "\"Unlike the three subtypes, Zaire, Sudan and Ivory Coast, which can cause hemorrhagic symptoms, Reston does not. There has been no evidence that Reston can cause significant illness in humans. When Reston was previously found in monkeys, few animal handlers were infected but only one had very mild symptoms,\" the DOH's official website announced. In January 1997, the Philippines Department of Environment and Natural Resources ordered the immediate slaughter of some 600 monkeys in Ferlite, a breeding farm in Laguna, to prevent an outbreak of Reston ebolavirus.",
+        "text_b": "DOH stands for Department of Hurricanes.",
+        "label": "not_entailment"
+    },
+    "210": {
+        "text_a": "The Marriott is a popular place for foreigners to stay and a prominent enterprise in the city, despite a wave of violence the country suffers. The hotel had been victim of another attack in January 2007 where a security guard was killed and several people injured after the guard blocked a bomber from getting at the hotel, forcing him to detonate his explosives where he was.",
+        "text_b": "There is a Marriott Hotel in London.",
+        "label": "not_entailment"
+    },
+    "211": {
+        "text_a": "The Nobel shines a spotlight on a form of \"social capitalism\" that has gained currency in recent years, propelled by high-profile supporters like former President Bill Clinton, rock star Bono and Microsoft founder Bill Gates.",
+        "text_b": "President Bill Clinton is a supporter of \"social capitalism\".",
+        "label": "entailment"
+    },
+    "212": {
+        "text_a": "Baker's voice will replace the earlier computer-synthesized voice that was previously used. BT said that his voice was chosen as it was instantly recognisable. It took him 11 days to record 11,593 phrases and sounds which could then be broken down and reassembled by a computer to make new words. It then took five months to process these recordings to make a workable service. BT have said that there will be no barriers as to what Tom Baker's voice can 'say', including rude words. \"What appeals to me most is the thought that I will be bringing good news to people whether it is a cheeky message, a birthday greeting, or just a quick hello,\" said Baker.",
+        "text_b": "Tom Baker works for BT.",
+        "label": "entailment"
+    },
+    "213": {
+        "text_a": "The drug dealers from Morro da Rocinha are in a war against drug dealers from the neighbouring Vidigal favela.",
+        "text_b": "Morro da Rocinha is near the Vidigal favela.",
+        "label": "entailment"
+    },
+    "214": {
+        "text_a": "Manuel Rosales, who ran against Mr Chavez in the 2006 presidential election, faces corruption charges he says are baseless. He had been in hiding since the charges were filed last month. Venezuela's Interior Minister Tareck el-Aissami said Mr Rosales was a criminal on the run. \"If he doesn't appear before the appropriate courts, he would be a fugitive from justice, and as a result the court will activate mechanisms for his international capture,\" said Mr Aissami, denying that the charges were political.",
+        "text_b": "Manuel Rosales was mayor of Maracaibo.",
+        "label": "not_entailment"
+    },
+    "215": {
+        "text_a": "Professor Sir Alec Jeffreys, whose pioneering discoveries revolutionised police investigation techniques, told the Guardian newspaper innocent people were being \"branded as criminals\" because the database retained details of everyone arrested, regardless of whether they were later convicted. The Government now holds more than five million profiles, up 1.4 million in two years. Sir Alec also called for improved genetic testing procedures, warning that the current system could result in a miscarriage of justice, in an interview with the Guardian newspaper.",
+        "text_b": "Alec Jeffreys is the inventor of genetic fingerprinting.",
+        "label": "not_entailment"
+    },
+    "216": {
+        "text_a": "Scott Stevens, the Idaho meteorologist who claimed that a weather manipulating conspiracy (possibly under the control of Japanese Yakuza mafia) caused Hurricane Katrina, has quit his job at KPVI-TV in Pocatello.",
+        "text_b": "Scott Stevens has connections with the Yakuza.",
+        "label": "not_entailment"
+    },
+    "217": {
+        "text_a": "Mr Fitzgerald revealed he was one of several top officials who told Mr Libby in June 2003 that Valerie Plame, wife of the former ambassador Joseph Wilson, worked for the CIA.",
+        "text_b": "Joseph Wilson worked for CIA.",
+        "label": "not_entailment"
+    },
+    "218": {
+        "text_a": "As an active member of the National Guard, he was called to duty in 1941. Although Kennon did not see active combat, he did not return home from World War II until May of 1945.",
+        "text_b": "Kennon did not participate in WWII.",
+        "label": "not_entailment"
+    },
+    "219": {
+        "text_a": "Police were called to the Highgrove House, the home belonging to Prince Charles and his wife Camilla on Tuesday night after police received a call that there was an intruder on the property. \"He was detained within the grounds and did not gain access to any buildings,\" said a spokesperson for the police, Tony Rymer. A spokesperson for the estate refused to comment to the media calling it \"a matter for the police\" and that any comments on the intrusion should be given through them. According to a Gloucester Police spokeswoman, a man from Bristol, England was arrested after wielding a pitchfork around the property. The name of the 55-year-old has not been released, but police charged him with trespassing. He was later released after posting bail. Camilla and Charles, who were both present and sleeping on the estate at the time, were not injured.",
+        "text_b": "Prince Charles owns an estate in Bristol.",
+        "label": "not_entailment"
+    },
+    "220": {
+        "text_a": "Mars is considered the red planet because of its bright red color.",
+        "text_b": "Mars is called 'the red planet'.",
+        "label": "entailment"
+    },
+    "221": {
+        "text_a": "OTN profiles the Hamas (Islamic Resistance Movement), which is a Palestinian Islamic fundamentalist group.",
+        "text_b": "The Islamic Resistance Movement is also known as OTN.",
+        "label": "not_entailment"
+    },
+    "222": {
+        "text_a": "Prime Minister Mahmoud Abbas has offered 'the hand of peace' to Israel after his landslide victory in Sunday's presidential election.",
+        "text_b": "Mahmoud Abbas has claimed victory in the presidential elections.",
+        "label": "entailment"
+    },
+    "223": {
+        "text_a": "In other words, with its 2 million inhabitants, Slovenia has only 5.5 thousand professional soldiers.",
+        "text_b": "Slovenia has 2 million inhabitants.",
+        "label": "entailment"
+    },
+    "224": {
+        "text_a": "Speaking about the papal visit, Castro also said the government had agreed to make available half of its transport to ensure people can attend masses the pope will celebrate in the cities of Havana, Santa Clara, Camaguey and Santiago de Cuba. Cuban church authorities have been concerned there will not be enough transport.",
+        "text_b": "Papal travel is affected by political concerns.",
+        "label": "not_entailment"
+    },
+    "225": {
+        "text_a": "U.S. Secretary of State Condoleeza Rice has expressed her anger after a meeting with Sudanese President Omar Hassan al-Bashir , during which her aides and staff were mistreated by Sudanese security agents.",
+        "text_b": "Condoleezza Rice is the U.S. Secretary of State.",
+        "label": "entailment"
+    },
+    "226": {
+        "text_a": "Sunday's explosion outside the Al-Rashi police station in the Al-Mashtel neighbourhood in the southeast of Baghdad, left a huge crater in the street.",
+        "text_b": "Al Rashi is an executive of the police.",
+        "label": "not_entailment"
+    },
+    "227": {
+        "text_a": "To write \"The Persians,\" which opens Thursday at the Aurora Theatre in Berkeley, Ellen McLaughlin spent six days. Given the direction of U.S. foreign policy, McLaughlin says, the lessons of \"The Persians\" are particularly crucial today, 2,500 years after it was written.",
+        "text_b": "\"The Persians\" was written by Aeschylus.",
+        "label": "not_entailment"
+    },
+    "228": {
+        "text_a": "Last year's collapse of Italian dairy company Parmalat , with \"14.3 billion euros that must still be accounted for\", is given as evidence for \"a lack of effective tools and controls regarding financial operations\".",
+        "text_b": "Parmalat costs 14.3 billion euros.",
+        "label": "not_entailment"
+    },
+    "229": {
+        "text_a": "The current Prime Minister Stephen Harper supported Mulroney's right to comment on Trudeau, \"I think it's well known Mr. Mulroney was an opponent of Mr. Trudeau,\" Harper said. \"He was his opposition leader and, as you know, came to power at the end of the Trudeau period when people wanted to make a change. I'll leave it to people who were there then to fight those battles. I think it's perfectly reasonable that they would comment. I think these are debates that are best left to some of the people who were around then and academics.\" Trudeau's former piers and friends have rallied behind his legacy and made public comments to dampen Mulroney's accusations.",
+        "text_b": "Mr Mulroney was an ally of Mr Trudeau.",
+        "label": "not_entailment"
+    },
+    "230": {
+        "text_a": "The British government has indicated its readiness to allow Argentine companies to take part in the development of oilfields in the Falkland islands' territorial waters- provided they acknowledge that any oil extracted belongs to Britain.",
+        "text_b": "The British indicated readiness to allow Argentine companies to take part in the development of oilfields.",
+        "label": "entailment"
+    },
+    "231": {
+        "text_a": "Guerrillas killed a peasant in the city of Flores.",
+        "text_b": "Guerrillas killed a civilian",
+        "label": "entailment"
+    },
+    "232": {
+        "text_a": "Levy Mwanawasa, the President of Zambia died yesterday at age 59. He died in a Paris hospital in France. His death was intially announced by an anonymous family member. It was later confirmed on television by vice president Rupiah Banda. Mwanawase suffered a stroke while in Egypt in June of this year for an African Union summit, whereafter he was flown to France. His condition suddenly deteriorated on Monday.",
+        "text_b": "The Zambian government has ordered to plant potatoes.",
+        "label": "not_entailment"
+    },
+    "233": {
+        "text_a": "Second-half goals, from Danny Mills and Darius Vassell, lifted Manchester City to a 2-0 victory over Everton.",
+        "text_b": "Manchester was beaten by Everton.",
+        "label": "not_entailment"
+    },
+    "234": {
+        "text_a": "Anastasia, in the village of Nagutskoye, had a neighbor who gave birth in 1914 to Yuri Andropov: KGB chief and persecutor of Anastasia's nephew, Alexander Solzhenitsyn.",
+        "text_b": "Alexander Solzhenitsyn's wife's name is Anastasia.",
+        "label": "not_entailment"
+    },
+    "235": {
+        "text_a": "Police were yesterday scouring Europe for a German couple who abandoned three small children in a pizzeria in the north-west Italian town of Aosta on Sunday evening and have not been seen since. The couple, Ina Caterina Remhof, 26, the mother of the children, and her partner, Sascha Schmidt, 24, brought the children, aged six, four and eight months, into the Il Capanno pizzeria. They took a table together and placed their orders like any other family of tourists, according to the restaurant's manager, Carmello Casella. But about 45 minutes later, while the children were still eating, the couple stood up and told Mr Casella that they were going outside for a smoke. When they failed to return the restaurant staff became worried and called the police.",
+        "text_b": "Ms Remhof had a history of drug problems.",
+        "label": "not_entailment"
+    },
+    "236": {
+        "text_a": "The disappearance of York University chef Claudia Lawrence is now being treated as suspected murder, North Yorkshire Police said. However detectives said they had not found any proof that the 35-year-old, who went missing on 18 March, was dead. Her father Peter Lawrence made a direct appeal to his daughter to contact him five weeks after she disappeared. His plea came at a news conference held shortly after a \u00a310,000 reward was offered to help find Miss Lawrence. Crimestoppers said the sum they were offering was \"significantly higher\" than usual because of public interest in the case.",
+        "text_b": "Claudia Lawrence is 35 years old.",
+        "label": "entailment"
+    },
+    "237": {
+        "text_a": "President Obama found a new way to answer to the questions that people have to ask him. So he held a \"virtual townhall\" in which people could write in questions and he would answer them online. He was asked many questions, and one of the most important was about the legalization of marijuana. Obama was very discreet about it. We will give you the full question : \"With over 1 out of 30 Americans controlled by the penal system, why not legalize, control, and tax marijuana to change the failed war on drugs into a money making, money saving boost to the economy? Do we really need that many victimless criminals?\" The president's answer was a strategical one. He started by quoting the question he was asked which was whether legalizing marijuana would improve the economy and job creation. And he answered : \"The answer is no, I don't think that's a good strategy to grow our economy. All right.\".",
+        "text_b": "President Obama is in favour of the legalization of marijuana.",
+        "label": "not_entailment"
+    },
+    "238": {
+        "text_a": "(Washington, D.C.) - More babies were born in the United States last year than ever before, according to preliminary data, but it's not another baby boom just yet.  About 4,315,000 children were born in 2007, about 15,000 more births than the peak time of the baby boom in 1957, said Stephanie Ventura, a demographer at the National Center for Health Statistics, which compiled the data from provisional birth certificate registrations at state health departments.  \"According to our provisional data, we had the highest number of births ever reported in 2007,\" she said.",
+        "text_b": "In 2007 about 4,315,000 children were born in the United States.",
+        "label": "entailment"
+    },
+    "239": {
+        "text_a": "Microsoft's (MSFT) own search engine will permanently replace the Yahoo (YHOO) search technology that has been used on Microsoft's MSN website.",
+        "text_b": "Yahoo's technology will still be used.",
+        "label": "not_entailment"
+    },
+    "240": {
+        "text_a": "The Daily Mail has confirmed it has pulled out of the bidding for rival newspaper the Daily Telegraph.",
+        "text_b": "Daily telegraph is sold.",
+        "label": "not_entailment"
+    },
+    "241": {
+        "text_a": "He graduated from high school from Benton, Tenn. and from Tennessee Tech. in Cookville, and holds a doctorate in physics from Virginia Tech.",
+        "text_b": "Tennessee Tech is an organisation based in Cookville.",
+        "label": "entailment"
+    },
+    "242": {
+        "text_a": "The terrorist is suspected of being behind several deadly kidnappings and dozens of suicide attacks in Iraq.",
+        "text_b": "Terrorist kidnaps dozens of Iraqis.",
+        "label": "not_entailment"
+    },
+    "243": {
+        "text_a": "\"AFCA has received tremendous support from the climbing community around the world,\" Tanya Weaver, executive director of the AFCA, said. \"We think the challenge of climbing to the summit of Mount Kilimanjaro is an appropriate symbol for the uphill battle HIV/AIDS children face.\"  This viral event is not just limited to climbing. The AFCA invites anyone and everyone to climb, hike, bike, or run for whatever distance to raise money for the children.  Corporations are encouraged to either sponsor, match donations, or organize a team of their own. Non-participants of the fundraiser can go the AFCA's website for the program and sponsor one of the climbers for the Climb Up Kilimanjaro part of the program.  The AFCA's assistance in HIV/AIDS stricken countries does not go unnoticed. Children who have received care from hospitals funded by the organization have sent letters of appreciation, which can be viewed on their website.",
+        "text_b": "The climbing community supports AFCA.",
+        "label": "entailment"
+    },
+    "244": {
+        "text_a": "Like the United States, U.N. officials are also dismayed that Aristide killed a conference called by Prime Minister Robert Malval in Port-au-Prince in hopes of bringing all the feuding parties together.",
+        "text_b": "Aristide kills Prime Minister Robert Malval",
+        "label": "not_entailment"
+    },
+    "245": {
+        "text_a": "The ship, owned by Mitsui O.S.K. Lines and flagged in the Cayman Islands, came under attack at around 4 p.m. Somali time (UTC+3) as gunfire came from two small priate boats. The vessel, with a crew of eighteen from the Philippines, suffered light damage to its front and windows were broken. The Jasmine Ace was en-route from Sharjah, United Arab Emirates to Mombasa, Kenya. The 126.75m car carrier had loaded with 377 used cars in Sharjah on March 17.",
+        "text_b": "Mitsui O.S.K is the owner of the Cayman Islands.",
+        "label": "not_entailment"
+    },
+    "246": {
+        "text_a": "As late as 1799, priests were still being imprisoned or deported to penal colonies and persecution only worsened after the French army led by General Louis Alexandre Berthier captured Rome and imprisoned Pope Pius VI, who would die in captivity in Valence, Dr\u00f4me, France in August of 1799.",
+        "text_b": "Alexandre Berthier died in 1799.",
+        "label": "not_entailment"
+    },
+    "247": {
+        "text_a": "The two-day postal delivery suspension placed on three streets in Hamilton, New Zealand has been lifted by New Zealand Post and the posties are back to work delivering mail. The suspension of deliveries applied to Tennyson Road, Dryden Road, and Emerson Place, which are located in Fairfield. New Zealand Post came to the decision on Friday to put the ban in place because of recent gang violence/conflict. Along with the New Zealand Police, New Zealand Post reviewed the current situation, and also drove along the streets, they came to the conclusion that the situation has now \"cooled down,\" according to New Zealand Post spokesperson, Fiona Mayo and postal delivery general manger, Matthew Nant. The residents on those streets came out to greet the postie, who was accompanied by business leader Brendon Coker, as she delivered the residents mail. Martha Rollo, Tennyson Road resident for 13-years, said that she was thrilled that her mail was once again being delivered after the \"senseless\" gang violence had temporarily stopped post.",
+        "text_b": "Fiona Mayo works in Fairfield.",
+        "label": "not_entailment"
+    },
+    "248": {
+        "text_a": "The summit was marred by criticism of Tunisia for allowing attacks on journalists and human rights defenders to occur in the days leading up to the event. A French journalist for \"Lib\u00e9ration\" was stabbed and beaten by unidentified men after he reported on local human rights protesters. A Belgian television crew was harassed and forced to hand over footage of Tunisian dissidents, while local human rights defenders were roughed up and prevented from organising a meeting with international civil society groups. A representative from the French media watchdog Reporters Without Borders, Robert Menard, was prevented from disembarking from his Air France flight to Tunis to attend the summit.",
+        "text_b": "A French journalist was assaulted in Tunisia.",
+        "label": "entailment"
+    }
+}

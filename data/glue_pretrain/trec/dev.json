@@ -1,0 +1,2732 @@
+{
+    "0": {
+        "text_a": "What city is served by Tempelhol Airport ?",
+        "text_b": null,
+        "label": 4
+    },
+    "1": {
+        "text_a": "What is Dudley Do-Right 's horse 's name ?",
+        "text_b": null,
+        "label": 1
+    },
+    "2": {
+        "text_a": "What 's nature 's purpose for tornadoes ?",
+        "text_b": null,
+        "label": 0
+    },
+    "3": {
+        "text_a": "What is the history of Valentine 's Day cards ?",
+        "text_b": null,
+        "label": 0
+    },
+    "4": {
+        "text_a": "What President became Chief Justice after his presidency ?",
+        "text_b": null,
+        "label": 3
+    },
+    "5": {
+        "text_a": "Where is Basque country located ?",
+        "text_b": null,
+        "label": 4
+    },
+    "6": {
+        "text_a": "What county is Chicago in ?",
+        "text_b": null,
+        "label": 4
+    },
+    "7": {
+        "text_a": "What 4-foot-9 actress in 1984 became the first performer to win an Oscar for playing a character of the opposite sex ?",
+        "text_b": null,
+        "label": 3
+    },
+    "8": {
+        "text_a": "What African capital is named for a U.S. president ?",
+        "text_b": null,
+        "label": 4
+    },
+    "9": {
+        "text_a": "Where is the Bulls basketball team based ?",
+        "text_b": null,
+        "label": 4
+    },
+    "10": {
+        "text_a": "What explosive do you get by mixing charcoal , sulfur and saltpeter ?",
+        "text_b": null,
+        "label": 1
+    },
+    "11": {
+        "text_a": "What is the name of the chronic neurological autoimmune disease which attacks the protein sheath that surrounds nerve cells causing a gradual loss of movement in the body ?",
+        "text_b": null,
+        "label": 1
+    },
+    "12": {
+        "text_a": "Which company that manufactures video-game hardware sells the `` super system '' ?",
+        "text_b": null,
+        "label": 3
+    },
+    "13": {
+        "text_a": "What is tyvek ?",
+        "text_b": null,
+        "label": 0
+    },
+    "14": {
+        "text_a": "What are the characters ' names in the Scooby-Doo cartoon ?",
+        "text_b": null,
+        "label": 3
+    },
+    "15": {
+        "text_a": "Madonna hocks which soft drink ?",
+        "text_b": null,
+        "label": 1
+    },
+    "16": {
+        "text_a": "Who is the `` Queen Mother '' ?",
+        "text_b": null,
+        "label": 3
+    },
+    "17": {
+        "text_a": "Name the five positions who are in the line of succession to the presidency .",
+        "text_b": null,
+        "label": 3
+    },
+    "18": {
+        "text_a": "What 's the largest island in the West Indies ?",
+        "text_b": null,
+        "label": 4
+    },
+    "19": {
+        "text_a": "What does an ashen-faced eidologist search out the existence of ?",
+        "text_b": null,
+        "label": 1
+    },
+    "20": {
+        "text_a": "Where is the Thomas Edison Museum ?",
+        "text_b": null,
+        "label": 4
+    },
+    "21": {
+        "text_a": "What is a fear of hell ?",
+        "text_b": null,
+        "label": 1
+    },
+    "22": {
+        "text_a": "In what area of the world was the Six Day War fought ?",
+        "text_b": null,
+        "label": 4
+    },
+    "23": {
+        "text_a": "What function does homeostasis have on the existence of an organism ?",
+        "text_b": null,
+        "label": 0
+    },
+    "24": {
+        "text_a": "What did the Chinese emperor present to the English soldier Gordon in recognition of his services in quelling rebellions ?",
+        "text_b": null,
+        "label": 1
+    },
+    "25": {
+        "text_a": "What country did the Nazis occupy for 1 , CD NNS IN NNP NNP NNP .",
+        "text_b": null,
+        "label": 4
+    },
+    "26": {
+        "text_a": "Who was Randy Steven Craft 's lawyer ?",
+        "text_b": null,
+        "label": 3
+    },
+    "27": {
+        "text_a": "What was the first domesticated bird ?",
+        "text_b": null,
+        "label": 1
+    },
+    "28": {
+        "text_a": "What is DSL ?",
+        "text_b": null,
+        "label": 2
+    },
+    "29": {
+        "text_a": "Where did the marriage ceremony come from ?",
+        "text_b": null,
+        "label": 0
+    },
+    "30": {
+        "text_a": "What impenetrable system of French fortifications was built along the German frontier before World War II ?",
+        "text_b": null,
+        "label": 1
+    },
+    "31": {
+        "text_a": "What was the name of the U.S. Navy gunboat in the film The Sand Pebbles ?",
+        "text_b": null,
+        "label": 1
+    },
+    "32": {
+        "text_a": "In what year did Thatcher become prime minister ?",
+        "text_b": null,
+        "label": 5
+    },
+    "33": {
+        "text_a": "Who is section manager for guidance and control systems at JPL ?",
+        "text_b": null,
+        "label": 3
+    },
+    "34": {
+        "text_a": "How do you buy stocks ?",
+        "text_b": null,
+        "label": 0
+    },
+    "35": {
+        "text_a": "What is a film starring Jude Law ?",
+        "text_b": null,
+        "label": 1
+    },
+    "36": {
+        "text_a": "Which came first , according to Genesis 1 : 2 : 22 - the chicken or the egg ?",
+        "text_b": null,
+        "label": 1
+    },
+    "37": {
+        "text_a": "What Nevada center has been dubbed The Biggest Little City in the World ?",
+        "text_b": null,
+        "label": 4
+    },
+    "38": {
+        "text_a": "What South Korean city is served by Kimpo International Airport ?",
+        "text_b": null,
+        "label": 4
+    },
+    "39": {
+        "text_a": "What 's the common name for a Japanese dwarf tree ?",
+        "text_b": null,
+        "label": 1
+    },
+    "40": {
+        "text_a": "How tall was the animated King Kong ?",
+        "text_b": null,
+        "label": 5
+    },
+    "41": {
+        "text_a": "What 's another word that means `` knows all '' ?",
+        "text_b": null,
+        "label": 1
+    },
+    "42": {
+        "text_a": "What 's the rathaus in Frankfurt ?",
+        "text_b": null,
+        "label": 0
+    },
+    "43": {
+        "text_a": "Shea and Gould closed their Los Angeles office for what reason ?",
+        "text_b": null,
+        "label": 0
+    },
+    "44": {
+        "text_a": "When was the Congress of Vienna ?",
+        "text_b": null,
+        "label": 5
+    },
+    "45": {
+        "text_a": "What is Bill Gates of Microsoft E-mail address ?",
+        "text_b": null,
+        "label": 4
+    },
+    "46": {
+        "text_a": "What constitutes an adult ?",
+        "text_b": null,
+        "label": 1
+    },
+    "47": {
+        "text_a": "How often are quadruplets born ?",
+        "text_b": null,
+        "label": 5
+    },
+    "48": {
+        "text_a": "Who was the first black woman to star in the Folies Bergeres ?",
+        "text_b": null,
+        "label": 3
+    },
+    "49": {
+        "text_a": "What sun-blasted , 14-mile wide valley is just north of the Mojave desert ?",
+        "text_b": null,
+        "label": 4
+    },
+    "50": {
+        "text_a": "What New York City landmark has 168 steps to its crown ?",
+        "text_b": null,
+        "label": 4
+    },
+    "51": {
+        "text_a": "What did FCC chairman Newton Minow declare TV to be on May 9 , 1961 ?",
+        "text_b": null,
+        "label": 0
+    },
+    "52": {
+        "text_a": "What were first used by John L. Sullivan and James J. Corbett in 1892 ?",
+        "text_b": null,
+        "label": 1
+    },
+    "53": {
+        "text_a": "Who created `` The Muppets '' ?",
+        "text_b": null,
+        "label": 3
+    },
+    "54": {
+        "text_a": "What is the Lost Colony ?",
+        "text_b": null,
+        "label": 0
+    },
+    "55": {
+        "text_a": "What is the real name of the singer , Madonna ?",
+        "text_b": null,
+        "label": 3
+    },
+    "56": {
+        "text_a": "How many calories are there in a Big Mac ?",
+        "text_b": null,
+        "label": 5
+    },
+    "57": {
+        "text_a": "What are the first names of the famous husband-and-wife acting team of Lunt and Fontanne ?",
+        "text_b": null,
+        "label": 3
+    },
+    "58": {
+        "text_a": "What animal migrates the farthest ?",
+        "text_b": null,
+        "label": 1
+    },
+    "59": {
+        "text_a": "What is the literal meaning of `` D-DAY '' ?",
+        "text_b": null,
+        "label": 0
+    },
+    "60": {
+        "text_a": "What game does Garry Kasparov play ?",
+        "text_b": null,
+        "label": 1
+    },
+    "61": {
+        "text_a": "Why is the universe flat , if it started by an explosion , shouldn 't it be a sphere ?",
+        "text_b": null,
+        "label": 0
+    },
+    "62": {
+        "text_a": "What is Linux ?",
+        "text_b": null,
+        "label": 0
+    },
+    "63": {
+        "text_a": "What is a virtual IP address ?",
+        "text_b": null,
+        "label": 0
+    },
+    "64": {
+        "text_a": "What sprawling U.S. state boasts the most airports ?",
+        "text_b": null,
+        "label": 4
+    },
+    "65": {
+        "text_a": "How do you exterminate bees that are in the walls of your home ? Will bee eggs remain over winter ?",
+        "text_b": null,
+        "label": 0
+    },
+    "66": {
+        "text_a": "What John Steinbeck novel portrays the Joad family , driven from the Oklahoma dustbowl ?",
+        "text_b": null,
+        "label": 1
+    },
+    "67": {
+        "text_a": "What 's the name of Tom Sawyer 's aunt with whom he lives ?",
+        "text_b": null,
+        "label": 3
+    },
+    "68": {
+        "text_a": "What was the first minimum wage ?",
+        "text_b": null,
+        "label": 5
+    },
+    "69": {
+        "text_a": "How can you prevent it ?",
+        "text_b": null,
+        "label": 0
+    },
+    "70": {
+        "text_a": "How long is Camptown Racetrack ?",
+        "text_b": null,
+        "label": 5
+    },
+    "71": {
+        "text_a": "What is proposition 98 about ?",
+        "text_b": null,
+        "label": 0
+    },
+    "72": {
+        "text_a": "Where did surfing originate ?",
+        "text_b": null,
+        "label": 4
+    },
+    "73": {
+        "text_a": "How many elevators do you ride to reach the top floor of the Empire State Building ?",
+        "text_b": null,
+        "label": 5
+    },
+    "74": {
+        "text_a": "What country borders the most others ?",
+        "text_b": null,
+        "label": 4
+    },
+    "75": {
+        "text_a": "What American actress was the first to be called a `` vamp '' ?",
+        "text_b": null,
+        "label": 3
+    },
+    "76": {
+        "text_a": "When did the Jurassic Period end ?",
+        "text_b": null,
+        "label": 5
+    },
+    "77": {
+        "text_a": "Who is Henry Butler ?",
+        "text_b": null,
+        "label": 3
+    },
+    "78": {
+        "text_a": "How much can a person be fined for having a dog on a beach ?",
+        "text_b": null,
+        "label": 5
+    },
+    "79": {
+        "text_a": "What is a swatch ?",
+        "text_b": null,
+        "label": 0
+    },
+    "80": {
+        "text_a": "CNN 's first broadcast occurred on what date ?",
+        "text_b": null,
+        "label": 5
+    },
+    "81": {
+        "text_a": "What happened to Pompeii ?",
+        "text_b": null,
+        "label": 0
+    },
+    "82": {
+        "text_a": "When is Dick Clark 's birthday ?",
+        "text_b": null,
+        "label": 5
+    },
+    "83": {
+        "text_a": "How does the Elongated Man know a mystery is afoot ?",
+        "text_b": null,
+        "label": 0
+    },
+    "84": {
+        "text_a": "Where is the massive North Korean nuclear complex located ?",
+        "text_b": null,
+        "label": 4
+    },
+    "85": {
+        "text_a": "What girl 's name is `` Teddy '' an affectionate form of ?",
+        "text_b": null,
+        "label": 3
+    },
+    "86": {
+        "text_a": "What is the rarest coin ?",
+        "text_b": null,
+        "label": 1
+    },
+    "87": {
+        "text_a": "What 's the American dollar equivalent for 8 pounds in the U.K. ?",
+        "text_b": null,
+        "label": 5
+    },
+    "88": {
+        "text_a": "What year did Hitler die ?",
+        "text_b": null,
+        "label": 5
+    },
+    "89": {
+        "text_a": "What are the 10 largest cities in the US ?",
+        "text_b": null,
+        "label": 4
+    },
+    "90": {
+        "text_a": "What kind of weapons were used in Medieval warfare ?",
+        "text_b": null,
+        "label": 1
+    },
+    "91": {
+        "text_a": "What is the most useful site on the Internet ?",
+        "text_b": null,
+        "label": 4
+    },
+    "92": {
+        "text_a": "Who is the Voyager project manager ?",
+        "text_b": null,
+        "label": 3
+    },
+    "93": {
+        "text_a": "What do the French call La Manche ?",
+        "text_b": null,
+        "label": 1
+    },
+    "94": {
+        "text_a": "When was Babe Ruth born ?",
+        "text_b": null,
+        "label": 5
+    },
+    "95": {
+        "text_a": "Who was the first black golfer to tee off in the Masters ?",
+        "text_b": null,
+        "label": 3
+    },
+    "96": {
+        "text_a": "What is HDLC ?",
+        "text_b": null,
+        "label": 2
+    },
+    "97": {
+        "text_a": "What city boasts the Billingsgate fishmarket ?",
+        "text_b": null,
+        "label": 4
+    },
+    "98": {
+        "text_a": "What Japanese city was once called Edo ?",
+        "text_b": null,
+        "label": 4
+    },
+    "99": {
+        "text_a": "What is the fastest-growing comic strip of all time ?",
+        "text_b": null,
+        "label": 1
+    },
+    "100": {
+        "text_a": "What country comes last in an alphabetical list ?",
+        "text_b": null,
+        "label": 4
+    },
+    "101": {
+        "text_a": "What are liver enzymes ?",
+        "text_b": null,
+        "label": 0
+    },
+    "102": {
+        "text_a": "What was the infamous pseudonym of Peter Sutcliffe ?",
+        "text_b": null,
+        "label": 3
+    },
+    "103": {
+        "text_a": "What infectious disease is the world 's deadliest ?",
+        "text_b": null,
+        "label": 1
+    },
+    "104": {
+        "text_a": "What 's a perfect score in a gymnastics exercise ?",
+        "text_b": null,
+        "label": 5
+    },
+    "105": {
+        "text_a": "How fast must a spacecraft travel to escape Earth 's gravity ?",
+        "text_b": null,
+        "label": 5
+    },
+    "106": {
+        "text_a": "CPR is the abbreviation for what ?",
+        "text_b": null,
+        "label": 2
+    },
+    "107": {
+        "text_a": "What was the occupation of Mandy Rice-Davies ?",
+        "text_b": null,
+        "label": 3
+    },
+    "108": {
+        "text_a": "What was the name of the Confederate mounted guerrilla group with which Jesse James and Coleman Younger had ridden ?",
+        "text_b": null,
+        "label": 3
+    },
+    "109": {
+        "text_a": "What 's the shape of a camel 's spine ?",
+        "text_b": null,
+        "label": 1
+    },
+    "110": {
+        "text_a": "Why can 't you taste anything when you have a cold ?",
+        "text_b": null,
+        "label": 0
+    },
+    "111": {
+        "text_a": "What are the largest breweries in the world ?",
+        "text_b": null,
+        "label": 4
+    },
+    "112": {
+        "text_a": "In what year did Joe DiMaggio compile his 56-game hitting streak ?",
+        "text_b": null,
+        "label": 5
+    },
+    "113": {
+        "text_a": "What award is the `` Oscar '' of advertising ?",
+        "text_b": null,
+        "label": 1
+    },
+    "114": {
+        "text_a": "What countries have the best math students ?",
+        "text_b": null,
+        "label": 4
+    },
+    "115": {
+        "text_a": "What format was the major competition of VHS ?",
+        "text_b": null,
+        "label": 1
+    },
+    "116": {
+        "text_a": "How many American actors were nominated for the best actor Oscar for 1983 ?",
+        "text_b": null,
+        "label": 5
+    },
+    "117": {
+        "text_a": "Why were people recruited for the Vietnam War ?",
+        "text_b": null,
+        "label": 0
+    },
+    "118": {
+        "text_a": "How do you make dumplings ?",
+        "text_b": null,
+        "label": 0
+    },
+    "119": {
+        "text_a": "What are the different types of plastic ?",
+        "text_b": null,
+        "label": 1
+    },
+    "120": {
+        "text_a": "What state full of milk and honey was the destination in The Grapes of Wrath ?",
+        "text_b": null,
+        "label": 4
+    },
+    "121": {
+        "text_a": "Why did the world enter a global depression in 1929 ?",
+        "text_b": null,
+        "label": 0
+    },
+    "122": {
+        "text_a": "What is the primary language of the Philippines ?",
+        "text_b": null,
+        "label": 1
+    },
+    "123": {
+        "text_a": "What letter adorns the flag of Rwanda ?",
+        "text_b": null,
+        "label": 1
+    },
+    "124": {
+        "text_a": "What is the name of the police officer who tried to keep order in Top Cat 's neighborhood ?",
+        "text_b": null,
+        "label": 3
+    },
+    "125": {
+        "text_a": "What German city do Italians call The Monaco of Bavaria ?",
+        "text_b": null,
+        "label": 4
+    },
+    "126": {
+        "text_a": "What country has declared one-fifth of its territory off-limits to Russians ?",
+        "text_b": null,
+        "label": 4
+    },
+    "127": {
+        "text_a": "Where did the Japanese Imperial Forces surrender to end WWII ?",
+        "text_b": null,
+        "label": 4
+    },
+    "128": {
+        "text_a": "What animal has killed the most people ?",
+        "text_b": null,
+        "label": 1
+    },
+    "129": {
+        "text_a": "When was Christ born ?",
+        "text_b": null,
+        "label": 5
+    },
+    "130": {
+        "text_a": "What is film noir ?",
+        "text_b": null,
+        "label": 0
+    },
+    "131": {
+        "text_a": "How does a small businessman contact the Good Humor Ice Cream company to do business with them ?",
+        "text_b": null,
+        "label": 0
+    },
+    "132": {
+        "text_a": "What are the factors leading to the high teen pregnancy rate in Spartanburg , South Carolina ?",
+        "text_b": null,
+        "label": 0
+    },
+    "133": {
+        "text_a": "What should you do for an ankle sprain ?",
+        "text_b": null,
+        "label": 0
+    },
+    "134": {
+        "text_a": "What is the name given to the Islamic counterpart of the Red Cross ?",
+        "text_b": null,
+        "label": 1
+    },
+    "135": {
+        "text_a": "What animals acted as lapwarmers for American colonists in church ?",
+        "text_b": null,
+        "label": 1
+    },
+    "136": {
+        "text_a": "What was the name of Hitler 's unsuccessful attempt to overthrow the Bavarian government in Munich in 1923 ?",
+        "text_b": null,
+        "label": 1
+    },
+    "137": {
+        "text_a": "What was the real name of writer Ross Macdonald , creator of the hero Lew Archer ?",
+        "text_b": null,
+        "label": 3
+    },
+    "138": {
+        "text_a": "How many miles are there between Tel Aviv , Israel and Memphis , Tennessee ?",
+        "text_b": null,
+        "label": 5
+    },
+    "139": {
+        "text_a": "What function does a community 's water tower serve ?",
+        "text_b": null,
+        "label": 0
+    },
+    "140": {
+        "text_a": "How do I contact Answers.com direct ?",
+        "text_b": null,
+        "label": 0
+    },
+    "141": {
+        "text_a": "What is the horsepower of the shuttle boosters ?",
+        "text_b": null,
+        "label": 5
+    },
+    "142": {
+        "text_a": "What does a deltiologist collect ?",
+        "text_b": null,
+        "label": 1
+    },
+    "143": {
+        "text_a": "Name a film that has won the Golden Bear in the Berlin Film Festival ?",
+        "text_b": null,
+        "label": 1
+    },
+    "144": {
+        "text_a": "What are tannins ?",
+        "text_b": null,
+        "label": 0
+    },
+    "145": {
+        "text_a": "Who were the `` filthiest people alive ? ''",
+        "text_b": null,
+        "label": 3
+    },
+    "146": {
+        "text_a": "Who co-starred with Julie Andrews in Mary Poppins ?",
+        "text_b": null,
+        "label": 3
+    },
+    "147": {
+        "text_a": "What country are you in if you woo in the Wu dialect ?",
+        "text_b": null,
+        "label": 4
+    },
+    "148": {
+        "text_a": "Who was Bonnie Blue Butler 's father ?",
+        "text_b": null,
+        "label": 3
+    },
+    "149": {
+        "text_a": "Why do oceans contain salt water instead of fresh water ?",
+        "text_b": null,
+        "label": 0
+    },
+    "150": {
+        "text_a": "What is the population of Mexico ?",
+        "text_b": null,
+        "label": 5
+    },
+    "151": {
+        "text_a": "How many wives did Brigham Young have ?",
+        "text_b": null,
+        "label": 5
+    },
+    "152": {
+        "text_a": "What is the oldest website on the Internet ?",
+        "text_b": null,
+        "label": 4
+    },
+    "153": {
+        "text_a": "What 's a water funnel ?",
+        "text_b": null,
+        "label": 0
+    },
+    "154": {
+        "text_a": "How many varieties of apple are there ?",
+        "text_b": null,
+        "label": 5
+    },
+    "155": {
+        "text_a": "When did Jaco Pastorius die ?",
+        "text_b": null,
+        "label": 5
+    },
+    "156": {
+        "text_a": "Name a flying mammal .",
+        "text_b": null,
+        "label": 1
+    },
+    "157": {
+        "text_a": "What is the name of David Letterman 's dog ?",
+        "text_b": null,
+        "label": 1
+    },
+    "158": {
+        "text_a": "Who wrote the book , `` Huckleberry Finn '' ?",
+        "text_b": null,
+        "label": 3
+    },
+    "159": {
+        "text_a": "What 's the Olympic motto ?",
+        "text_b": null,
+        "label": 0
+    },
+    "160": {
+        "text_a": "Where are 8 of the 10 highest mountains in the world ?",
+        "text_b": null,
+        "label": 4
+    },
+    "161": {
+        "text_a": "How many characters are in the Chinese alphabet ?",
+        "text_b": null,
+        "label": 5
+    },
+    "162": {
+        "text_a": "Who accompanied Space Ghost on his missions ?",
+        "text_b": null,
+        "label": 3
+    },
+    "163": {
+        "text_a": "Why do eyes sometimes look red in photographs ?",
+        "text_b": null,
+        "label": 0
+    },
+    "164": {
+        "text_a": "What season begins with the vernal equinox ?",
+        "text_b": null,
+        "label": 5
+    },
+    "165": {
+        "text_a": "What was the name of the peace agreement imposed on Germany after World War I ?",
+        "text_b": null,
+        "label": 1
+    },
+    "166": {
+        "text_a": "What is the music used in the new VW Beetle commercial where the car spins and changes colors ?",
+        "text_b": null,
+        "label": 1
+    },
+    "167": {
+        "text_a": "What future movie treat was introduced to American colonists in 1603 by Native Americans ?",
+        "text_b": null,
+        "label": 1
+    },
+    "168": {
+        "text_a": "What country , after Canada and Mexico , is closest to the U.S. ?",
+        "text_b": null,
+        "label": 4
+    },
+    "169": {
+        "text_a": "What is the former name of Zimbabwe ?",
+        "text_b": null,
+        "label": 1
+    },
+    "170": {
+        "text_a": "What are the Low Countries ?",
+        "text_b": null,
+        "label": 0
+    },
+    "171": {
+        "text_a": "Where can I get cotton textiles importer details ?",
+        "text_b": null,
+        "label": 4
+    },
+    "172": {
+        "text_a": "Who is the President of Ghana ?",
+        "text_b": null,
+        "label": 3
+    },
+    "173": {
+        "text_a": "What color were Ernest Hemingway 's eyes ?",
+        "text_b": null,
+        "label": 1
+    },
+    "174": {
+        "text_a": "What was the name of that popular song the Creeps sang ?",
+        "text_b": null,
+        "label": 1
+    },
+    "175": {
+        "text_a": "What deck of cards includes the Wheel of Fortune , the Lovers , and Death ?",
+        "text_b": null,
+        "label": 1
+    },
+    "176": {
+        "text_a": "Why do pharmacists work on raised floors ?",
+        "text_b": null,
+        "label": 0
+    },
+    "177": {
+        "text_a": "What record company was formed by Herb Alpert and Jerry Moss ?",
+        "text_b": null,
+        "label": 3
+    },
+    "178": {
+        "text_a": "What was the eighth day following the Nones in each month of the Roman calendar called ?",
+        "text_b": null,
+        "label": 1
+    },
+    "179": {
+        "text_a": "How long was the OJ Simpson trial ?",
+        "text_b": null,
+        "label": 5
+    },
+    "180": {
+        "text_a": "Name the two blob members of the animated Herculoids .",
+        "text_b": null,
+        "label": 3
+    },
+    "181": {
+        "text_a": "How many counties are in Indiana ?",
+        "text_b": null,
+        "label": 5
+    },
+    "182": {
+        "text_a": "What century does Captain Video live in ?",
+        "text_b": null,
+        "label": 5
+    },
+    "183": {
+        "text_a": "How much of the earth 's surface is permanently frozen ?",
+        "text_b": null,
+        "label": 5
+    },
+    "184": {
+        "text_a": "How do Ouija Boards work ?",
+        "text_b": null,
+        "label": 0
+    },
+    "185": {
+        "text_a": "What 's the term for a bet before cards are dealt ?",
+        "text_b": null,
+        "label": 1
+    },
+    "186": {
+        "text_a": "Who invented the radio ?",
+        "text_b": null,
+        "label": 3
+    },
+    "187": {
+        "text_a": "What is state tree of Nebraska ?",
+        "text_b": null,
+        "label": 1
+    },
+    "188": {
+        "text_a": "What is a Certified Nurse Midwife ?",
+        "text_b": null,
+        "label": 0
+    },
+    "189": {
+        "text_a": "From what cause does tuberculosis stem ?",
+        "text_b": null,
+        "label": 0
+    },
+    "190": {
+        "text_a": "What causes headaches ?",
+        "text_b": null,
+        "label": 0
+    },
+    "191": {
+        "text_a": "When did French revolutionaries storm the Bastille ?",
+        "text_b": null,
+        "label": 5
+    },
+    "192": {
+        "text_a": "Why did David Koresh ask the FBI for a word processor ?",
+        "text_b": null,
+        "label": 0
+    },
+    "193": {
+        "text_a": "What is the most important nation in the world , historically ?",
+        "text_b": null,
+        "label": 4
+    },
+    "194": {
+        "text_a": "What color are a cherry tree 's flowers ?",
+        "text_b": null,
+        "label": 1
+    },
+    "195": {
+        "text_a": "How is Paraguay for vacations ?",
+        "text_b": null,
+        "label": 0
+    },
+    "196": {
+        "text_a": "What state is known as the Hawkeye State ?",
+        "text_b": null,
+        "label": 4
+    },
+    "197": {
+        "text_a": "Tell me what city the Kentucky Horse Park is near ?",
+        "text_b": null,
+        "label": 4
+    },
+    "198": {
+        "text_a": "What two European countries entered the War of American Independence against the British ?",
+        "text_b": null,
+        "label": 4
+    },
+    "199": {
+        "text_a": "What is the origin of the word `` amen '' ?",
+        "text_b": null,
+        "label": 0
+    },
+    "200": {
+        "text_a": "What is the origin of the typing practice sentence `` Now is the time for all good men to come to the aid of their country '' ?",
+        "text_b": null,
+        "label": 0
+    },
+    "201": {
+        "text_a": "What are `` darning needles '' and `` horse stingers '' better known as ?",
+        "text_b": null,
+        "label": 1
+    },
+    "202": {
+        "text_a": "Who played Lucas McCain on The Rifleman ?",
+        "text_b": null,
+        "label": 3
+    },
+    "203": {
+        "text_a": "Names of books by James A. Michener set in the following locations ?",
+        "text_b": null,
+        "label": 1
+    },
+    "204": {
+        "text_a": "What is the longest word in the English language ?",
+        "text_b": null,
+        "label": 1
+    },
+    "205": {
+        "text_a": "How do plants make food ?",
+        "text_b": null,
+        "label": 0
+    },
+    "206": {
+        "text_a": "What year did Apartheid start ?",
+        "text_b": null,
+        "label": 5
+    },
+    "207": {
+        "text_a": "Name Dondi 's adoptive grandfather .",
+        "text_b": null,
+        "label": 3
+    },
+    "208": {
+        "text_a": "What is the average weight for a man ?",
+        "text_b": null,
+        "label": 5
+    },
+    "209": {
+        "text_a": "Where does chocolate come from ?",
+        "text_b": null,
+        "label": 4
+    },
+    "210": {
+        "text_a": "What are the names of Jacques Cousteau 's two sons ?",
+        "text_b": null,
+        "label": 3
+    },
+    "211": {
+        "text_a": "What are the short- and long-term effects of underage drinking ?",
+        "text_b": null,
+        "label": 0
+    },
+    "212": {
+        "text_a": "What type of food makes you fat ?",
+        "text_b": null,
+        "label": 1
+    },
+    "213": {
+        "text_a": "What were the causes of the Civil War ?",
+        "text_b": null,
+        "label": 0
+    },
+    "214": {
+        "text_a": "How long did the Charles Manson murder trial last ?",
+        "text_b": null,
+        "label": 5
+    },
+    "215": {
+        "text_a": "What Argentine revolutionary fought with Castro and died in Bolivia in May , 1979 ?",
+        "text_b": null,
+        "label": 3
+    },
+    "216": {
+        "text_a": "What Scandinavian country covers 173 , 732 square miles ?",
+        "text_b": null,
+        "label": 4
+    },
+    "217": {
+        "text_a": "What is Alice Cooper 's real name ?",
+        "text_b": null,
+        "label": 3
+    },
+    "218": {
+        "text_a": "What did British companies stick 175 , 0 tons of tea into in 1982 ?",
+        "text_b": null,
+        "label": 1
+    },
+    "219": {
+        "text_a": "What was the claim to fame of Explorer I , launched February 1 , 1958 ?",
+        "text_b": null,
+        "label": 0
+    },
+    "220": {
+        "text_a": "How old is singer Freedy Johnston ?",
+        "text_b": null,
+        "label": 5
+    },
+    "221": {
+        "text_a": "What shampoo prevents eczema , seborrhea , and psoriasis ?",
+        "text_b": null,
+        "label": 1
+    },
+    "222": {
+        "text_a": "What is the chemical reactivity of argon ?",
+        "text_b": null,
+        "label": 5
+    },
+    "223": {
+        "text_a": "Where can I find the lyrics for the song ` Getting Married Today ' from the musical ` Company ' ?",
+        "text_b": null,
+        "label": 4
+    },
+    "224": {
+        "text_a": "Who retired with 755 home runs to his credit ?",
+        "text_b": null,
+        "label": 3
+    },
+    "225": {
+        "text_a": "What is the abbreviation of the company name ` General Motors ' ?",
+        "text_b": null,
+        "label": 2
+    },
+    "226": {
+        "text_a": "How many furlongs are there in a mile-and-a-quarter recetrack ?",
+        "text_b": null,
+        "label": 5
+    },
+    "227": {
+        "text_a": "Who are the top 10 richest people in the world ?",
+        "text_b": null,
+        "label": 3
+    },
+    "228": {
+        "text_a": "What year did Rossetti paint `` Beata Beatrix '' ?",
+        "text_b": null,
+        "label": 5
+    },
+    "229": {
+        "text_a": "What is the second hardest substance ?",
+        "text_b": null,
+        "label": 1
+    },
+    "230": {
+        "text_a": "What disease is transmitted by the Anopheles mosquito ?",
+        "text_b": null,
+        "label": 1
+    },
+    "231": {
+        "text_a": "What two historical figures , who fought each other in a famous battle , each have a food named after them ?",
+        "text_b": null,
+        "label": 3
+    },
+    "232": {
+        "text_a": "What is the song Stairway to Heaven by Led Zeppelin about ?",
+        "text_b": null,
+        "label": 0
+    },
+    "233": {
+        "text_a": "What is fiber in food ?",
+        "text_b": null,
+        "label": 0
+    },
+    "234": {
+        "text_a": "What is the seafaring name for the southern tip of South America ?",
+        "text_b": null,
+        "label": 4
+    },
+    "235": {
+        "text_a": "What does Ms. , Miss , and Mrs. stand for ?",
+        "text_b": null,
+        "label": 2
+    },
+    "236": {
+        "text_a": "How many `` eyes '' does a coconut have ?",
+        "text_b": null,
+        "label": 5
+    },
+    "237": {
+        "text_a": "How much of the nation 's children between the ages of two and eleven watch ` The Simpsons ' ?",
+        "text_b": null,
+        "label": 5
+    },
+    "238": {
+        "text_a": "When did communist control end in Hungary ?",
+        "text_b": null,
+        "label": 5
+    },
+    "239": {
+        "text_a": "What 's the most abundant element in the sun ?",
+        "text_b": null,
+        "label": 1
+    },
+    "240": {
+        "text_a": "What is the history of the soft drink Mr. Pibb ?",
+        "text_b": null,
+        "label": 0
+    },
+    "241": {
+        "text_a": "What is the fastest growing state in the U.S.A. in 1998 ?",
+        "text_b": null,
+        "label": 4
+    },
+    "242": {
+        "text_a": "When was the NFL established ?",
+        "text_b": null,
+        "label": 5
+    },
+    "243": {
+        "text_a": "Who was the first Taiwanese President ?",
+        "text_b": null,
+        "label": 3
+    },
+    "244": {
+        "text_a": "How many people was Randy Craft convicted of killing ?",
+        "text_b": null,
+        "label": 5
+    },
+    "245": {
+        "text_a": "What is Nebraska 's most valuable resource ?",
+        "text_b": null,
+        "label": 1
+    },
+    "246": {
+        "text_a": "What is the geographical center of the US including Alaska and Hawaii ?",
+        "text_b": null,
+        "label": 4
+    },
+    "247": {
+        "text_a": "How do I find info about rice importers in the world ?",
+        "text_b": null,
+        "label": 0
+    },
+    "248": {
+        "text_a": "Whose video is titled Shape Up with Arnold ?",
+        "text_b": null,
+        "label": 3
+    },
+    "249": {
+        "text_a": "When was the battle of the Somme fought ?",
+        "text_b": null,
+        "label": 5
+    },
+    "250": {
+        "text_a": "What color , s , appear on boxes of Kodak film ?",
+        "text_b": null,
+        "label": 1
+    },
+    "251": {
+        "text_a": "What company tabulates the ballots in voting for the Academy Awards ?",
+        "text_b": null,
+        "label": 3
+    },
+    "252": {
+        "text_a": "What net game sees its women 's world amateur champions receive the Uber Cup ?",
+        "text_b": null,
+        "label": 1
+    },
+    "253": {
+        "text_a": "In 1990 , what day of the week did Christmas fall on ?",
+        "text_b": null,
+        "label": 5
+    },
+    "254": {
+        "text_a": "What are the five richest countries in the world ?",
+        "text_b": null,
+        "label": 4
+    },
+    "255": {
+        "text_a": "What year did the Vietnam War end ?",
+        "text_b": null,
+        "label": 5
+    },
+    "256": {
+        "text_a": "What is InterLata Internet service ?",
+        "text_b": null,
+        "label": 0
+    },
+    "257": {
+        "text_a": "What animal occurs in Spielberg 's `` Jaws '' ?",
+        "text_b": null,
+        "label": 1
+    },
+    "258": {
+        "text_a": "What was the name of the computer in ` 2001 : A Space Odyssey ' ?",
+        "text_b": null,
+        "label": 1
+    },
+    "259": {
+        "text_a": "What does NASA stand for ?",
+        "text_b": null,
+        "label": 2
+    },
+    "260": {
+        "text_a": "What did John F. Kennedy consider his greatest blunder in office ?",
+        "text_b": null,
+        "label": 0
+    },
+    "261": {
+        "text_a": "What are the names of Jack 's original roommates on Three 's Company ?",
+        "text_b": null,
+        "label": 3
+    },
+    "262": {
+        "text_a": "What is the nature of snow and how is the formation of snow different from that of ice ?",
+        "text_b": null,
+        "label": 0
+    },
+    "263": {
+        "text_a": "What are the powers and weaknesses of Green Lantern 's ring ?",
+        "text_b": null,
+        "label": 0
+    },
+    "264": {
+        "text_a": "What army was founded by William Booth and his wife Catherine ?",
+        "text_b": null,
+        "label": 3
+    },
+    "265": {
+        "text_a": "What was the name of Humphrey Bogart 's club in Casablanca ?",
+        "text_b": null,
+        "label": 3
+    },
+    "266": {
+        "text_a": "How many times in his 16-year National Basketball Associaton career was John Havlicek a member of the all-star team ?",
+        "text_b": null,
+        "label": 5
+    },
+    "267": {
+        "text_a": "How is digital audio used ?",
+        "text_b": null,
+        "label": 0
+    },
+    "268": {
+        "text_a": "What is a fear of cold ?",
+        "text_b": null,
+        "label": 1
+    },
+    "269": {
+        "text_a": "What currents affect the area of the Shetland Islands and Orkney Islands in the North Sea ?",
+        "text_b": null,
+        "label": 0
+    },
+    "270": {
+        "text_a": "What actor was the first man to appear on the cover of McCall 's ?",
+        "text_b": null,
+        "label": 3
+    },
+    "271": {
+        "text_a": "What does a woman want ?",
+        "text_b": null,
+        "label": 1
+    },
+    "272": {
+        "text_a": "What major Victorian novelist spent as much time working for the post office as he did writing ?",
+        "text_b": null,
+        "label": 3
+    },
+    "273": {
+        "text_a": "What is the name of Miss India 1994 ?",
+        "text_b": null,
+        "label": 3
+    },
+    "274": {
+        "text_a": "What airport is on the Piccadilly subway line ?",
+        "text_b": null,
+        "label": 4
+    },
+    "275": {
+        "text_a": "How can SQL queries be improved ?",
+        "text_b": null,
+        "label": 0
+    },
+    "276": {
+        "text_a": "Who was the tallest U.S. president ?",
+        "text_b": null,
+        "label": 3
+    },
+    "277": {
+        "text_a": "What part of their attire were `` pothooks '' to cowboys of the Old West ?",
+        "text_b": null,
+        "label": 1
+    },
+    "278": {
+        "text_a": "What is a stratocaster ?",
+        "text_b": null,
+        "label": 0
+    },
+    "279": {
+        "text_a": "How is an executioner determined ?",
+        "text_b": null,
+        "label": 0
+    },
+    "280": {
+        "text_a": "What U.S. state is Fort Knox in ?",
+        "text_b": null,
+        "label": 4
+    },
+    "281": {
+        "text_a": "When was the San Francisco fire ?",
+        "text_b": null,
+        "label": 5
+    },
+    "282": {
+        "text_a": "Which two states enclose Chesapeake Bay ?",
+        "text_b": null,
+        "label": 4
+    },
+    "283": {
+        "text_a": "What 's the difference between sleet and freezing rain ?",
+        "text_b": null,
+        "label": 0
+    },
+    "284": {
+        "text_a": "Who kept the most famous diary in the English language ?",
+        "text_b": null,
+        "label": 3
+    },
+    "285": {
+        "text_a": "What was the name of the first Russian astronaut to do a spacewalk ?",
+        "text_b": null,
+        "label": 3
+    },
+    "286": {
+        "text_a": "What is Greek pita ?",
+        "text_b": null,
+        "label": 0
+    },
+    "287": {
+        "text_a": "What is the speed of the Mississippi River ?",
+        "text_b": null,
+        "label": 5
+    },
+    "288": {
+        "text_a": "How long were Tyrannosaurus Rex 's teeth ?",
+        "text_b": null,
+        "label": 5
+    },
+    "289": {
+        "text_a": "What nutrients are for healthy bones and teeth ?",
+        "text_b": null,
+        "label": 1
+    },
+    "290": {
+        "text_a": "What does a dipsomaniac crave ?",
+        "text_b": null,
+        "label": 1
+    },
+    "291": {
+        "text_a": "What Nevil Shute novel is about the doomed survivors of a nuclear war ?",
+        "text_b": null,
+        "label": 1
+    },
+    "292": {
+        "text_a": "Who owns the rights on a TV program ?",
+        "text_b": null,
+        "label": 3
+    },
+    "293": {
+        "text_a": "What mountainous region of the world is the Lhasa Apso dog native to ?",
+        "text_b": null,
+        "label": 4
+    },
+    "294": {
+        "text_a": "What 's the most common street name in America ?",
+        "text_b": null,
+        "label": 4
+    },
+    "295": {
+        "text_a": "What is a tonne ?",
+        "text_b": null,
+        "label": 0
+    },
+    "296": {
+        "text_a": "What musical instrument did Prewitt play in James Jones 's From Here to Eternity ?",
+        "text_b": null,
+        "label": 1
+    },
+    "297": {
+        "text_a": "What South American capital is the world 's highest ?",
+        "text_b": null,
+        "label": 4
+    },
+    "298": {
+        "text_a": "Which is the most-used computer program ?",
+        "text_b": null,
+        "label": 1
+    },
+    "299": {
+        "text_a": "What is being done about the millennium bug ?",
+        "text_b": null,
+        "label": 0
+    },
+    "300": {
+        "text_a": "How long does a fly live ?",
+        "text_b": null,
+        "label": 5
+    },
+    "301": {
+        "text_a": "What did John Hinckley do to impress Jodie Foster ?",
+        "text_b": null,
+        "label": 0
+    },
+    "302": {
+        "text_a": "What mountain range is traversed by the highest railroad in the world ?",
+        "text_b": null,
+        "label": 4
+    },
+    "303": {
+        "text_a": "What university football team did O.J. Simpson take to the Rose Bowl ?",
+        "text_b": null,
+        "label": 3
+    },
+    "304": {
+        "text_a": "What color flies closest to the staff on Belgium 's flag ?",
+        "text_b": null,
+        "label": 1
+    },
+    "305": {
+        "text_a": "Why are ice cream sundaes called sundaes ?",
+        "text_b": null,
+        "label": 0
+    },
+    "306": {
+        "text_a": "Who was Scrooge 's dead partner in Dickens 's A Christmas Carol ?",
+        "text_b": null,
+        "label": 3
+    },
+    "307": {
+        "text_a": "What is the spectrum of a sine wave ?",
+        "text_b": null,
+        "label": 0
+    },
+    "308": {
+        "text_a": "Why were red M&Ms discontinued then brought back ?",
+        "text_b": null,
+        "label": 0
+    },
+    "309": {
+        "text_a": "What do river otters eat ?",
+        "text_b": null,
+        "label": 1
+    },
+    "310": {
+        "text_a": "How big is our galaxy in diameter ?",
+        "text_b": null,
+        "label": 5
+    },
+    "311": {
+        "text_a": "What college did Dikembe Mutombo play basketball for ?",
+        "text_b": null,
+        "label": 3
+    },
+    "312": {
+        "text_a": "What non-alcoholic syrup is made from pomegranate juice ?",
+        "text_b": null,
+        "label": 1
+    },
+    "313": {
+        "text_a": "What kinds of animals are in Cambodia ?",
+        "text_b": null,
+        "label": 1
+    },
+    "314": {
+        "text_a": "How long does it take different materials to decompose ?",
+        "text_b": null,
+        "label": 5
+    },
+    "315": {
+        "text_a": "Rotary engines used to be made by whom ?",
+        "text_b": null,
+        "label": 3
+    },
+    "316": {
+        "text_a": "When was the first American encyclopedia published ?",
+        "text_b": null,
+        "label": 5
+    },
+    "317": {
+        "text_a": "Who was the first woman to run the mile in less than 4 36893 minutes ?",
+        "text_b": null,
+        "label": 3
+    },
+    "318": {
+        "text_a": "What is a specimen of basidiomycetes ?",
+        "text_b": null,
+        "label": 0
+    },
+    "319": {
+        "text_a": "When was `` the Great Depression '' ?",
+        "text_b": null,
+        "label": 5
+    },
+    "320": {
+        "text_a": "How many times does the tide ebb and flow each day ?",
+        "text_b": null,
+        "label": 5
+    },
+    "321": {
+        "text_a": "How old was Sir Edmund Hillary when he climbed Mt. Everest ?",
+        "text_b": null,
+        "label": 5
+    },
+    "322": {
+        "text_a": "What does the word affiant mean ?",
+        "text_b": null,
+        "label": 0
+    },
+    "323": {
+        "text_a": "What developed a crack in 1835 while tolling the death of U.S. Chief Justice John Marshall ?",
+        "text_b": null,
+        "label": 1
+    },
+    "324": {
+        "text_a": "What album put The Beatles on the cover of Time in 1967 ?",
+        "text_b": null,
+        "label": 1
+    },
+    "325": {
+        "text_a": "Which city has the oldest relationship as a sister\u00f0city with Los Angeles ?",
+        "text_b": null,
+        "label": 4
+    },
+    "326": {
+        "text_a": "What does God create in the first sentence of the Bible ?",
+        "text_b": null,
+        "label": 1
+    },
+    "327": {
+        "text_a": "What century 's the setting for TV 's The Adventures of Robin Hood ?",
+        "text_b": null,
+        "label": 5
+    },
+    "328": {
+        "text_a": "How do I find a web address for a company ?",
+        "text_b": null,
+        "label": 0
+    },
+    "329": {
+        "text_a": "What is the tallest building in Japan ?",
+        "text_b": null,
+        "label": 4
+    },
+    "330": {
+        "text_a": "How many films are made by the major studios in a year ?",
+        "text_b": null,
+        "label": 5
+    },
+    "331": {
+        "text_a": "How much pizza do Americans eat in a day ?",
+        "text_b": null,
+        "label": 5
+    },
+    "332": {
+        "text_a": "What British monarch 's lap did P.T. Barnum 's Tom Thumb sit in ?",
+        "text_b": null,
+        "label": 3
+    },
+    "333": {
+        "text_a": "What is widely used to detect birth defects ?",
+        "text_b": null,
+        "label": 1
+    },
+    "334": {
+        "text_a": "How come a doughnut has a hole in it ?",
+        "text_b": null,
+        "label": 0
+    },
+    "335": {
+        "text_a": "What Ivy League school plays its home games at Palmer Stadium ?",
+        "text_b": null,
+        "label": 3
+    },
+    "336": {
+        "text_a": "What American sergeant lost both of his hands in combat during World War II and then went on to act in a single movie for which he won two Oscars ?",
+        "text_b": null,
+        "label": 3
+    },
+    "337": {
+        "text_a": "What enigmatic U.S. vice president was once tried and acquitted for treason in a plot to set up his own independent empire in the West ?",
+        "text_b": null,
+        "label": 3
+    },
+    "338": {
+        "text_a": "What Morris West novel deals with Russian bishop who becomes Pope ?",
+        "text_b": null,
+        "label": 1
+    },
+    "339": {
+        "text_a": "When did the Carolingian period begin ?",
+        "text_b": null,
+        "label": 5
+    },
+    "340": {
+        "text_a": "What does Ouija mean ?",
+        "text_b": null,
+        "label": 0
+    },
+    "341": {
+        "text_a": "What 's known as The queen of Drinks ?",
+        "text_b": null,
+        "label": 1
+    },
+    "342": {
+        "text_a": "What well-known actor is the father of star Alan Alda ?",
+        "text_b": null,
+        "label": 3
+    },
+    "343": {
+        "text_a": "What handicraft requires you to interlace your warp and weft ?",
+        "text_b": null,
+        "label": 1
+    },
+    "344": {
+        "text_a": "What powdered soft drink mix went into space ?",
+        "text_b": null,
+        "label": 1
+    },
+    "345": {
+        "text_a": "What sport can a free-legged pacer compete in ?",
+        "text_b": null,
+        "label": 1
+    },
+    "346": {
+        "text_a": "What athlete makes the most money from sports merchandise sales ?",
+        "text_b": null,
+        "label": 3
+    },
+    "347": {
+        "text_a": "How do you find the area of a circle ?",
+        "text_b": null,
+        "label": 0
+    },
+    "348": {
+        "text_a": "What is the name of the woman who was with John Belushi when he died ?",
+        "text_b": null,
+        "label": 3
+    },
+    "349": {
+        "text_a": "How many bytes are in a terabyte ?",
+        "text_b": null,
+        "label": 5
+    },
+    "350": {
+        "text_a": "What 's the meaning of UOL ?",
+        "text_b": null,
+        "label": 0
+    },
+    "351": {
+        "text_a": "What was the non-fiction best-seller of 1952 , 1953 and 1954 ?",
+        "text_b": null,
+        "label": 1
+    },
+    "352": {
+        "text_a": "What 2 statues did France give to other countries ?",
+        "text_b": null,
+        "label": 1
+    },
+    "353": {
+        "text_a": "What two countries are separated by the Bering Strait ?",
+        "text_b": null,
+        "label": 4
+    },
+    "354": {
+        "text_a": "What does MSG stand for ?",
+        "text_b": null,
+        "label": 2
+    },
+    "355": {
+        "text_a": "How many years old is Benny Carter ?",
+        "text_b": null,
+        "label": 5
+    },
+    "356": {
+        "text_a": "What British prime minister and U.S. president were seventh cousins once-removed ?",
+        "text_b": null,
+        "label": 3
+    },
+    "357": {
+        "text_a": "Why are haunted houses popular ?",
+        "text_b": null,
+        "label": 0
+    },
+    "358": {
+        "text_a": "How big is the universe actually ?",
+        "text_b": null,
+        "label": 5
+    },
+    "359": {
+        "text_a": "What is the most expensive car in the world ?",
+        "text_b": null,
+        "label": 1
+    },
+    "360": {
+        "text_a": "When did CNN go on the air ?",
+        "text_b": null,
+        "label": 5
+    },
+    "361": {
+        "text_a": "When did Israel begin turning the Gaza Strip and Jericho over to the PLO ?",
+        "text_b": null,
+        "label": 5
+    },
+    "362": {
+        "text_a": "How do boats float ?",
+        "text_b": null,
+        "label": 0
+    },
+    "363": {
+        "text_a": "How many small businesses are there in the United States ?",
+        "text_b": null,
+        "label": 5
+    },
+    "364": {
+        "text_a": "Who is the current UN Secretary General ?",
+        "text_b": null,
+        "label": 3
+    },
+    "365": {
+        "text_a": "How many countries are there ?",
+        "text_b": null,
+        "label": 5
+    },
+    "366": {
+        "text_a": "Who said `` the only thing we have to fear is fear itself '' ?",
+        "text_b": null,
+        "label": 3
+    },
+    "367": {
+        "text_a": "When reading classified ads , what does EENTY : other stand for ?",
+        "text_b": null,
+        "label": 2
+    },
+    "368": {
+        "text_a": "What type of betting is used in horse racing ?",
+        "text_b": null,
+        "label": 1
+    },
+    "369": {
+        "text_a": "What James Michener book is subtitled Spanish Travels and Reflections ?",
+        "text_b": null,
+        "label": 1
+    },
+    "370": {
+        "text_a": "How many oceans are there and name them ?",
+        "text_b": null,
+        "label": 5
+    },
+    "371": {
+        "text_a": "What element , from the Periodic Table , is a gas or a solid , but never a liquid ?",
+        "text_b": null,
+        "label": 1
+    },
+    "372": {
+        "text_a": "What are the only two states that incorporate the Confederate battle flag in their flags ?",
+        "text_b": null,
+        "label": 4
+    },
+    "373": {
+        "text_a": "What diminutive American female gymnast stole the show at the 1984 Olympics ?",
+        "text_b": null,
+        "label": 3
+    },
+    "374": {
+        "text_a": "How can people from Ireland come to the U.S. , work , and then return to Ireland ?",
+        "text_b": null,
+        "label": 0
+    },
+    "375": {
+        "text_a": "What country buys 25 percent of the world 's tea exports ?",
+        "text_b": null,
+        "label": 4
+    },
+    "376": {
+        "text_a": "Where do rocks come from ?",
+        "text_b": null,
+        "label": 0
+    },
+    "377": {
+        "text_a": "What is the frequency of VHF ?",
+        "text_b": null,
+        "label": 5
+    },
+    "378": {
+        "text_a": "How do you correctly say the word ` qigong ' ?",
+        "text_b": null,
+        "label": 0
+    },
+    "379": {
+        "text_a": "What actress holds the record for the most appearances on the cover of Life ?",
+        "text_b": null,
+        "label": 3
+    },
+    "380": {
+        "text_a": "What country did the Mau Mau Uprising take place in ?",
+        "text_b": null,
+        "label": 4
+    },
+    "381": {
+        "text_a": "What did Vasco da Gama discover ?",
+        "text_b": null,
+        "label": 1
+    },
+    "382": {
+        "text_a": "Who painted the Sistine Chapel ?",
+        "text_b": null,
+        "label": 3
+    },
+    "383": {
+        "text_a": "What time does Wee Willie Winkie run through the town ?",
+        "text_b": null,
+        "label": 5
+    },
+    "384": {
+        "text_a": "What company markets a shampoo `` for brunettes only '' ?",
+        "text_b": null,
+        "label": 3
+    },
+    "385": {
+        "text_a": "What category does the color pink denote in the Trivial Pursuit Baby Boomer Edition ?",
+        "text_b": null,
+        "label": 0
+    },
+    "386": {
+        "text_a": "Where is Belize located ?",
+        "text_b": null,
+        "label": 4
+    },
+    "387": {
+        "text_a": "When was the Hoover Dam constructed ?",
+        "text_b": null,
+        "label": 5
+    },
+    "388": {
+        "text_a": "Where is the Danube ?",
+        "text_b": null,
+        "label": 4
+    },
+    "389": {
+        "text_a": "How much did the Iran-Contra investigation cost ?",
+        "text_b": null,
+        "label": 5
+    },
+    "390": {
+        "text_a": "What onetime member of Ronald Reagan 's cabinet called federal policy toward Indians `` an example of the failure of socialism '' ?",
+        "text_b": null,
+        "label": 3
+    },
+    "391": {
+        "text_a": "How much does one ton of cement cost ?",
+        "text_b": null,
+        "label": 5
+    },
+    "392": {
+        "text_a": "What did Louis Cartier invent for aviator Santos Dumont in 1940 ?",
+        "text_b": null,
+        "label": 1
+    },
+    "393": {
+        "text_a": "What do Italians call Florence ?",
+        "text_b": null,
+        "label": 1
+    },
+    "394": {
+        "text_a": "How many earthworms are in a single pasture ?",
+        "text_b": null,
+        "label": 5
+    },
+    "395": {
+        "text_a": "Why did several San Diego schools stop serving apples to students ?",
+        "text_b": null,
+        "label": 0
+    },
+    "396": {
+        "text_a": "How can a foreigner get a U.S. Social Security card ?",
+        "text_b": null,
+        "label": 0
+    },
+    "397": {
+        "text_a": "What 's the second-highest mountain in the world ?",
+        "text_b": null,
+        "label": 4
+    },
+    "398": {
+        "text_a": "What is the name of actor Rex Harrison 's son , who starred in a modestly popular TV show during the late 1960's ?",
+        "text_b": null,
+        "label": 3
+    },
+    "399": {
+        "text_a": "What are some of the significant historical events of the 1990s ?",
+        "text_b": null,
+        "label": 1
+    },
+    "400": {
+        "text_a": "What famous model was married to Billy Joel ?",
+        "text_b": null,
+        "label": 3
+    },
+    "401": {
+        "text_a": "What fruit-topped actress was known as The Brazilian Bombshell ?",
+        "text_b": null,
+        "label": 3
+    },
+    "402": {
+        "text_a": "When was the Triangle Shirtwaist fire ?",
+        "text_b": null,
+        "label": 5
+    },
+    "403": {
+        "text_a": "What do West Indian steel bands use as instruments ?",
+        "text_b": null,
+        "label": 1
+    },
+    "404": {
+        "text_a": "What is Spumante ?",
+        "text_b": null,
+        "label": 0
+    },
+    "405": {
+        "text_a": "What film did Louise Fletcher win the best actress Oscar for ?",
+        "text_b": null,
+        "label": 1
+    },
+    "406": {
+        "text_a": "What two cities usually mark the extremes of English Channel swims ?",
+        "text_b": null,
+        "label": 4
+    },
+    "407": {
+        "text_a": "What does LOL mean ?",
+        "text_b": null,
+        "label": 2
+    },
+    "408": {
+        "text_a": "What Caribbean cult did Marcus Garvey originate ?",
+        "text_b": null,
+        "label": 1
+    },
+    "409": {
+        "text_a": "What was Einstein 's IQ ?",
+        "text_b": null,
+        "label": 5
+    },
+    "410": {
+        "text_a": "The major league baseball team in Pittsburgh is called what ?",
+        "text_b": null,
+        "label": 3
+    },
+    "411": {
+        "text_a": "Who was Sherlock Holmes 's archenemy ?",
+        "text_b": null,
+        "label": 3
+    },
+    "412": {
+        "text_a": "What does the name ` Alexandra ' mean ?",
+        "text_b": null,
+        "label": 0
+    },
+    "413": {
+        "text_a": "How long was the longest hiccup attack ?",
+        "text_b": null,
+        "label": 5
+    },
+    "414": {
+        "text_a": "How do I start a web based business ?",
+        "text_b": null,
+        "label": 0
+    },
+    "415": {
+        "text_a": "Where can I get information about cystic fibrosis ?",
+        "text_b": null,
+        "label": 4
+    },
+    "416": {
+        "text_a": "How many feet more than 2 is the average height of the Great Wall of China ?",
+        "text_b": null,
+        "label": 5
+    },
+    "417": {
+        "text_a": "How many people does Honda employ in the U.S. ?",
+        "text_b": null,
+        "label": 5
+    },
+    "418": {
+        "text_a": "Which former Ku Klux Klan member won an elected office in the U.S. ?",
+        "text_b": null,
+        "label": 3
+    },
+    "419": {
+        "text_a": "What carries sperm up into the pelvic region ?",
+        "text_b": null,
+        "label": 1
+    },
+    "420": {
+        "text_a": "What is the history of `` the toast '' ?",
+        "text_b": null,
+        "label": 0
+    },
+    "421": {
+        "text_a": "Where is Sinn Fein 's headquarters ?",
+        "text_b": null,
+        "label": 4
+    },
+    "422": {
+        "text_a": "In Waugh 's `` A Handful of Dust , '' what does the mad old man force the hero to do every afternoon ?",
+        "text_b": null,
+        "label": 0
+    },
+    "423": {
+        "text_a": "How do you dunk ?",
+        "text_b": null,
+        "label": 0
+    },
+    "424": {
+        "text_a": "What South American city features the exclusive Copacabana Beach and Ipanema ?",
+        "text_b": null,
+        "label": 4
+    },
+    "425": {
+        "text_a": "What is a wet dream ?",
+        "text_b": null,
+        "label": 0
+    },
+    "426": {
+        "text_a": "What is the difference between khaki and chino ?",
+        "text_b": null,
+        "label": 0
+    },
+    "427": {
+        "text_a": "What actor has a tattoo on his right wrist reading Scotland Forever ?",
+        "text_b": null,
+        "label": 3
+    },
+    "428": {
+        "text_a": "Who was International Olympic Committee chairman at the 1936 Summer Games ?",
+        "text_b": null,
+        "label": 3
+    },
+    "429": {
+        "text_a": "What did Delilah do to Samson 's hair ?",
+        "text_b": null,
+        "label": 0
+    },
+    "430": {
+        "text_a": "How much of the silver production is manufactured by independent silversmiths ?",
+        "text_b": null,
+        "label": 5
+    },
+    "431": {
+        "text_a": "What city was John F. Kennedy nominated for president in ?",
+        "text_b": null,
+        "label": 4
+    },
+    "432": {
+        "text_a": "What does an echidna look like ?",
+        "text_b": null,
+        "label": 0
+    },
+    "433": {
+        "text_a": "What country 's royal house is Bourbon-Parma ?",
+        "text_b": null,
+        "label": 4
+    },
+    "434": {
+        "text_a": "How can I get someone 's email address ?",
+        "text_b": null,
+        "label": 0
+    },
+    "435": {
+        "text_a": "How do you make a paintball ?",
+        "text_b": null,
+        "label": 0
+    },
+    "436": {
+        "text_a": "What 's the singular of dice ?",
+        "text_b": null,
+        "label": 1
+    },
+    "437": {
+        "text_a": "Where did the saying `` rule of thumb '' come from ?",
+        "text_b": null,
+        "label": 0
+    },
+    "438": {
+        "text_a": "How many shillings more than 2 were there in a guinea ?",
+        "text_b": null,
+        "label": 5
+    },
+    "439": {
+        "text_a": "Who wrote the bestselling Missionary Travels and Researches in South Africa , published in 1857 ?",
+        "text_b": null,
+        "label": 3
+    },
+    "440": {
+        "text_a": "Where does the Santa Fe Trail begin and end ?",
+        "text_b": null,
+        "label": 4
+    },
+    "441": {
+        "text_a": "What commodity 's shortage was the largest single factor in keeping North American cars off the roads during World War II ?",
+        "text_b": null,
+        "label": 1
+    },
+    "442": {
+        "text_a": "What is the approximate weight of a teaspoon of matter in a black hole ?",
+        "text_b": null,
+        "label": 5
+    },
+    "443": {
+        "text_a": "Whose image is alleged to be on The Shroud of Turin ?",
+        "text_b": null,
+        "label": 3
+    },
+    "444": {
+        "text_a": "Which radio stations air the Jim Bohannon Radio Talk Show ?",
+        "text_b": null,
+        "label": 3
+    },
+    "445": {
+        "text_a": "Name the two actress daughters of John Mills .",
+        "text_b": null,
+        "label": 3
+    },
+    "446": {
+        "text_a": "What was the orca 's name that died of a fungal infection at Sea World ?",
+        "text_b": null,
+        "label": 1
+    },
+    "447": {
+        "text_a": "What is Stefan Edberg 's native country ?",
+        "text_b": null,
+        "label": 4
+    },
+    "448": {
+        "text_a": "How do you get a broken cork out of a bottle ?",
+        "text_b": null,
+        "label": 0
+    },
+    "449": {
+        "text_a": "What inescapable purveyor of background music celebrated its 5th anniversary in July , 1984 ?",
+        "text_b": null,
+        "label": 3
+    },
+    "450": {
+        "text_a": "Italy is the largest producer of what ?",
+        "text_b": null,
+        "label": 1
+    },
+    "451": {
+        "text_a": "How did the U.S. come into the possession of an empire in the wake of the Spanish-American War ?",
+        "text_b": null,
+        "label": 0
+    },
+    "452": {
+        "text_a": "What was originally defined as one 1-millionth of the distance from the equator to the Pole ?",
+        "text_b": null,
+        "label": 1
+    },
+    "453": {
+        "text_a": "Approximately how many students are enrolled at the University of Massachusetts ?",
+        "text_b": null,
+        "label": 5
+    },
+    "454": {
+        "text_a": "What novel did Ian Fleming introduce James Bond in ?",
+        "text_b": null,
+        "label": 1
+    },
+    "455": {
+        "text_a": "What personality traits are Capricorns said to have ?",
+        "text_b": null,
+        "label": 0
+    },
+    "456": {
+        "text_a": "What is the most common cancer ?",
+        "text_b": null,
+        "label": 1
+    },
+    "457": {
+        "text_a": "Where is Poe 's birthplace ?",
+        "text_b": null,
+        "label": 4
+    },
+    "458": {
+        "text_a": "What did Mr. Magoo flog on TV for General Electric ?",
+        "text_b": null,
+        "label": 1
+    },
+    "459": {
+        "text_a": "What Polynesian people inhabit New Zealand ?",
+        "text_b": null,
+        "label": 3
+    },
+    "460": {
+        "text_a": "Where is the official `` zero '' of the sea level ?",
+        "text_b": null,
+        "label": 4
+    },
+    "461": {
+        "text_a": "What TV character said ; `` One of these days , Alice , pow , right in the kisser '' ?",
+        "text_b": null,
+        "label": 3
+    },
+    "462": {
+        "text_a": "What is deconstructionism ?",
+        "text_b": null,
+        "label": 0
+    },
+    "463": {
+        "text_a": "What was the longest war in U.S. history ?",
+        "text_b": null,
+        "label": 1
+    },
+    "464": {
+        "text_a": "How do you clean an LCD monitor screen ?",
+        "text_b": null,
+        "label": 0
+    },
+    "465": {
+        "text_a": "How much money did the Marcos steal from their country ?",
+        "text_b": null,
+        "label": 5
+    },
+    "466": {
+        "text_a": "What is the name of the city that Maurizio Pellegrin lives in ?",
+        "text_b": null,
+        "label": 4
+    },
+    "467": {
+        "text_a": "What were the first three cities to have a population of more than a million ?",
+        "text_b": null,
+        "label": 4
+    },
+    "468": {
+        "text_a": "What is the cultural origin of the ceremony of potlatch ?",
+        "text_b": null,
+        "label": 0
+    },
+    "469": {
+        "text_a": "What Shakespearean play featured Shylock ?",
+        "text_b": null,
+        "label": 1
+    },
+    "470": {
+        "text_a": "In what city does Maurizio Pellegrin now live ?",
+        "text_b": null,
+        "label": 4
+    },
+    "471": {
+        "text_a": "In What city or state do the most gay men live in ?",
+        "text_b": null,
+        "label": 4
+    },
+    "472": {
+        "text_a": "Where did the Maya people live ?",
+        "text_b": null,
+        "label": 4
+    },
+    "473": {
+        "text_a": "Name an American made motorcycle .",
+        "text_b": null,
+        "label": 1
+    },
+    "474": {
+        "text_a": "What is the name of the company that manufactures the `` American Girl '' doll collection ?",
+        "text_b": null,
+        "label": 3
+    },
+    "475": {
+        "text_a": "Who was Shakespeare 's Moorish general ?",
+        "text_b": null,
+        "label": 3
+    },
+    "476": {
+        "text_a": "Who was chairman of the Senate select committee that tried to get to the bottom of Watergate ?",
+        "text_b": null,
+        "label": 3
+    },
+    "477": {
+        "text_a": "What was Mao 's second name ?",
+        "text_b": null,
+        "label": 3
+    },
+    "478": {
+        "text_a": "What TV series changed the names to protect the innocent ?",
+        "text_b": null,
+        "label": 1
+    },
+    "479": {
+        "text_a": "Who painted `` Soft Self-Portrait with Grilled Bacon '' ?",
+        "text_b": null,
+        "label": 3
+    },
+    "480": {
+        "text_a": "Who was Jane Goodall ?",
+        "text_b": null,
+        "label": 3
+    },
+    "481": {
+        "text_a": "What TV quiz show left the air in 1975 to the tune of Vera Lynn 's We 'll Meet Again ?",
+        "text_b": null,
+        "label": 1
+    },
+    "482": {
+        "text_a": "What river runs through Colorado , Kansas , and Oklahoma ?",
+        "text_b": null,
+        "label": 4
+    },
+    "483": {
+        "text_a": "What is a fear of machinery ?",
+        "text_b": null,
+        "label": 1
+    },
+    "484": {
+        "text_a": "What composer was awarded the Medal of Honor by Franklin D. Roosevelt ?",
+        "text_b": null,
+        "label": 3
+    },
+    "485": {
+        "text_a": "How many were in attendance at the Last Supper ?",
+        "text_b": null,
+        "label": 5
+    },
+    "486": {
+        "text_a": "What African country was founded by freed American slaves in 1847 ?",
+        "text_b": null,
+        "label": 4
+    },
+    "487": {
+        "text_a": "Where can I find a picture of a Blue Meanie ?",
+        "text_b": null,
+        "label": 4
+    },
+    "488": {
+        "text_a": "What is crabgrass ?",
+        "text_b": null,
+        "label": 0
+    },
+    "489": {
+        "text_a": "What 's the difference between carelessness and carefreeness ?",
+        "text_b": null,
+        "label": 0
+    },
+    "490": {
+        "text_a": "How many people on the ground were killed from the bombing of Pan Am Flight 103 over Lockerbie , Scotland , December 21 , CD .",
+        "text_b": null,
+        "label": 5
+    },
+    "491": {
+        "text_a": "Name of heroine in `` Scruples '' ?",
+        "text_b": null,
+        "label": 3
+    },
+    "492": {
+        "text_a": "Why was Henry Ford 's first automobile calleda Model T & his second type of automobile , introduced in 1928 , called a Model A ?",
+        "text_b": null,
+        "label": 0
+    },
+    "493": {
+        "text_a": "What does IBM stand for ?",
+        "text_b": null,
+        "label": 2
+    },
+    "494": {
+        "text_a": "What kind of suit did true hepcats wear in 1942 ?",
+        "text_b": null,
+        "label": 1
+    },
+    "495": {
+        "text_a": "What 's the most commonly-spoken language in Belgium ?",
+        "text_b": null,
+        "label": 1
+    },
+    "496": {
+        "text_a": "What is the leading pecan and peanut growing state ?",
+        "text_b": null,
+        "label": 4
+    },
+    "497": {
+        "text_a": "Name the three races unleashed by the Celestials in Marvel comics .",
+        "text_b": null,
+        "label": 3
+    },
+    "498": {
+        "text_a": "Where do people mountain climb in Nepal ?",
+        "text_b": null,
+        "label": 4
+    },
+    "499": {
+        "text_a": "What is the difference between classical conditioning and operant conditioning ?",
+        "text_b": null,
+        "label": 0
+    },
+    "500": {
+        "text_a": "What is Mikhail Gorbachev 's middle initial ?",
+        "text_b": null,
+        "label": 2
+    },
+    "501": {
+        "text_a": "How does the tail affect the flight of a kite ?",
+        "text_b": null,
+        "label": 0
+    },
+    "502": {
+        "text_a": "What were the first three cities to have a population of more than a million ?",
+        "text_b": null,
+        "label": 4
+    },
+    "503": {
+        "text_a": "What is the movie Jonathan Livingstone Seagull ?",
+        "text_b": null,
+        "label": 1
+    },
+    "504": {
+        "text_a": "What is a fear of home surroundings ?",
+        "text_b": null,
+        "label": 1
+    },
+    "505": {
+        "text_a": "Where does the expression `` cloud nine '' come from ?",
+        "text_b": null,
+        "label": 0
+    },
+    "506": {
+        "text_a": "When was the Parthenon built ?",
+        "text_b": null,
+        "label": 5
+    },
+    "507": {
+        "text_a": "What is the most populated city in the world ?",
+        "text_b": null,
+        "label": 4
+    },
+    "508": {
+        "text_a": "What 's a perfect score in a gymnastics exercise ?",
+        "text_b": null,
+        "label": 5
+    },
+    "509": {
+        "text_a": "How long does it take the typical hen to lay 19 dozen eggs ?",
+        "text_b": null,
+        "label": 5
+    },
+    "510": {
+        "text_a": "What 's the claim to fame of night watchman Frank Wills ?",
+        "text_b": null,
+        "label": 0
+    },
+    "511": {
+        "text_a": "What is a firewall ?",
+        "text_b": null,
+        "label": 0
+    },
+    "512": {
+        "text_a": "What is the most radioactive food ?",
+        "text_b": null,
+        "label": 1
+    },
+    "513": {
+        "text_a": "In what year was the Berlin Wall erected ?",
+        "text_b": null,
+        "label": 5
+    },
+    "514": {
+        "text_a": "What color bottles do good Rhine wines come in ?",
+        "text_b": null,
+        "label": 1
+    },
+    "515": {
+        "text_a": "How far away is the moon ?",
+        "text_b": null,
+        "label": 5
+    },
+    "516": {
+        "text_a": "What kind of creatures are the Canary Islands named for ?",
+        "text_b": null,
+        "label": 1
+    },
+    "517": {
+        "text_a": "Which is the largest clock , diameter wise , in Europe ?",
+        "text_b": null,
+        "label": 1
+    },
+    "518": {
+        "text_a": "What are all the different types of pizza ?",
+        "text_b": null,
+        "label": 1
+    },
+    "519": {
+        "text_a": "What is the origin of the word trigonometry ?",
+        "text_b": null,
+        "label": 0
+    },
+    "520": {
+        "text_a": "What does `` Janelle '' mean ?",
+        "text_b": null,
+        "label": 0
+    },
+    "521": {
+        "text_a": "What do the names Andrew and Christina mean ?",
+        "text_b": null,
+        "label": 0
+    },
+    "522": {
+        "text_a": "What dictator has the nickname `` El Maximo '' ?",
+        "text_b": null,
+        "label": 3
+    },
+    "523": {
+        "text_a": "Who was the author of the book about computer hackers called `` The Cuckoo 's Egg : Tracking a Spy Through the Maze of Computer Espionage '' ?",
+        "text_b": null,
+        "label": 3
+    },
+    "524": {
+        "text_a": "How much do tuberculosis combatting drugs cost ?",
+        "text_b": null,
+        "label": 5
+    },
+    "525": {
+        "text_a": "What does a philatelist collect ?",
+        "text_b": null,
+        "label": 1
+    },
+    "526": {
+        "text_a": "How do websites like Yahoo and Excite make money ?",
+        "text_b": null,
+        "label": 0
+    },
+    "527": {
+        "text_a": "When did the Berlin Wall go up ?",
+        "text_b": null,
+        "label": 5
+    },
+    "528": {
+        "text_a": "How do I know if I 'm jealous of someone ?",
+        "text_b": null,
+        "label": 0
+    },
+    "529": {
+        "text_a": "What are the Valdez Principles ?",
+        "text_b": null,
+        "label": 0
+    },
+    "530": {
+        "text_a": "What country has problems with hooligans ?",
+        "text_b": null,
+        "label": 4
+    },
+    "531": {
+        "text_a": "What is Beethoven 's 9th symphony called ?",
+        "text_b": null,
+        "label": 1
+    },
+    "532": {
+        "text_a": "What company is the largest Japanese ship builder ?",
+        "text_b": null,
+        "label": 3
+    },
+    "533": {
+        "text_a": "How can I stop or slow down aging ?",
+        "text_b": null,
+        "label": 0
+    },
+    "534": {
+        "text_a": "What was organized as a Confederate veterans ' social club in Pulaski , in Tennessee , in 1866 ?",
+        "text_b": null,
+        "label": 1
+    },
+    "535": {
+        "text_a": "What 1927 silent film received an international revival in 1981 ?",
+        "text_b": null,
+        "label": 1
+    },
+    "536": {
+        "text_a": "What two animals are specifically mentioned as being in Noah 's Ark ?",
+        "text_b": null,
+        "label": 1
+    },
+    "537": {
+        "text_a": "How many trees go into paper making in a year ?",
+        "text_b": null,
+        "label": 5
+    },
+    "538": {
+        "text_a": "How many eyes does a bat have ?",
+        "text_b": null,
+        "label": 5
+    },
+    "539": {
+        "text_a": "What foods contain vitamin B12 ?",
+        "text_b": null,
+        "label": 1
+    },
+    "540": {
+        "text_a": "What is the only vegetable that starts with `` z '' ?",
+        "text_b": null,
+        "label": 1
+    },
+    "541": {
+        "text_a": "In what city is the famed St. Mark 's Square ?",
+        "text_b": null,
+        "label": 4
+    },
+    "542": {
+        "text_a": "Who wrote the sci-fi trilogy Foundation , Foundation and Empire , and Second Foundation ?",
+        "text_b": null,
+        "label": 3
+    },
+    "543": {
+        "text_a": "What is the population of Mozambique ?",
+        "text_b": null,
+        "label": 5
+    },
+    "544": {
+        "text_a": "Who is the owner of CNN ?",
+        "text_b": null,
+        "label": 3
+    },
+    "545": {
+        "text_a": "Who was credited with saying : `` I never met a man I did n't like '' ?",
+        "text_b": null,
+        "label": 3
+    }
+}

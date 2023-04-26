@@ -1,0 +1,33 @@
+index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
+3031	main-news	MSRpar	2012train	0111	none	none	The company posted a profit of $54.3 million, or 22 cents per share, in the year-ago period.	That was up from the year-ago quarter, when the company earned $54.3 million, or 22 cents a share.	4.176
+2046	main-forum	deft-forum	2014	0046	none	none	Z stalked him down, then shot him.	You claimed Zimmerman " Stalked him down, then shot him ".	3
+3832	main-news	headlines	2013	0104	none	none	Two reported dead in shooting at Empire State Building in NY	2 dead in shooting outside Empire State Building	4.6
+3522	main-news	deft-news	2014	0072	none	none	in an armed clash iranian police kill 4 alleged drug traffickers, arrest 2, and seize nearly 5 metric tons of opium and morphine.	during armed clashes in southeastern iran police seized nearly 5 metric tons (5.5 tons) of opium and morphine.	3.2
+3330	main-news	MSRpar	2012train	0581	none	none	Dubbed Project Mad Hatter, the Linux-based desktop is being promoted by Sun as a more secure and less expensive alternative to Windows.	Designed to compete with Microsoft Corp., Project Mad Hatter is being positioned by Sun as a cheaper, secure alternative desktop operating system to Microsoft's various desktop offerings.	3.800
+5350	main-news	headlines	2015	0982	none	none	UK vote rejects military action	Britain rejects Syria military action	3.40
+3473	main-news	deft-news	2014	0023	none	none	religious extremism continues in pakistan despite the banning of militant groups.	religious extremism continues in pakistan despite the banning of militant groups by the pakistani government.	4
+2720	main-news	MSRpar	2012test	0416	none	none	They made a similar discovery in Houston on another aircraft, Dallas-based Southwest said in a statement.	The airline said a similar discovery was made on the plane in Houston.	3.400
+3560	main-news	deft-news	2014	0110	none	none	the new law attempts to remove any legal obstacles to building more advanced spy satellites and to help innovation in japans's space industry.	the purpose of the new law is to remove any legal obstacles to building more advanced spy satellites and to encourage innovation in japans's space industry.	4.8
+163	main-captions	MSRvid	2012test	0240	none	none	The man spread butter on the loaf of bread.	A man is spreading butter onto bread.	4.000
+496	main-captions	MSRvid	2012train	0004	none	none	A woman is slicing an onion.	A woman is cutting an onion.	4.200
+1158	main-captions	images	2014	0229	none	none	A silver and blue motorcycle sitting next to a car.	A motorcycle parked next to a car.	3.6
+781	main-captions	MSRvid	2012train	0418	none	none	A woman dances on a stage.	A woman is dancing.	3.200
+3945	main-news	headlines	2013	0241	none	none	US drone strike kills four in North Waziristan	Suspected drone strike kills 4 in Pakistan	2.6
+5578	main-news	headlines	2016	0201	Europe Media Monitor (http://emm.newsbrief.eu)	Europe Media Monitor (http://emm.newsbrief.eu)	Captain of sunken South Korean ferry arrested	Captain of capsized S Korean Ferry Arrested	4
+884	main-captions	MSRvid	2012train	0570	none	none	A man makes a call on a cell phone.	A man is making a phone call.	4.000
+1701	main-captions	images	2015	0597	none	none	A man and a woman looking at the camera.	A man and a woman laughing.	2.33
+2295	main-forum	deft-forum	2014	0295	none	none	I think you are missing the point with entrepreneurs.	Again I think you are missing the point on the Twain quote.	0.8
+4444	main-news	headlines	2014	0123	none	none	Palestinians build another West Bank tent protest	Palestinians' first ever UN vote symbolic yet historic	0.4
+606	main-captions	MSRvid	2012train	0162	none	none	A man is shooting a gun.	A man is slicing a bun.	0.800
+4734	main-news	headlines	2014	0480	none	none	Stocks close 0.39% higher	Singapore stocks close 0.31 pct lower	1.6
+2288	main-forum	deft-forum	2014	0288	none	none	He had no intention of apprehending him.	- I didnt say he planned on apprehending him.	2.4
+1707	main-captions	images	2015	0628	none	none	A black dog wearing an orange collar is entangled with fishing wire.	The black dog wearing a red collar shakes water off.	1.80
+5288	main-news	headlines	2015	0831	none	none	Police: Explosion in Belfast Cathedral Quarter	Explosion in Kabul a suicide attack in diplomatic area	2.00
+3615	main-news	deft-news	2014	0165	none	none	it did not say if the men had been hanged in prison.	dozens of such criminals have been hanged in public.	1.8
+227	main-captions	MSRvid	2012test	0334	none	none	Someone is greasing a pan.	Smeone is laying down.	0.400
+352	main-captions	MSRvid	2012test	0525	none	none	A woman peels an apple.	A man pops wheelies on a motorcycle.	0.000
+3556	main-news	deft-news	2014	0106	none	none	the plan for tunisia is the creation of electronic databases to facilitate tax collection.	the plan for nigeria and mozambique is the creation an electronic database for real estate.	1.8
+2383	main-forum	deft-forum	2014	0383	none	none	fix?: Islam itself is not political.	Islam has always been political.	1.2
+604	main-captions	MSRvid	2012train	0159	none	none	A man is riding a horse.	A man is driving a car.	1.400
+1823	main-captions	images	2015	0989	none	none	Four black dogs run across the grass.	A dog runs across the grassy field.	2.00
+662	main-captions	MSRvid	2012train	0245	none	none	A woman is firing a rifle.	A woman is cutting a lemon.	0.200

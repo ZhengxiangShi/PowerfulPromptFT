@@ -1,0 +1,4307 @@
+{
+    "0": {
+        "text_a": "illegitimate",
+        "text_b": null,
+        "label": 0
+    },
+    "1": {
+        "text_a": "valued ally and friend",
+        "text_b": null,
+        "label": 1
+    },
+    "2": {
+        "text_a": "always likes to",
+        "text_b": null,
+        "label": 1
+    },
+    "3": {
+        "text_a": "have been justified",
+        "text_b": null,
+        "label": 1
+    },
+    "4": {
+        "text_a": "shook",
+        "text_b": null,
+        "label": 0
+    },
+    "5": {
+        "text_a": "not a fair election",
+        "text_b": null,
+        "label": 0
+    },
+    "6": {
+        "text_a": "explosive move",
+        "text_b": null,
+        "label": 0
+    },
+    "7": {
+        "text_a": "is demanding",
+        "text_b": null,
+        "label": 1
+    },
+    "8": {
+        "text_a": "will urge",
+        "text_b": null,
+        "label": 1
+    },
+    "9": {
+        "text_a": "humanely",
+        "text_b": null,
+        "label": 1
+    },
+    "10": {
+        "text_a": "with a vengeance",
+        "text_b": null,
+        "label": 1
+    },
+    "11": {
+        "text_a": "flighty , opportunistic and lacking in commitment to his job as a member of parliament",
+        "text_b": null,
+        "label": 0
+    },
+    "12": {
+        "text_a": "m feeling much better",
+        "text_b": null,
+        "label": 1
+    },
+    "13": {
+        "text_a": "fraud - tainted",
+        "text_b": null,
+        "label": 0
+    },
+    "14": {
+        "text_a": "expressed concern",
+        "text_b": null,
+        "label": 0
+    },
+    "15": {
+        "text_a": "failed",
+        "text_b": null,
+        "label": 1
+    },
+    "16": {
+        "text_a": "not free and fair",
+        "text_b": null,
+        "label": 0
+    },
+    "17": {
+        "text_a": "free and fair",
+        "text_b": null,
+        "label": 1
+    },
+    "18": {
+        "text_a": "ease",
+        "text_b": null,
+        "label": 1
+    },
+    "19": {
+        "text_a": "axis of evil",
+        "text_b": null,
+        "label": 0
+    },
+    "20": {
+        "text_a": "difficulties",
+        "text_b": null,
+        "label": 0
+    },
+    "21": {
+        "text_a": "breeding ground",
+        "text_b": null,
+        "label": 0
+    },
+    "22": {
+        "text_a": "axis of evil",
+        "text_b": null,
+        "label": 0
+    },
+    "23": {
+        "text_a": "was determined",
+        "text_b": null,
+        "label": 1
+    },
+    "24": {
+        "text_a": "goodies",
+        "text_b": null,
+        "label": 0
+    },
+    "25": {
+        "text_a": "widespread condemnation and objection",
+        "text_b": null,
+        "label": 0
+    },
+    "26": {
+        "text_a": "denunciation",
+        "text_b": null,
+        "label": 0
+    },
+    "27": {
+        "text_a": "is wide awake",
+        "text_b": null,
+        "label": 1
+    },
+    "28": {
+        "text_a": "to accept",
+        "text_b": null,
+        "label": 1
+    },
+    "29": {
+        "text_a": "such a failure",
+        "text_b": null,
+        "label": 0
+    },
+    "30": {
+        "text_a": "neither free nor fair",
+        "text_b": null,
+        "label": 0
+    },
+    "31": {
+        "text_a": "seemed willing",
+        "text_b": null,
+        "label": 1
+    },
+    "32": {
+        "text_a": "should not",
+        "text_b": null,
+        "label": 0
+    },
+    "33": {
+        "text_a": "sought",
+        "text_b": null,
+        "label": 1
+    },
+    "34": {
+        "text_a": "bad",
+        "text_b": null,
+        "label": 0
+    },
+    "35": {
+        "text_a": "over - financed",
+        "text_b": null,
+        "label": 0
+    },
+    "36": {
+        "text_a": "supports it with words and deeds",
+        "text_b": null,
+        "label": 1
+    },
+    "37": {
+        "text_a": "threaten to compromise",
+        "text_b": null,
+        "label": 0
+    },
+    "38": {
+        "text_a": "aimed",
+        "text_b": null,
+        "label": 0
+    },
+    "39": {
+        "text_a": "the model to follow",
+        "text_b": null,
+        "label": 0
+    },
+    "40": {
+        "text_a": "called for",
+        "text_b": null,
+        "label": 1
+    },
+    "41": {
+        "text_a": "do n't want",
+        "text_b": null,
+        "label": 0
+    },
+    "42": {
+        "text_a": "violent enemies",
+        "text_b": null,
+        "label": 0
+    },
+    "43": {
+        "text_a": "looking to be disciplined",
+        "text_b": null,
+        "label": 1
+    },
+    "44": {
+        "text_a": "axis'' suggested an alliance that does n't exist",
+        "text_b": null,
+        "label": 0
+    },
+    "45": {
+        "text_a": "inaccurate and fabricated",
+        "text_b": null,
+        "label": 0
+    },
+    "46": {
+        "text_a": "flawed",
+        "text_b": null,
+        "label": 0
+    },
+    "47": {
+        "text_a": "to destroy buildings , facilities , infrastructure , roads , water pipes , and electricity and telephone poles",
+        "text_b": null,
+        "label": 0
+    },
+    "48": {
+        "text_a": "growing public interest",
+        "text_b": null,
+        "label": 1
+    },
+    "49": {
+        "text_a": "heckling",
+        "text_b": null,
+        "label": 0
+    },
+    "50": {
+        "text_a": "very useful",
+        "text_b": null,
+        "label": 1
+    },
+    "51": {
+        "text_a": "axis of evil",
+        "text_b": null,
+        "label": 0
+    },
+    "52": {
+        "text_a": "second only to the terrorism itself",
+        "text_b": null,
+        "label": 0
+    },
+    "53": {
+        "text_a": "unity",
+        "text_b": null,
+        "label": 1
+    },
+    "54": {
+        "text_a": "far from condemning",
+        "text_b": null,
+        "label": 0
+    },
+    "55": {
+        "text_a": "world's best chance",
+        "text_b": null,
+        "label": 1
+    },
+    "56": {
+        "text_a": "we have dealt a stunning blow to imperialism",
+        "text_b": null,
+        "label": 1
+    },
+    "57": {
+        "text_a": "humiliates",
+        "text_b": null,
+        "label": 0
+    },
+    "58": {
+        "text_a": "hard to find a justification",
+        "text_b": null,
+        "label": 0
+    },
+    "59": {
+        "text_a": "not",
+        "text_b": null,
+        "label": 0
+    },
+    "60": {
+        "text_a": "threat",
+        "text_b": null,
+        "label": 0
+    },
+    "61": {
+        "text_a": "the united states' biggest enemy",
+        "text_b": null,
+        "label": 0
+    },
+    "62": {
+        "text_a": "intense interrogation",
+        "text_b": null,
+        "label": 0
+    },
+    "63": {
+        "text_a": "engulfed by violence and crime",
+        "text_b": null,
+        "label": 0
+    },
+    "64": {
+        "text_a": "in particular",
+        "text_b": null,
+        "label": 0
+    },
+    "65": {
+        "text_a": "repeated reference",
+        "text_b": null,
+        "label": 0
+    },
+    "66": {
+        "text_a": "leeway",
+        "text_b": null,
+        "label": 1
+    },
+    "67": {
+        "text_a": "opportunity",
+        "text_b": null,
+        "label": 1
+    },
+    "68": {
+        "text_a": "remembering",
+        "text_b": null,
+        "label": 0
+    },
+    "69": {
+        "text_a": "was baffled",
+        "text_b": null,
+        "label": 0
+    },
+    "70": {
+        "text_a": "a scandal",
+        "text_b": null,
+        "label": 0
+    },
+    "71": {
+        "text_a": "slams",
+        "text_b": null,
+        "label": 0
+    },
+    "72": {
+        "text_a": "filled with repression",
+        "text_b": null,
+        "label": 0
+    },
+    "73": {
+        "text_a": "assumes the right to interfere",
+        "text_b": null,
+        "label": 0
+    },
+    "74": {
+        "text_a": "preservation of democracy and human rights",
+        "text_b": null,
+        "label": 1
+    },
+    "75": {
+        "text_a": "not an acceptable",
+        "text_b": null,
+        "label": 0
+    },
+    "76": {
+        "text_a": "repressive",
+        "text_b": null,
+        "label": 0
+    },
+    "77": {
+        "text_a": "shift loosely between the u . s . polity and people",
+        "text_b": null,
+        "label": 0
+    },
+    "78": {
+        "text_a": "after dithering for a few days",
+        "text_b": null,
+        "label": 0
+    },
+    "79": {
+        "text_a": "certifiably dead",
+        "text_b": null,
+        "label": 0
+    },
+    "80": {
+        "text_a": "against",
+        "text_b": null,
+        "label": 0
+    },
+    "81": {
+        "text_a": "intimidation",
+        "text_b": null,
+        "label": 0
+    },
+    "82": {
+        "text_a": "fall far short of",
+        "text_b": null,
+        "label": 0
+    },
+    "83": {
+        "text_a": "a shocking story",
+        "text_b": null,
+        "label": 0
+    },
+    "84": {
+        "text_a": "rising tension",
+        "text_b": null,
+        "label": 0
+    },
+    "85": {
+        "text_a": "was neither free nor fair",
+        "text_b": null,
+        "label": 0
+    },
+    "86": {
+        "text_a": "duplicity",
+        "text_b": null,
+        "label": 0
+    },
+    "87": {
+        "text_a": "premeditated massacres",
+        "text_b": null,
+        "label": 0
+    },
+    "88": {
+        "text_a": "is not a good neighborly field",
+        "text_b": null,
+        "label": 0
+    },
+    "89": {
+        "text_a": "unlawful combatants",
+        "text_b": null,
+        "label": 0
+    },
+    "90": {
+        "text_a": "requires a strong leader",
+        "text_b": null,
+        "label": 1
+    },
+    "91": {
+        "text_a": "honored his commitment",
+        "text_b": null,
+        "label": 1
+    },
+    "92": {
+        "text_a": "unwarranted",
+        "text_b": null,
+        "label": 0
+    },
+    "93": {
+        "text_a": "humanely",
+        "text_b": null,
+        "label": 1
+    },
+    "94": {
+        "text_a": "appeals",
+        "text_b": null,
+        "label": 1
+    },
+    "95": {
+        "text_a": "amazingly roomy",
+        "text_b": null,
+        "label": 1
+    },
+    "96": {
+        "text_a": "they discredit the usa",
+        "text_b": null,
+        "label": 0
+    },
+    "97": {
+        "text_a": "as a human being",
+        "text_b": null,
+        "label": 1
+    },
+    "98": {
+        "text_a": "greatest",
+        "text_b": null,
+        "label": 0
+    },
+    "99": {
+        "text_a": "charges against",
+        "text_b": null,
+        "label": 0
+    },
+    "100": {
+        "text_a": "will complain",
+        "text_b": null,
+        "label": 0
+    },
+    "101": {
+        "text_a": "the nature of",
+        "text_b": null,
+        "label": 0
+    },
+    "102": {
+        "text_a": "deny",
+        "text_b": null,
+        "label": 0
+    },
+    "103": {
+        "text_a": "can not last",
+        "text_b": null,
+        "label": 1
+    },
+    "104": {
+        "text_a": "solidarity",
+        "text_b": null,
+        "label": 1
+    },
+    "105": {
+        "text_a": "accused",
+        "text_b": null,
+        "label": 0
+    },
+    "106": {
+        "text_a": "insists",
+        "text_b": null,
+        "label": 1
+    },
+    "107": {
+        "text_a": "invisible",
+        "text_b": null,
+        "label": 0
+    },
+    "108": {
+        "text_a": "hostile international attention",
+        "text_b": null,
+        "label": 0
+    },
+    "109": {
+        "text_a": "toll",
+        "text_b": null,
+        "label": 0
+    },
+    "110": {
+        "text_a": "frustration",
+        "text_b": null,
+        "label": 0
+    },
+    "111": {
+        "text_a": "repeatedly guaranteed",
+        "text_b": null,
+        "label": 1
+    },
+    "112": {
+        "text_a": "charges",
+        "text_b": null,
+        "label": 0
+    },
+    "113": {
+        "text_a": "one of the grossest type of human rights violations",
+        "text_b": null,
+        "label": 0
+    },
+    "114": {
+        "text_a": "good reviews",
+        "text_b": null,
+        "label": 1
+    },
+    "115": {
+        "text_a": "axis of evil",
+        "text_b": null,
+        "label": 0
+    },
+    "116": {
+        "text_a": "bodes well",
+        "text_b": null,
+        "label": 1
+    },
+    "117": {
+        "text_a": "remained defiant",
+        "text_b": null,
+        "label": 0
+    },
+    "118": {
+        "text_a": "marched against",
+        "text_b": null,
+        "label": 0
+    },
+    "119": {
+        "text_a": "have saved all of their praise",
+        "text_b": null,
+        "label": 1
+    },
+    "120": {
+        "text_a": "what is non - wasp humanity",
+        "text_b": null,
+        "label": 0
+    },
+    "121": {
+        "text_a": "fair shares",
+        "text_b": null,
+        "label": 1
+    },
+    "122": {
+        "text_a": "threatened",
+        "text_b": null,
+        "label": 0
+    },
+    "123": {
+        "text_a": "support",
+        "text_b": null,
+        "label": 1
+    },
+    "124": {
+        "text_a": "will be entirely happy",
+        "text_b": null,
+        "label": 0
+    },
+    "125": {
+        "text_a": "stand - off",
+        "text_b": null,
+        "label": 0
+    },
+    "126": {
+        "text_a": "and they will get it",
+        "text_b": null,
+        "label": 1
+    },
+    "127": {
+        "text_a": "was forced out",
+        "text_b": null,
+        "label": 0
+    },
+    "128": {
+        "text_a": "brutal",
+        "text_b": null,
+        "label": 0
+    },
+    "129": {
+        "text_a": "strong protest and denunciation",
+        "text_b": null,
+        "label": 0
+    },
+    "130": {
+        "text_a": "disapproval",
+        "text_b": null,
+        "label": 0
+    },
+    "131": {
+        "text_a": "never stopped to consider",
+        "text_b": null,
+        "label": 0
+    },
+    "132": {
+        "text_a": "pretty strong",
+        "text_b": null,
+        "label": 0
+    },
+    "133": {
+        "text_a": "fiercely waging a fight",
+        "text_b": null,
+        "label": 0
+    },
+    "134": {
+        "text_a": "a more serious dip",
+        "text_b": null,
+        "label": 0
+    },
+    "135": {
+        "text_a": "dramatic upsurge",
+        "text_b": null,
+        "label": 0
+    },
+    "136": {
+        "text_a": "calling on",
+        "text_b": null,
+        "label": 1
+    },
+    "137": {
+        "text_a": "plotting to bring down each other",
+        "text_b": null,
+        "label": 0
+    },
+    "138": {
+        "text_a": "oversight",
+        "text_b": null,
+        "label": 0
+    },
+    "139": {
+        "text_a": "attacks",
+        "text_b": null,
+        "label": 0
+    },
+    "140": {
+        "text_a": "instead",
+        "text_b": null,
+        "label": 0
+    },
+    "141": {
+        "text_a": "rig",
+        "text_b": null,
+        "label": 0
+    },
+    "142": {
+        "text_a": "may not",
+        "text_b": null,
+        "label": 0
+    },
+    "143": {
+        "text_a": "we have nothing to hide",
+        "text_b": null,
+        "label": 1
+    },
+    "144": {
+        "text_a": "support for",
+        "text_b": null,
+        "label": 1
+    },
+    "145": {
+        "text_a": "free and independent state",
+        "text_b": null,
+        "label": 1
+    },
+    "146": {
+        "text_a": "are being subjected to",
+        "text_b": null,
+        "label": 0
+    },
+    "147": {
+        "text_a": "designed to achieve an outcome - power at all costs",
+        "text_b": null,
+        "label": 0
+    },
+    "148": {
+        "text_a": "did not agree",
+        "text_b": null,
+        "label": 0
+    },
+    "149": {
+        "text_a": "that's ridiculous",
+        "text_b": null,
+        "label": 0
+    },
+    "150": {
+        "text_a": "most interesting",
+        "text_b": null,
+        "label": 1
+    },
+    "151": {
+        "text_a": "if painful",
+        "text_b": null,
+        "label": 0
+    },
+    "152": {
+        "text_a": "successfully rallied",
+        "text_b": null,
+        "label": 1
+    },
+    "153": {
+        "text_a": "other slightly troubling images",
+        "text_b": null,
+        "label": 0
+    },
+    "154": {
+        "text_a": "have criticized",
+        "text_b": null,
+        "label": 0
+    },
+    "155": {
+        "text_a": "most important heritage",
+        "text_b": null,
+        "label": 1
+    },
+    "156": {
+        "text_a": "are not to be treated like those jailed by the u . s .",
+        "text_b": null,
+        "label": 0
+    },
+    "157": {
+        "text_a": "had alienated",
+        "text_b": null,
+        "label": 0
+    },
+    "158": {
+        "text_a": "are n't even allowed",
+        "text_b": null,
+        "label": 0
+    },
+    "159": {
+        "text_a": "far worse than those prevailing in camp x - ray",
+        "text_b": null,
+        "label": 0
+    },
+    "160": {
+        "text_a": "will have sown the seed",
+        "text_b": null,
+        "label": 0
+    },
+    "161": {
+        "text_a": "welcome and support",
+        "text_b": null,
+        "label": 1
+    },
+    "162": {
+        "text_a": "conceded",
+        "text_b": null,
+        "label": 0
+    },
+    "163": {
+        "text_a": "sets a dangerous precedent",
+        "text_b": null,
+        "label": 0
+    },
+    "164": {
+        "text_a": "noted critically",
+        "text_b": null,
+        "label": 0
+    },
+    "165": {
+        "text_a": " lose popular support among",
+        "text_b": null,
+        "label": 0
+    },
+    "166": {
+        "text_a": "to obey those in authority",
+        "text_b": null,
+        "label": 1
+    },
+    "167": {
+        "text_a": "heavy - handed",
+        "text_b": null,
+        "label": 0
+    },
+    "168": {
+        "text_a": "hardly convincing",
+        "text_b": null,
+        "label": 0
+    },
+    "169": {
+        "text_a": "not much better",
+        "text_b": null,
+        "label": 0
+    },
+    "170": {
+        "text_a": "are still worried",
+        "text_b": null,
+        "label": 0
+    },
+    "171": {
+        "text_a": "overlooking",
+        "text_b": null,
+        "label": 0
+    },
+    "172": {
+        "text_a": "dedicate themselves to lamenting",
+        "text_b": null,
+        "label": 0
+    },
+    "173": {
+        "text_a": "are torn",
+        "text_b": null,
+        "label": 0
+    },
+    "174": {
+        "text_a": "tried to tear up",
+        "text_b": null,
+        "label": 0
+    },
+    "175": {
+        "text_a": "such fruitful results",
+        "text_b": null,
+        "label": 1
+    },
+    "176": {
+        "text_a": "his axis of evil remark",
+        "text_b": null,
+        "label": 0
+    },
+    "177": {
+        "text_a": "may put back by years",
+        "text_b": null,
+        "label": 0
+    },
+    "178": {
+        "text_a": "ignored",
+        "text_b": null,
+        "label": 0
+    },
+    "179": {
+        "text_a": "crisis",
+        "text_b": null,
+        "label": 0
+    },
+    "180": {
+        "text_a": "trying to criticize",
+        "text_b": null,
+        "label": 0
+    },
+    "181": {
+        "text_a": "good shape",
+        "text_b": null,
+        "label": 1
+    },
+    "182": {
+        "text_a": "scaring away",
+        "text_b": null,
+        "label": 0
+    },
+    "183": {
+        "text_a": "think",
+        "text_b": null,
+        "label": 1
+    },
+    "184": {
+        "text_a": "opinionated",
+        "text_b": null,
+        "label": 0
+    },
+    "185": {
+        "text_a": "has resisted",
+        "text_b": null,
+        "label": 0
+    },
+    "186": {
+        "text_a": "suspend",
+        "text_b": null,
+        "label": 0
+    },
+    "187": {
+        "text_a": "usa to end inhumane treatment",
+        "text_b": null,
+        "label": 0
+    },
+    "188": {
+        "text_a": "dispute",
+        "text_b": null,
+        "label": 0
+    },
+    "189": {
+        "text_a": "accused",
+        "text_b": null,
+        "label": 0
+    },
+    "190": {
+        "text_a": "had always denied",
+        "text_b": null,
+        "label": 0
+    },
+    "191": {
+        "text_a": "would cause japan and the republic of korea ( rok ) feel disturbed",
+        "text_b": null,
+        "label": 0
+    },
+    "192": {
+        "text_a": "repeat his father's mistake",
+        "text_b": null,
+        "label": 0
+    },
+    "193": {
+        "text_a": "brutal",
+        "text_b": null,
+        "label": 0
+    },
+    "194": {
+        "text_a": "retrogression",
+        "text_b": null,
+        "label": 0
+    },
+    "195": {
+        "text_a": "supported",
+        "text_b": null,
+        "label": 1
+    },
+    "196": {
+        "text_a": "beseeched",
+        "text_b": null,
+        "label": 1
+    },
+    "197": {
+        "text_a": "all was not lost",
+        "text_b": null,
+        "label": 1
+    },
+    "198": {
+        "text_a": "is feared by",
+        "text_b": null,
+        "label": 0
+    },
+    "199": {
+        "text_a": "scope for more improvement",
+        "text_b": null,
+        "label": 1
+    },
+    "200": {
+        "text_a": "have been accused",
+        "text_b": null,
+        "label": 0
+    },
+    "201": {
+        "text_a": "compromising the image of the war against terrorism",
+        "text_b": null,
+        "label": 0
+    },
+    "202": {
+        "text_a": "has encouraged",
+        "text_b": null,
+        "label": 1
+    },
+    "203": {
+        "text_a": "in protest",
+        "text_b": null,
+        "label": 0
+    },
+    "204": {
+        "text_a": "humane and reasonable",
+        "text_b": null,
+        "label": 1
+    },
+    "205": {
+        "text_a": "support",
+        "text_b": null,
+        "label": 1
+    },
+    "206": {
+        "text_a": "axis of evil",
+        "text_b": null,
+        "label": 0
+    },
+    "207": {
+        "text_a": "too much blood was shed and much suffering endured",
+        "text_b": null,
+        "label": 0
+    },
+    "208": {
+        "text_a": "hardline",
+        "text_b": null,
+        "label": 0
+    },
+    "209": {
+        "text_a": "condemned",
+        "text_b": null,
+        "label": 0
+    },
+    "210": {
+        "text_a": "no politically prudent",
+        "text_b": null,
+        "label": 0
+    },
+    "211": {
+        "text_a": "peace to prevail",
+        "text_b": null,
+        "label": 1
+    },
+    "212": {
+        "text_a": "impugned by biased reports",
+        "text_b": null,
+        "label": 0
+    },
+    "213": {
+        "text_a": "abandoned",
+        "text_b": null,
+        "label": 0
+    },
+    "214": {
+        "text_a": "aimed at solving the issue",
+        "text_b": null,
+        "label": 1
+    },
+    "215": {
+        "text_a": "evil",
+        "text_b": null,
+        "label": 0
+    },
+    "216": {
+        "text_a": "respect",
+        "text_b": null,
+        "label": 1
+    },
+    "217": {
+        "text_a": "blind and murderous rage",
+        "text_b": null,
+        "label": 0
+    },
+    "218": {
+        "text_a": "renegade",
+        "text_b": null,
+        "label": 0
+    },
+    "219": {
+        "text_a": "and yet",
+        "text_b": null,
+        "label": 0
+    },
+    "220": {
+        "text_a": "urging",
+        "text_b": null,
+        "label": 1
+    },
+    "221": {
+        "text_a": "aggressors",
+        "text_b": null,
+        "label": 0
+    },
+    "222": {
+        "text_a": "not only",
+        "text_b": null,
+        "label": 1
+    },
+    "223": {
+        "text_a": "shocking swing",
+        "text_b": null,
+        "label": 0
+    },
+    "224": {
+        "text_a": "compounded the problem",
+        "text_b": null,
+        "label": 0
+    },
+    "225": {
+        "text_a": "allegations",
+        "text_b": null,
+        "label": 0
+    },
+    "226": {
+        "text_a": "essentially close off international use of the station",
+        "text_b": null,
+        "label": 0
+    },
+    "227": {
+        "text_a": "sought",
+        "text_b": null,
+        "label": 1
+    },
+    "228": {
+        "text_a": "aperitif for the probable democratic coup",
+        "text_b": null,
+        "label": 0
+    },
+    "229": {
+        "text_a": "do not",
+        "text_b": null,
+        "label": 0
+    },
+    "230": {
+        "text_a": "frightening voters",
+        "text_b": null,
+        "label": 0
+    },
+    "231": {
+        "text_a": "can prevent",
+        "text_b": null,
+        "label": 1
+    },
+    "232": {
+        "text_a": "in metal cages named detention centres",
+        "text_b": null,
+        "label": 0
+    },
+    "233": {
+        "text_a": "let them stay in denial",
+        "text_b": null,
+        "label": 0
+    },
+    "234": {
+        "text_a": "have worse conditions",
+        "text_b": null,
+        "label": 0
+    },
+    "235": {
+        "text_a": "if unexpected incidents took place to arafat's safety",
+        "text_b": null,
+        "label": 0
+    },
+    "236": {
+        "text_a": "are not guessing correctly about the dilemma of the chicken or the egg into which the argentine crisis has become converted",
+        "text_b": null,
+        "label": 0
+    },
+    "237": {
+        "text_a": "observers",
+        "text_b": null,
+        "label": 0
+    },
+    "238": {
+        "text_a": "individual acts of insubordination",
+        "text_b": null,
+        "label": 0
+    },
+    "239": {
+        "text_a": "israel would gain peace and security",
+        "text_b": null,
+        "label": 1
+    },
+    "240": {
+        "text_a": "fear",
+        "text_b": null,
+        "label": 0
+    },
+    "241": {
+        "text_a": "can be difficult",
+        "text_b": null,
+        "label": 0
+    },
+    "242": {
+        "text_a": "sent congratulations",
+        "text_b": null,
+        "label": 1
+    },
+    "243": {
+        "text_a": "was almost overly humane",
+        "text_b": null,
+        "label": 0
+    },
+    "244": {
+        "text_a": "made the investigation more difficult",
+        "text_b": null,
+        "label": 0
+    },
+    "245": {
+        "text_a": "to defend",
+        "text_b": null,
+        "label": 1
+    },
+    "246": {
+        "text_a": "was quick to give assurances",
+        "text_b": null,
+        "label": 1
+    },
+    "247": {
+        "text_a": "the suggestions of",
+        "text_b": null,
+        "label": 1
+    },
+    "248": {
+        "text_a": "immediately lapsed into hysterics",
+        "text_b": null,
+        "label": 0
+    },
+    "249": {
+        "text_a": "in protest against",
+        "text_b": null,
+        "label": 0
+    },
+    "250": {
+        "text_a": "supports",
+        "text_b": null,
+        "label": 1
+    },
+    "251": {
+        "text_a": "support",
+        "text_b": null,
+        "label": 1
+    },
+    "252": {
+        "text_a": "chanted",
+        "text_b": null,
+        "label": 0
+    },
+    "253": {
+        "text_a": "a growing impression that misuari could pose a security threat",
+        "text_b": null,
+        "label": 0
+    },
+    "254": {
+        "text_a": "dismissed",
+        "text_b": null,
+        "label": 0
+    },
+    "255": {
+        "text_a": "criticism was toned down greatly",
+        "text_b": null,
+        "label": 0
+    },
+    "256": {
+        "text_a": "discredits and kills",
+        "text_b": null,
+        "label": 0
+    },
+    "257": {
+        "text_a": "raised the pitch",
+        "text_b": null,
+        "label": 0
+    },
+    "258": {
+        "text_a": "suffered",
+        "text_b": null,
+        "label": 0
+    },
+    "259": {
+        "text_a": "the consensus",
+        "text_b": null,
+        "label": 1
+    },
+    "260": {
+        "text_a": "do n't want",
+        "text_b": null,
+        "label": 0
+    },
+    "261": {
+        "text_a": "viewed",
+        "text_b": null,
+        "label": 0
+    },
+    "262": {
+        "text_a": "extensively welcomed",
+        "text_b": null,
+        "label": 1
+    },
+    "263": {
+        "text_a": "to request",
+        "text_b": null,
+        "label": 1
+    },
+    "264": {
+        "text_a": "to understand",
+        "text_b": null,
+        "label": 1
+    },
+    "265": {
+        "text_a": "to mould the electoral process in his favour",
+        "text_b": null,
+        "label": 0
+    },
+    "266": {
+        "text_a": "arrest",
+        "text_b": null,
+        "label": 0
+    },
+    "267": {
+        "text_a": "axis of evil",
+        "text_b": null,
+        "label": 0
+    },
+    "268": {
+        "text_a": "to denounce",
+        "text_b": null,
+        "label": 0
+    },
+    "269": {
+        "text_a": "cautioned",
+        "text_b": null,
+        "label": 0
+    },
+    "270": {
+        "text_a": "possibly even endanger",
+        "text_b": null,
+        "label": 0
+    },
+    "271": {
+        "text_a": "regards",
+        "text_b": null,
+        "label": 0
+    },
+    "272": {
+        "text_a": "not allowed to move freely",
+        "text_b": null,
+        "label": 0
+    },
+    "273": {
+        "text_a": "condemning",
+        "text_b": null,
+        "label": 0
+    },
+    "274": {
+        "text_a": "had particularly harsh words for",
+        "text_b": null,
+        "label": 0
+    },
+    "275": {
+        "text_a": "will make an important contribution",
+        "text_b": null,
+        "label": 1
+    },
+    "276": {
+        "text_a": "owing allegiance",
+        "text_b": null,
+        "label": 1
+    },
+    "277": {
+        "text_a": "repression",
+        "text_b": null,
+        "label": 0
+    },
+    "278": {
+        "text_a": "suddenly going to become reasonable",
+        "text_b": null,
+        "label": 0
+    },
+    "279": {
+        "text_a": "we ca n't allow",
+        "text_b": null,
+        "label": 0
+    },
+    "280": {
+        "text_a": "falls far short",
+        "text_b": null,
+        "label": 0
+    },
+    "281": {
+        "text_a": "taking away from",
+        "text_b": null,
+        "label": 0
+    },
+    "282": {
+        "text_a": "dashed to pieces",
+        "text_b": null,
+        "label": 0
+    },
+    "283": {
+        "text_a": "babysitters",
+        "text_b": null,
+        "label": 0
+    },
+    "284": {
+        "text_a": "tyrannies",
+        "text_b": null,
+        "label": 0
+    },
+    "285": {
+        "text_a": "narrow",
+        "text_b": null,
+        "label": 0
+    },
+    "286": {
+        "text_a": "will help",
+        "text_b": null,
+        "label": 1
+    },
+    "287": {
+        "text_a": "increasingly close",
+        "text_b": null,
+        "label": 0
+    },
+    "288": {
+        "text_a": "completely closed the door",
+        "text_b": null,
+        "label": 0
+    },
+    "289": {
+        "text_a": "gives a rat's ass",
+        "text_b": null,
+        "label": 0
+    },
+    "290": {
+        "text_a": "most vicious war maniac",
+        "text_b": null,
+        "label": 0
+    },
+    "291": {
+        "text_a": "supports",
+        "text_b": null,
+        "label": 1
+    },
+    "292": {
+        "text_a": "people who love freedom",
+        "text_b": null,
+        "label": 1
+    },
+    "293": {
+        "text_a": "spiteful attitude clearly shows",
+        "text_b": null,
+        "label": 0
+    },
+    "294": {
+        "text_a": "could not be clearer",
+        "text_b": null,
+        "label": 1
+    },
+    "295": {
+        "text_a": "thanked",
+        "text_b": null,
+        "label": 1
+    },
+    "296": {
+        "text_a": "unnecessary",
+        "text_b": null,
+        "label": 0
+    },
+    "297": {
+        "text_a": "confronting itself",
+        "text_b": null,
+        "label": 0
+    },
+    "298": {
+        "text_a": "axis of evil",
+        "text_b": null,
+        "label": 0
+    },
+    "299": {
+        "text_a": "high level",
+        "text_b": null,
+        "label": 1
+    },
+    "300": {
+        "text_a": "deserved",
+        "text_b": null,
+        "label": 1
+    },
+    "301": {
+        "text_a": "to put it mildly",
+        "text_b": null,
+        "label": 0
+    },
+    "302": {
+        "text_a": "protested",
+        "text_b": null,
+        "label": 0
+    },
+    "303": {
+        "text_a": "he must think he can defy gravity",
+        "text_b": null,
+        "label": 0
+    },
+    "304": {
+        "text_a": "nothing more than an embellishment",
+        "text_b": null,
+        "label": 0
+    },
+    "305": {
+        "text_a": "would continue to support",
+        "text_b": null,
+        "label": 1
+    },
+    "306": {
+        "text_a": "do n't accept",
+        "text_b": null,
+        "label": 0
+    },
+    "307": {
+        "text_a": "sacrifice",
+        "text_b": null,
+        "label": 0
+    },
+    "308": {
+        "text_a": "refused to allow",
+        "text_b": null,
+        "label": 0
+    },
+    "309": {
+        "text_a": "too long",
+        "text_b": null,
+        "label": 0
+    },
+    "310": {
+        "text_a": "is worrying",
+        "text_b": null,
+        "label": 0
+    },
+    "311": {
+        "text_a": "proliferation",
+        "text_b": null,
+        "label": 0
+    },
+    "312": {
+        "text_a": "democratic",
+        "text_b": null,
+        "label": 1
+    },
+    "313": {
+        "text_a": "still prefer",
+        "text_b": null,
+        "label": 1
+    },
+    "314": {
+        "text_a": "showed a lack of sincerity",
+        "text_b": null,
+        "label": 0
+    },
+    "315": {
+        "text_a": "also realistic",
+        "text_b": null,
+        "label": 1
+    },
+    "316": {
+        "text_a": "rebuffed",
+        "text_b": null,
+        "label": 0
+    },
+    "317": {
+        "text_a": "continue to key up tensions",
+        "text_b": null,
+        "label": 0
+    },
+    "318": {
+        "text_a": "seems to show consideration",
+        "text_b": null,
+        "label": 1
+    },
+    "319": {
+        "text_a": "interests",
+        "text_b": null,
+        "label": 1
+    },
+    "320": {
+        "text_a": "berating",
+        "text_b": null,
+        "label": 0
+    },
+    "321": {
+        "text_a": "dissatisfaction over",
+        "text_b": null,
+        "label": 0
+    },
+    "322": {
+        "text_a": "requests , through a bulletin",
+        "text_b": null,
+        "label": 0
+    },
+    "323": {
+        "text_a": "campaign",
+        "text_b": null,
+        "label": 0
+    },
+    "324": {
+        "text_a": "suffer the consequences of its own economic mismanagement",
+        "text_b": null,
+        "label": 0
+    },
+    "325": {
+        "text_a": "universal values",
+        "text_b": null,
+        "label": 1
+    },
+    "326": {
+        "text_a": "accused",
+        "text_b": null,
+        "label": 0
+    },
+    "327": {
+        "text_a": "with the guerrillas in particular , we supply the dead , while you enjoy politics",
+        "text_b": null,
+        "label": 0
+    },
+    "328": {
+        "text_a": "succumbing",
+        "text_b": null,
+        "label": 0
+    },
+    "329": {
+        "text_a": "does not want to learn",
+        "text_b": null,
+        "label": 0
+    },
+    "330": {
+        "text_a": "blasts",
+        "text_b": null,
+        "label": 0
+    },
+    "331": {
+        "text_a": "infuriated",
+        "text_b": null,
+        "label": 0
+    },
+    "332": {
+        "text_a": "to paint a dark picture",
+        "text_b": null,
+        "label": 0
+    },
+    "333": {
+        "text_a": "being blamed",
+        "text_b": null,
+        "label": 0
+    },
+    "334": {
+        "text_a": "would be harmed",
+        "text_b": null,
+        "label": 0
+    },
+    "335": {
+        "text_a": "rescue",
+        "text_b": null,
+        "label": 1
+    },
+    "336": {
+        "text_a": "impatience",
+        "text_b": null,
+        "label": 0
+    },
+    "337": {
+        "text_a": "rightly",
+        "text_b": null,
+        "label": 0
+    },
+    "338": {
+        "text_a": "illegitimate",
+        "text_b": null,
+        "label": 0
+    },
+    "339": {
+        "text_a": "now is not the right moment",
+        "text_b": null,
+        "label": 0
+    },
+    "340": {
+        "text_a": "aggravated",
+        "text_b": null,
+        "label": 0
+    },
+    "341": {
+        "text_a": "as difficult as it may be",
+        "text_b": null,
+        "label": 0
+    },
+    "342": {
+        "text_a": "how frequently",
+        "text_b": null,
+        "label": 0
+    },
+    "343": {
+        "text_a": "are not going to allow",
+        "text_b": null,
+        "label": 0
+    },
+    "344": {
+        "text_a": "willing to starve their people",
+        "text_b": null,
+        "label": 0
+    },
+    "345": {
+        "text_a": "siege",
+        "text_b": null,
+        "label": 0
+    },
+    "346": {
+        "text_a": "prejudged",
+        "text_b": null,
+        "label": 0
+    },
+    "347": {
+        "text_a": "it does not matter",
+        "text_b": null,
+        "label": 0
+    },
+    "348": {
+        "text_a": "calls",
+        "text_b": null,
+        "label": 1
+    },
+    "349": {
+        "text_a": "mdc sympathies",
+        "text_b": null,
+        "label": 1
+    },
+    "350": {
+        "text_a": "unprecedented",
+        "text_b": null,
+        "label": 1
+    },
+    "351": {
+        "text_a": "should not tolerate",
+        "text_b": null,
+        "label": 0
+    },
+    "352": {
+        "text_a": "enormous implications",
+        "text_b": null,
+        "label": 0
+    },
+    "353": {
+        "text_a": "would want",
+        "text_b": null,
+        "label": 1
+    },
+    "354": {
+        "text_a": "is a staunch supporter of",
+        "text_b": null,
+        "label": 1
+    },
+    "355": {
+        "text_a": "arrogance of power",
+        "text_b": null,
+        "label": 0
+    },
+    "356": {
+        "text_a": "immensely impressed",
+        "text_b": null,
+        "label": 1
+    },
+    "357": {
+        "text_a": "desperate",
+        "text_b": null,
+        "label": 0
+    },
+    "358": {
+        "text_a": "no protection",
+        "text_b": null,
+        "label": 0
+    },
+    "359": {
+        "text_a": "according to americans , this sort of humanity does not qualify for any of the laws",
+        "text_b": null,
+        "label": 0
+    },
+    "360": {
+        "text_a": "willingness",
+        "text_b": null,
+        "label": 1
+    },
+    "361": {
+        "text_a": "foundered",
+        "text_b": null,
+        "label": 0
+    },
+    "362": {
+        "text_a": "more alarming faults",
+        "text_b": null,
+        "label": 0
+    },
+    "363": {
+        "text_a": "wwanted",
+        "text_b": null,
+        "label": 1
+    },
+    "364": {
+        "text_a": "running so scared",
+        "text_b": null,
+        "label": 0
+    },
+    "365": {
+        "text_a": "eagerly",
+        "text_b": null,
+        "label": 0
+    },
+    "366": {
+        "text_a": "had agreed",
+        "text_b": null,
+        "label": 1
+    },
+    "367": {
+        "text_a": "support",
+        "text_b": null,
+        "label": 1
+    },
+    "368": {
+        "text_a": "particular concern is raised",
+        "text_b": null,
+        "label": 0
+    },
+    "369": {
+        "text_a": "symptom of the 23 years of war that has devastated afghanistan",
+        "text_b": null,
+        "label": 0
+    },
+    "370": {
+        "text_a": "taiwan independence'",
+        "text_b": null,
+        "label": 0
+    },
+    "371": {
+        "text_a": "no to negotiations",
+        "text_b": null,
+        "label": 0
+    },
+    "372": {
+        "text_a": "pretexts",
+        "text_b": null,
+        "label": 0
+    },
+    "373": {
+        "text_a": "used the word of axis of evil to label",
+        "text_b": null,
+        "label": 0
+    },
+    "374": {
+        "text_a": "misguided policy",
+        "text_b": null,
+        "label": 0
+    },
+    "375": {
+        "text_a": "attacks",
+        "text_b": null,
+        "label": 0
+    },
+    "376": {
+        "text_a": "crush",
+        "text_b": null,
+        "label": 0
+    },
+    "377": {
+        "text_a": "him in so ferocious an image wearing a t - shirt and jogging pants bearing some english letters , baring his teeth and with a glare of hatred in his eyes",
+        "text_b": null,
+        "label": 0
+    },
+    "378": {
+        "text_a": "sought",
+        "text_b": null,
+        "label": 1
+    },
+    "379": {
+        "text_a": "in spite of",
+        "text_b": null,
+        "label": 0
+    },
+    "380": {
+        "text_a": "have made a difference",
+        "text_b": null,
+        "label": 1
+    },
+    "381": {
+        "text_a": "just want",
+        "text_b": null,
+        "label": 1
+    },
+    "382": {
+        "text_a": "believe",
+        "text_b": null,
+        "label": 1
+    },
+    "383": {
+        "text_a": "not satisfied",
+        "text_b": null,
+        "label": 0
+    },
+    "384": {
+        "text_a": "an affront to palestinian , arab dignity , and international justice",
+        "text_b": null,
+        "label": 0
+    },
+    "385": {
+        "text_a": "expansionist policies",
+        "text_b": null,
+        "label": 0
+    },
+    "386": {
+        "text_a": "spirit of",
+        "text_b": null,
+        "label": 1
+    },
+    "387": {
+        "text_a": "would be badly militarized when",
+        "text_b": null,
+        "label": 0
+    },
+    "388": {
+        "text_a": "disapprove",
+        "text_b": null,
+        "label": 0
+    },
+    "389": {
+        "text_a": "appreciates",
+        "text_b": null,
+        "label": 1
+    },
+    "390": {
+        "text_a": "would be unjust and counterproductive",
+        "text_b": null,
+        "label": 0
+    },
+    "391": {
+        "text_a": "growing unrest",
+        "text_b": null,
+        "label": 0
+    },
+    "392": {
+        "text_a": "then",
+        "text_b": null,
+        "label": 1
+    },
+    "393": {
+        "text_a": "took advantage",
+        "text_b": null,
+        "label": 0
+    },
+    "394": {
+        "text_a": "dissatisfaction",
+        "text_b": null,
+        "label": 0
+    },
+    "395": {
+        "text_a": "peace",
+        "text_b": null,
+        "label": 1
+    },
+    "396": {
+        "text_a": "validates",
+        "text_b": null,
+        "label": 1
+    },
+    "397": {
+        "text_a": "global crisis",
+        "text_b": null,
+        "label": 0
+    },
+    "398": {
+        "text_a": "hope",
+        "text_b": null,
+        "label": 1
+    },
+    "399": {
+        "text_a": "criticized",
+        "text_b": null,
+        "label": 0
+    },
+    "400": {
+        "text_a": "has been sounding the alarm",
+        "text_b": null,
+        "label": 0
+    },
+    "401": {
+        "text_a": "will never tolerate",
+        "text_b": null,
+        "label": 0
+    },
+    "402": {
+        "text_a": "acts of insubordination",
+        "text_b": null,
+        "label": 0
+    },
+    "403": {
+        "text_a": "showed callousness",
+        "text_b": null,
+        "label": 0
+    },
+    "404": {
+        "text_a": "badly shaking ( their ) faith in",
+        "text_b": null,
+        "label": 0
+    },
+    "405": {
+        "text_a": "giving him free rein to arrest at will",
+        "text_b": null,
+        "label": 0
+    },
+    "406": {
+        "text_a": "neo - colonialism",
+        "text_b": null,
+        "label": 0
+    },
+    "407": {
+        "text_a": "must be taken to trial for treason",
+        "text_b": null,
+        "label": 0
+    },
+    "408": {
+        "text_a": "expressions of support",
+        "text_b": null,
+        "label": 1
+    },
+    "409": {
+        "text_a": "warning",
+        "text_b": null,
+        "label": 0
+    },
+    "410": {
+        "text_a": "anger",
+        "text_b": null,
+        "label": 0
+    },
+    "411": {
+        "text_a": "deliberately misinterpreted to suppress the opposition",
+        "text_b": null,
+        "label": 0
+    },
+    "412": {
+        "text_a": "friends",
+        "text_b": null,
+        "label": 1
+    },
+    "413": {
+        "text_a": "maintains",
+        "text_b": null,
+        "label": 0
+    },
+    "414": {
+        "text_a": "axis of evil",
+        "text_b": null,
+        "label": 0
+    },
+    "415": {
+        "text_a": "bringing an end to terrorism and the taliban",
+        "text_b": null,
+        "label": 1
+    },
+    "416": {
+        "text_a": "do not reflect the reality",
+        "text_b": null,
+        "label": 0
+    },
+    "417": {
+        "text_a": "should criticize",
+        "text_b": null,
+        "label": 0
+    },
+    "418": {
+        "text_a": "axis of evil rhetoric",
+        "text_b": null,
+        "label": 0
+    },
+    "419": {
+        "text_a": "is a thorn in the eye and flesh which must be removed",
+        "text_b": null,
+        "label": 0
+    },
+    "420": {
+        "text_a": "would want",
+        "text_b": null,
+        "label": 1
+    },
+    "421": {
+        "text_a": "turning the whole world upside down",
+        "text_b": null,
+        "label": 0
+    },
+    "422": {
+        "text_a": "chance came to sharon's rescue",
+        "text_b": null,
+        "label": 1
+    },
+    "423": {
+        "text_a": "comrades",
+        "text_b": null,
+        "label": 0
+    },
+    "424": {
+        "text_a": "was wrong",
+        "text_b": null,
+        "label": 0
+    },
+    "425": {
+        "text_a": "lamented",
+        "text_b": null,
+        "label": 0
+    },
+    "426": {
+        "text_a": "psychology of maintaining us supremacy",
+        "text_b": null,
+        "label": 0
+    },
+    "427": {
+        "text_a": "are getting better",
+        "text_b": null,
+        "label": 1
+    },
+    "428": {
+        "text_a": "succeeded in achieving",
+        "text_b": null,
+        "label": 0
+    },
+    "429": {
+        "text_a": "treason",
+        "text_b": null,
+        "label": 0
+    },
+    "430": {
+        "text_a": "coup - plotting",
+        "text_b": null,
+        "label": 0
+    },
+    "431": {
+        "text_a": "that may be so",
+        "text_b": null,
+        "label": 1
+    },
+    "432": {
+        "text_a": "has called for",
+        "text_b": null,
+        "label": 1
+    },
+    "433": {
+        "text_a": "illegal combatants",
+        "text_b": null,
+        "label": 0
+    },
+    "434": {
+        "text_a": "questionable",
+        "text_b": null,
+        "label": 0
+    },
+    "435": {
+        "text_a": "recognition",
+        "text_b": null,
+        "label": 1
+    },
+    "436": {
+        "text_a": "a relief to",
+        "text_b": null,
+        "label": 1
+    },
+    "437": {
+        "text_a": "the dissent",
+        "text_b": null,
+        "label": 0
+    },
+    "438": {
+        "text_a": "worst",
+        "text_b": null,
+        "label": 0
+    },
+    "439": {
+        "text_a": "the lobbying",
+        "text_b": null,
+        "label": 1
+    },
+    "440": {
+        "text_a": "botched coup",
+        "text_b": null,
+        "label": 0
+    },
+    "441": {
+        "text_a": "was quite neat and tidy",
+        "text_b": null,
+        "label": 0
+    },
+    "442": {
+        "text_a": "respected",
+        "text_b": null,
+        "label": 1
+    },
+    "443": {
+        "text_a": "concerning their life or death",
+        "text_b": null,
+        "label": 0
+    },
+    "444": {
+        "text_a": "threatening",
+        "text_b": null,
+        "label": 0
+    },
+    "445": {
+        "text_a": "stand firm",
+        "text_b": null,
+        "label": 1
+    },
+    "446": {
+        "text_a": "the head of an empire of evil",
+        "text_b": null,
+        "label": 0
+    },
+    "447": {
+        "text_a": "the great money laundering operation",
+        "text_b": null,
+        "label": 0
+    },
+    "448": {
+        "text_a": "extremely threatening",
+        "text_b": null,
+        "label": 0
+    },
+    "449": {
+        "text_a": "continued",
+        "text_b": null,
+        "label": 0
+    },
+    "450": {
+        "text_a": "bragged",
+        "text_b": null,
+        "label": 1
+    },
+    "451": {
+        "text_a": "so - called",
+        "text_b": null,
+        "label": 0
+    },
+    "452": {
+        "text_a": "oppose",
+        "text_b": null,
+        "label": 0
+    },
+    "453": {
+        "text_a": "immediate trial for alleged crimes",
+        "text_b": null,
+        "label": 0
+    },
+    "454": {
+        "text_a": "so shocking",
+        "text_b": null,
+        "label": 0
+    },
+    "455": {
+        "text_a": "more intense",
+        "text_b": null,
+        "label": 0
+    },
+    "456": {
+        "text_a": "recognizes",
+        "text_b": null,
+        "label": 1
+    },
+    "457": {
+        "text_a": "axis of evil theory",
+        "text_b": null,
+        "label": 0
+    },
+    "458": {
+        "text_a": "indignation",
+        "text_b": null,
+        "label": 0
+    },
+    "459": {
+        "text_a": "insulting",
+        "text_b": null,
+        "label": 0
+    },
+    "460": {
+        "text_a": "is critical",
+        "text_b": null,
+        "label": 0
+    },
+    "461": {
+        "text_a": "better ways",
+        "text_b": null,
+        "label": 1
+    },
+    "462": {
+        "text_a": "accepted",
+        "text_b": null,
+        "label": 1
+    },
+    "463": {
+        "text_a": "it violates the rule of law",
+        "text_b": null,
+        "label": 0
+    },
+    "464": {
+        "text_a": "under the pretext of the fight against terrorism",
+        "text_b": null,
+        "label": 0
+    },
+    "465": {
+        "text_a": "these values and ideas",
+        "text_b": null,
+        "label": 1
+    },
+    "466": {
+        "text_a": "giving up with india",
+        "text_b": null,
+        "label": 0
+    },
+    "467": {
+        "text_a": "too late",
+        "text_b": null,
+        "label": 0
+    },
+    "468": {
+        "text_a": "not",
+        "text_b": null,
+        "label": 0
+    },
+    "469": {
+        "text_a": "hoped",
+        "text_b": null,
+        "label": 1
+    },
+    "470": {
+        "text_a": "abating",
+        "text_b": null,
+        "label": 1
+    },
+    "471": {
+        "text_a": "been eaten by the minotaur",
+        "text_b": null,
+        "label": 0
+    },
+    "472": {
+        "text_a": "force",
+        "text_b": null,
+        "label": 0
+    },
+    "473": {
+        "text_a": "those digging graves for others , get engraved themselves",
+        "text_b": null,
+        "label": 0
+    },
+    "474": {
+        "text_a": "successes",
+        "text_b": null,
+        "label": 1
+    },
+    "475": {
+        "text_a": "joining the west in criticizing",
+        "text_b": null,
+        "label": 0
+    },
+    "476": {
+        "text_a": "for fear of",
+        "text_b": null,
+        "label": 0
+    },
+    "477": {
+        "text_a": "could welcome",
+        "text_b": null,
+        "label": 1
+    },
+    "478": {
+        "text_a": "blamed",
+        "text_b": null,
+        "label": 0
+    },
+    "479": {
+        "text_a": "terrorist allies",
+        "text_b": null,
+        "label": 0
+    },
+    "480": {
+        "text_a": "is ignoring its commitments in the current situation",
+        "text_b": null,
+        "label": 0
+    },
+    "481": {
+        "text_a": "fix things",
+        "text_b": null,
+        "label": 1
+    },
+    "482": {
+        "text_a": "vigorously lobby",
+        "text_b": null,
+        "label": 0
+    },
+    "483": {
+        "text_a": "has not brought the israeli public security",
+        "text_b": null,
+        "label": 0
+    },
+    "484": {
+        "text_a": "has no legitimacy",
+        "text_b": null,
+        "label": 0
+    },
+    "485": {
+        "text_a": "depriving them of their rights",
+        "text_b": null,
+        "label": 0
+    },
+    "486": {
+        "text_a": "mixed",
+        "text_b": null,
+        "label": 0
+    },
+    "487": {
+        "text_a": "threatened",
+        "text_b": null,
+        "label": 0
+    },
+    "488": {
+        "text_a": "nations that are n't transparent",
+        "text_b": null,
+        "label": 0
+    },
+    "489": {
+        "text_a": "misjudgment",
+        "text_b": null,
+        "label": 0
+    },
+    "490": {
+        "text_a": "illegitimate",
+        "text_b": null,
+        "label": 0
+    },
+    "491": {
+        "text_a": "terrible",
+        "text_b": null,
+        "label": 0
+    },
+    "492": {
+        "text_a": "has come under fire",
+        "text_b": null,
+        "label": 0
+    },
+    "493": {
+        "text_a": "massacre",
+        "text_b": null,
+        "label": 0
+    },
+    "494": {
+        "text_a": "to the venezuelan armed forces' misfortune",
+        "text_b": null,
+        "label": 0
+    },
+    "495": {
+        "text_a": "some are beginning to forget",
+        "text_b": null,
+        "label": 0
+    },
+    "496": {
+        "text_a": "furthermore",
+        "text_b": null,
+        "label": 0
+    },
+    "497": {
+        "text_a": "a warm welcome",
+        "text_b": null,
+        "label": 1
+    },
+    "498": {
+        "text_a": "taking the stand supporting",
+        "text_b": null,
+        "label": 1
+    },
+    "499": {
+        "text_a": "at a loss",
+        "text_b": null,
+        "label": 0
+    },
+    "500": {
+        "text_a": "the dictates",
+        "text_b": null,
+        "label": 0
+    },
+    "501": {
+        "text_a": "believe",
+        "text_b": null,
+        "label": 1
+    },
+    "502": {
+        "text_a": "concern",
+        "text_b": null,
+        "label": 0
+    },
+    "503": {
+        "text_a": "such fruitful results",
+        "text_b": null,
+        "label": 1
+    },
+    "504": {
+        "text_a": "has lost control",
+        "text_b": null,
+        "label": 0
+    },
+    "505": {
+        "text_a": "resolute",
+        "text_b": null,
+        "label": 1
+    },
+    "506": {
+        "text_a": "at least without an explanation",
+        "text_b": null,
+        "label": 0
+    },
+    "507": {
+        "text_a": "had secretly harbored the fantasy",
+        "text_b": null,
+        "label": 1
+    },
+    "508": {
+        "text_a": "faithful to",
+        "text_b": null,
+        "label": 1
+    },
+    "509": {
+        "text_a": "please",
+        "text_b": null,
+        "label": 1
+    },
+    "510": {
+        "text_a": "were easing",
+        "text_b": null,
+        "label": 1
+    },
+    "511": {
+        "text_a": "accused",
+        "text_b": null,
+        "label": 0
+    },
+    "512": {
+        "text_a": "have denied",
+        "text_b": null,
+        "label": 0
+    },
+    "513": {
+        "text_a": "because they seek weapons of mass destruction and have links with terrorist groups",
+        "text_b": null,
+        "label": 0
+    },
+    "514": {
+        "text_a": "rigging",
+        "text_b": null,
+        "label": 0
+    },
+    "515": {
+        "text_a": "the demon they have reared",
+        "text_b": null,
+        "label": 0
+    },
+    "516": {
+        "text_a": "celebrated",
+        "text_b": null,
+        "label": 1
+    },
+    "517": {
+        "text_a": "threatens",
+        "text_b": null,
+        "label": 0
+    },
+    "518": {
+        "text_a": "the idea",
+        "text_b": null,
+        "label": 1
+    },
+    "519": {
+        "text_a": "however",
+        "text_b": null,
+        "label": 0
+    },
+    "520": {
+        "text_a": "potential carrot",
+        "text_b": null,
+        "label": 1
+    },
+    "521": {
+        "text_a": "should forge unity",
+        "text_b": null,
+        "label": 1
+    },
+    "522": {
+        "text_a": "standing in the way",
+        "text_b": null,
+        "label": 0
+    },
+    "523": {
+        "text_a": "double standard",
+        "text_b": null,
+        "label": 0
+    },
+    "524": {
+        "text_a": "do not proceed to condemn them",
+        "text_b": null,
+        "label": 0
+    },
+    "525": {
+        "text_a": "echoed",
+        "text_b": null,
+        "label": 0
+    },
+    "526": {
+        "text_a": "immediate",
+        "text_b": null,
+        "label": 0
+    },
+    "527": {
+        "text_a": "the world's most dangerous regimes",
+        "text_b": null,
+        "label": 0
+    },
+    "528": {
+        "text_a": "it is not clear",
+        "text_b": null,
+        "label": 0
+    },
+    "529": {
+        "text_a": "widely despised",
+        "text_b": null,
+        "label": 0
+    },
+    "530": {
+        "text_a": "strong support of",
+        "text_b": null,
+        "label": 1
+    },
+    "531": {
+        "text_a": "strictly abide",
+        "text_b": null,
+        "label": 1
+    },
+    "532": {
+        "text_a": "it is a sign of serious economic trouble",
+        "text_b": null,
+        "label": 0
+    },
+    "533": {
+        "text_a": "systematic campaign of violence and intimidation",
+        "text_b": null,
+        "label": 0
+    },
+    "534": {
+        "text_a": "still smarting",
+        "text_b": null,
+        "label": 0
+    },
+    "535": {
+        "text_a": "criticism",
+        "text_b": null,
+        "label": 0
+    },
+    "536": {
+        "text_a": "to voice his concern",
+        "text_b": null,
+        "label": 0
+    },
+    "537": {
+        "text_a": "it is conducting a war without rules",
+        "text_b": null,
+        "label": 0
+    },
+    "538": {
+        "text_a": "dismissed",
+        "text_b": null,
+        "label": 0
+    },
+    "539": {
+        "text_a": "was embarrassed",
+        "text_b": null,
+        "label": 0
+    },
+    "540": {
+        "text_a": "warned",
+        "text_b": null,
+        "label": 0
+    },
+    "541": {
+        "text_a": "developed a habit of",
+        "text_b": null,
+        "label": 0
+    },
+    "542": {
+        "text_a": "have refused to serve",
+        "text_b": null,
+        "label": 0
+    },
+    "543": {
+        "text_a": "oppose",
+        "text_b": null,
+        "label": 0
+    },
+    "544": {
+        "text_a": "unfair",
+        "text_b": null,
+        "label": 0
+    },
+    "545": {
+        "text_a": "epoch - making",
+        "text_b": null,
+        "label": 1
+    },
+    "546": {
+        "text_a": "axis of evil",
+        "text_b": null,
+        "label": 0
+    },
+    "547": {
+        "text_a": "understandable",
+        "text_b": null,
+        "label": 1
+    },
+    "548": {
+        "text_a": "illegitimate",
+        "text_b": null,
+        "label": 0
+    },
+    "549": {
+        "text_a": "was in fact violating the rights of millions of people throughout the world",
+        "text_b": null,
+        "label": 0
+    },
+    "550": {
+        "text_a": "in support",
+        "text_b": null,
+        "label": 1
+    },
+    "551": {
+        "text_a": "more prudent",
+        "text_b": null,
+        "label": 0
+    },
+    "552": {
+        "text_a": "victory",
+        "text_b": null,
+        "label": 1
+    },
+    "553": {
+        "text_a": "over - burdening",
+        "text_b": null,
+        "label": 0
+    },
+    "554": {
+        "text_a": "admires",
+        "text_b": null,
+        "label": 1
+    },
+    "555": {
+        "text_a": "ridicule",
+        "text_b": null,
+        "label": 0
+    },
+    "556": {
+        "text_a": "approves",
+        "text_b": null,
+        "label": 1
+    },
+    "557": {
+        "text_a": "it is a war out there",
+        "text_b": null,
+        "label": 0
+    },
+    "558": {
+        "text_a": "antics",
+        "text_b": null,
+        "label": 0
+    },
+    "559": {
+        "text_a": "systematic cheating , spoiling tactics , rigid new laws and sheer obstruction",
+        "text_b": null,
+        "label": 0
+    },
+    "560": {
+        "text_a": "prevent such a development",
+        "text_b": null,
+        "label": 1
+    },
+    "561": {
+        "text_a": "calls",
+        "text_b": null,
+        "label": 1
+    },
+    "562": {
+        "text_a": "pretext",
+        "text_b": null,
+        "label": 0
+    },
+    "563": {
+        "text_a": "impinge",
+        "text_b": null,
+        "label": 0
+    },
+    "564": {
+        "text_a": "accuses",
+        "text_b": null,
+        "label": 0
+    },
+    "565": {
+        "text_a": "objectively",
+        "text_b": null,
+        "label": 1
+    },
+    "566": {
+        "text_a": "willingness to support",
+        "text_b": null,
+        "label": 1
+    },
+    "567": {
+        "text_a": "calm",
+        "text_b": null,
+        "label": 1
+    },
+    "568": {
+        "text_a": "strong protest and criticism",
+        "text_b": null,
+        "label": 0
+    },
+    "569": {
+        "text_a": "optimists",
+        "text_b": null,
+        "label": 1
+    },
+    "570": {
+        "text_a": "was slandering",
+        "text_b": null,
+        "label": 0
+    },
+    "571": {
+        "text_a": "shown understanding",
+        "text_b": null,
+        "label": 1
+    },
+    "572": {
+        "text_a": "imperialist forces",
+        "text_b": null,
+        "label": 0
+    },
+    "573": {
+        "text_a": "endorsed",
+        "text_b": null,
+        "label": 1
+    },
+    "574": {
+        "text_a": "seriously flawed",
+        "text_b": null,
+        "label": 0
+    },
+    "575": {
+        "text_a": "even against vehicles transporting pregnant women in labor and against unarmed citizens",
+        "text_b": null,
+        "label": 0
+    },
+    "576": {
+        "text_a": "barely scraped through",
+        "text_b": null,
+        "label": 0
+    },
+    "577": {
+        "text_a": "would still soar",
+        "text_b": null,
+        "label": 0
+    },
+    "578": {
+        "text_a": "would support wholeheartedly",
+        "text_b": null,
+        "label": 1
+    },
+    "579": {
+        "text_a": "with the help of the almighty god",
+        "text_b": null,
+        "label": 1
+    },
+    "580": {
+        "text_a": "are increasingly concerned",
+        "text_b": null,
+        "label": 0
+    },
+    "581": {
+        "text_a": "media conspiracy",
+        "text_b": null,
+        "label": 0
+    },
+    "582": {
+        "text_a": "government - orchestrated",
+        "text_b": null,
+        "label": 0
+    },
+    "583": {
+        "text_a": "should be cause for a muslim war",
+        "text_b": null,
+        "label": 0
+    },
+    "584": {
+        "text_a": "spurious",
+        "text_b": null,
+        "label": 0
+    },
+    "585": {
+        "text_a": "thousands of its supporters denied the vote",
+        "text_b": null,
+        "label": 0
+    },
+    "586": {
+        "text_a": "support",
+        "text_b": null,
+        "label": 1
+    },
+    "587": {
+        "text_a": "a nonsense term",
+        "text_b": null,
+        "label": 0
+    },
+    "588": {
+        "text_a": "expressed",
+        "text_b": null,
+        "label": 1
+    },
+    "589": {
+        "text_a": "to protest",
+        "text_b": null,
+        "label": 0
+    },
+    "590": {
+        "text_a": "dogma",
+        "text_b": null,
+        "label": 0
+    },
+    "591": {
+        "text_a": "like the case of that pot who called the kettle black",
+        "text_b": null,
+        "label": 0
+    },
+    "592": {
+        "text_a": "will only",
+        "text_b": null,
+        "label": 0
+    },
+    "593": {
+        "text_a": "change to disappointment",
+        "text_b": null,
+        "label": 0
+    },
+    "594": {
+        "text_a": "wrote a critical comment",
+        "text_b": null,
+        "label": 0
+    },
+    "595": {
+        "text_a": "victory",
+        "text_b": null,
+        "label": 1
+    },
+    "596": {
+        "text_a": "invited",
+        "text_b": null,
+        "label": 1
+    },
+    "597": {
+        "text_a": "warned",
+        "text_b": null,
+        "label": 0
+    },
+    "598": {
+        "text_a": "rigged",
+        "text_b": null,
+        "label": 0
+    },
+    "599": {
+        "text_a": "china's tremendous development potential",
+        "text_b": null,
+        "label": 1
+    },
+    "600": {
+        "text_a": "understand",
+        "text_b": null,
+        "label": 1
+    },
+    "601": {
+        "text_a": "do n't need the kind of politician brian tobin had become",
+        "text_b": null,
+        "label": 0
+    },
+    "602": {
+        "text_a": "fearing",
+        "text_b": null,
+        "label": 0
+    },
+    "603": {
+        "text_a": "does not support",
+        "text_b": null,
+        "label": 0
+    },
+    "604": {
+        "text_a": "am pleased to send my warm congratulations",
+        "text_b": null,
+        "label": 1
+    },
+    "605": {
+        "text_a": "fraud",
+        "text_b": null,
+        "label": 0
+    },
+    "606": {
+        "text_a": "provoke",
+        "text_b": null,
+        "label": 0
+    },
+    "607": {
+        "text_a": "health is already extremely undermined",
+        "text_b": null,
+        "label": 0
+    },
+    "608": {
+        "text_a": "will develop a relationship of cooperation",
+        "text_b": null,
+        "label": 1
+    },
+    "609": {
+        "text_a": "feared by",
+        "text_b": null,
+        "label": 0
+    },
+    "610": {
+        "text_a": "the latest intimidation intended to steal the election",
+        "text_b": null,
+        "label": 0
+    },
+    "611": {
+        "text_a": "launched campaigns against",
+        "text_b": null,
+        "label": 0
+    },
+    "612": {
+        "text_a": "condemned",
+        "text_b": null,
+        "label": 0
+    },
+    "613": {
+        "text_a": "dramatic",
+        "text_b": null,
+        "label": 0
+    },
+    "614": {
+        "text_a": "better off",
+        "text_b": null,
+        "label": 1
+    },
+    "615": {
+        "text_a": "was compelled to partially recognize",
+        "text_b": null,
+        "label": 1
+    },
+    "616": {
+        "text_a": "posturing",
+        "text_b": null,
+        "label": 0
+    },
+    "617": {
+        "text_a": "divergent views",
+        "text_b": null,
+        "label": 0
+    },
+    "618": {
+        "text_a": "unacceptable",
+        "text_b": null,
+        "label": 0
+    },
+    "619": {
+        "text_a": "accuses",
+        "text_b": null,
+        "label": 0
+    },
+    "620": {
+        "text_a": "bitter",
+        "text_b": null,
+        "label": 0
+    },
+    "621": {
+        "text_a": "secret",
+        "text_b": null,
+        "label": 0
+    },
+    "622": {
+        "text_a": "were fears",
+        "text_b": null,
+        "label": 0
+    },
+    "623": {
+        "text_a": "simply do not understand",
+        "text_b": null,
+        "label": 0
+    },
+    "624": {
+        "text_a": "did not want to support",
+        "text_b": null,
+        "label": 0
+    },
+    "625": {
+        "text_a": "seething with anger",
+        "text_b": null,
+        "label": 0
+    },
+    "626": {
+        "text_a": "will not",
+        "text_b": null,
+        "label": 0
+    },
+    "627": {
+        "text_a": "brushed aside",
+        "text_b": null,
+        "label": 0
+    },
+    "628": {
+        "text_a": "one must not confuse justice and vengeance ,",
+        "text_b": null,
+        "label": 0
+    },
+    "629": {
+        "text_a": "whatsoever",
+        "text_b": null,
+        "label": 0
+    },
+    "630": {
+        "text_a": "not sure",
+        "text_b": null,
+        "label": 0
+    },
+    "631": {
+        "text_a": "has never tried",
+        "text_b": null,
+        "label": 0
+    },
+    "632": {
+        "text_a": "best piece",
+        "text_b": null,
+        "label": 1
+    },
+    "633": {
+        "text_a": "is worrying",
+        "text_b": null,
+        "label": 0
+    },
+    "634": {
+        "text_a": "appears to have opted for solidarity in support of",
+        "text_b": null,
+        "label": 1
+    },
+    "635": {
+        "text_a": "opposed",
+        "text_b": null,
+        "label": 0
+    },
+    "636": {
+        "text_a": "spent their leisure time back in afghanistan skinning captives alive",
+        "text_b": null,
+        "label": 0
+    },
+    "637": {
+        "text_a": "spirited away",
+        "text_b": null,
+        "label": 0
+    },
+    "638": {
+        "text_a": "warned",
+        "text_b": null,
+        "label": 0
+    },
+    "639": {
+        "text_a": "became hopeful",
+        "text_b": null,
+        "label": 1
+    },
+    "640": {
+        "text_a": "believe",
+        "text_b": null,
+        "label": 1
+    },
+    "641": {
+        "text_a": "accuses",
+        "text_b": null,
+        "label": 0
+    },
+    "642": {
+        "text_a": "felt",
+        "text_b": null,
+        "label": 0
+    },
+    "643": {
+        "text_a": "can be bought cheaper",
+        "text_b": null,
+        "label": 1
+    },
+    "644": {
+        "text_a": "it continues to twist the logic of things by turning a blind eye to israeli murderers and describing palestinian victims as terrorists",
+        "text_b": null,
+        "label": 0
+    },
+    "645": {
+        "text_a": "derail",
+        "text_b": null,
+        "label": 0
+    },
+    "646": {
+        "text_a": "rejection in response",
+        "text_b": null,
+        "label": 0
+    },
+    "647": {
+        "text_a": "there are a few ambiguous points",
+        "text_b": null,
+        "label": 0
+    },
+    "648": {
+        "text_a": "the definition of a democratic regime is subjected to double standards",
+        "text_b": null,
+        "label": 0
+    },
+    "649": {
+        "text_a": "orders stretching all the way back to the oval office",
+        "text_b": null,
+        "label": 0
+    },
+    "650": {
+        "text_a": "moribund",
+        "text_b": null,
+        "label": 0
+    },
+    "651": {
+        "text_a": "denounced",
+        "text_b": null,
+        "label": 0
+    },
+    "652": {
+        "text_a": "is not fast enough",
+        "text_b": null,
+        "label": 0
+    },
+    "653": {
+        "text_a": "unfairly",
+        "text_b": null,
+        "label": 0
+    },
+    "654": {
+        "text_a": "learnt a lesson",
+        "text_b": null,
+        "label": 1
+    },
+    "655": {
+        "text_a": "hot bed of opposition politics",
+        "text_b": null,
+        "label": 0
+    },
+    "656": {
+        "text_a": "did away with the discrimination that had existed for years",
+        "text_b": null,
+        "label": 1
+    },
+    "657": {
+        "text_a": "warned",
+        "text_b": null,
+        "label": 0
+    },
+    "658": {
+        "text_a": "solitary road",
+        "text_b": null,
+        "label": 0
+    },
+    "659": {
+        "text_a": "deeply mistaken",
+        "text_b": null,
+        "label": 0
+    },
+    "660": {
+        "text_a": "brutalised",
+        "text_b": null,
+        "label": 0
+    },
+    "661": {
+        "text_a": "suffering of iraqi people facing crippling international sanctions",
+        "text_b": null,
+        "label": 0
+    },
+    "662": {
+        "text_a": "offering",
+        "text_b": null,
+        "label": 1
+    },
+    "663": {
+        "text_a": "greater protests",
+        "text_b": null,
+        "label": 0
+    },
+    "664": {
+        "text_a": "israeli tanks are pushing further",
+        "text_b": null,
+        "label": 0
+    },
+    "665": {
+        "text_a": "step up",
+        "text_b": null,
+        "label": 0
+    },
+    "666": {
+        "text_a": "condemned",
+        "text_b": null,
+        "label": 0
+    },
+    "667": {
+        "text_a": "promote instability",
+        "text_b": null,
+        "label": 0
+    },
+    "668": {
+        "text_a": "some questionable aspects",
+        "text_b": null,
+        "label": 0
+    },
+    "669": {
+        "text_a": "argentina will be more competitive",
+        "text_b": null,
+        "label": 1
+    },
+    "670": {
+        "text_a": "protest",
+        "text_b": null,
+        "label": 0
+    },
+    "671": {
+        "text_a": "voiced his concern",
+        "text_b": null,
+        "label": 0
+    },
+    "672": {
+        "text_a": "ever - improving",
+        "text_b": null,
+        "label": 1
+    },
+    "673": {
+        "text_a": "countries such as iran , iraq and north korea represent an ``axis of evil",
+        "text_b": null,
+        "label": 0
+    },
+    "674": {
+        "text_a": "prevented",
+        "text_b": null,
+        "label": 0
+    },
+    "675": {
+        "text_a": "gives constant demonstrations of discontent and irritation",
+        "text_b": null,
+        "label": 0
+    },
+    "676": {
+        "text_a": "threatened",
+        "text_b": null,
+        "label": 0
+    },
+    "677": {
+        "text_a": "stop the circus",
+        "text_b": null,
+        "label": 0
+    },
+    "678": {
+        "text_a": "more are on the way",
+        "text_b": null,
+        "label": 0
+    },
+    "679": {
+        "text_a": "subjugate the palestinian people and liquidate their legitimate rights and aspirations",
+        "text_b": null,
+        "label": 0
+    },
+    "680": {
+        "text_a": "were in the right",
+        "text_b": null,
+        "label": 1
+    },
+    "681": {
+        "text_a": "degeneration of the democratic process",
+        "text_b": null,
+        "label": 0
+    },
+    "682": {
+        "text_a": "might agree",
+        "text_b": null,
+        "label": 0
+    },
+    "683": {
+        "text_a": "such biased",
+        "text_b": null,
+        "label": 0
+    },
+    "684": {
+        "text_a": "vitriol",
+        "text_b": null,
+        "label": 0
+    },
+    "685": {
+        "text_a": "hoped",
+        "text_b": null,
+        "label": 1
+    },
+    "686": {
+        "text_a": "as a lesson to others",
+        "text_b": null,
+        "label": 0
+    },
+    "687": {
+        "text_a": "they are so wrong and far from this reality",
+        "text_b": null,
+        "label": 0
+    },
+    "688": {
+        "text_a": "false",
+        "text_b": null,
+        "label": 0
+    },
+    "689": {
+        "text_a": "for a good future",
+        "text_b": null,
+        "label": 1
+    },
+    "690": {
+        "text_a": "more politely",
+        "text_b": null,
+        "label": 1
+    },
+    "691": {
+        "text_a": "mere",
+        "text_b": null,
+        "label": 0
+    },
+    "692": {
+        "text_a": "cages",
+        "text_b": null,
+        "label": 0
+    },
+    "693": {
+        "text_a": "not devoid of slips of the tongue",
+        "text_b": null,
+        "label": 0
+    },
+    "694": {
+        "text_a": "massive potential market",
+        "text_b": null,
+        "label": 1
+    },
+    "695": {
+        "text_a": "systematically subverted democracy",
+        "text_b": null,
+        "label": 0
+    },
+    "696": {
+        "text_a": "what a brazen - faced deception of reality",
+        "text_b": null,
+        "label": 0
+    },
+    "697": {
+        "text_a": "criticized",
+        "text_b": null,
+        "label": 0
+    },
+    "698": {
+        "text_a": "guaranteed",
+        "text_b": null,
+        "label": 1
+    },
+    "699": {
+        "text_a": "problems remain",
+        "text_b": null,
+        "label": 0
+    },
+    "700": {
+        "text_a": "in order to try to impede",
+        "text_b": null,
+        "label": 0
+    },
+    "701": {
+        "text_a": "protested",
+        "text_b": null,
+        "label": 0
+    },
+    "702": {
+        "text_a": "promised",
+        "text_b": null,
+        "label": 1
+    },
+    "703": {
+        "text_a": "under the pretext",
+        "text_b": null,
+        "label": 0
+    },
+    "704": {
+        "text_a": "ceased to be a soldier of the fatherland",
+        "text_b": null,
+        "label": 0
+    },
+    "705": {
+        "text_a": "without belt - tightening there is no money , and without money there is no belt - tightening",
+        "text_b": null,
+        "label": 0
+    },
+    "706": {
+        "text_a": "aimed at crushing",
+        "text_b": null,
+        "label": 0
+    },
+    "707": {
+        "text_a": "axis of evil",
+        "text_b": null,
+        "label": 0
+    },
+    "708": {
+        "text_a": "would incur its displeasure",
+        "text_b": null,
+        "label": 0
+    },
+    "709": {
+        "text_a": "so there'll be more and more poor people",
+        "text_b": null,
+        "label": 0
+    },
+    "710": {
+        "text_a": "when will a coup not be called a coup",
+        "text_b": null,
+        "label": 0
+    },
+    "711": {
+        "text_a": "nations that are so dictatorial",
+        "text_b": null,
+        "label": 0
+    },
+    "712": {
+        "text_a": "not useful",
+        "text_b": null,
+        "label": 0
+    },
+    "713": {
+        "text_a": "stunned and wondering",
+        "text_b": null,
+        "label": 0
+    },
+    "714": {
+        "text_a": "ushered in an era of stability",
+        "text_b": null,
+        "label": 1
+    },
+    "715": {
+        "text_a": "rigged and unacceptable",
+        "text_b": null,
+        "label": 0
+    },
+    "716": {
+        "text_a": "the evil empire",
+        "text_b": null,
+        "label": 0
+    },
+    "717": {
+        "text_a": "catastrophe",
+        "text_b": null,
+        "label": 0
+    },
+    "718": {
+        "text_a": "has all along maintained a close relationship",
+        "text_b": null,
+        "label": 1
+    },
+    "719": {
+        "text_a": "wanted",
+        "text_b": null,
+        "label": 1
+    },
+    "720": {
+        "text_a": "indeed a good day",
+        "text_b": null,
+        "label": 1
+    },
+    "721": {
+        "text_a": "support",
+        "text_b": null,
+        "label": 1
+    },
+    "722": {
+        "text_a": "had expressed doubt",
+        "text_b": null,
+        "label": 0
+    },
+    "723": {
+        "text_a": "betrayal",
+        "text_b": null,
+        "label": 0
+    },
+    "724": {
+        "text_a": "as have",
+        "text_b": null,
+        "label": 0
+    },
+    "725": {
+        "text_a": "dressings down",
+        "text_b": null,
+        "label": 0
+    },
+    "726": {
+        "text_a": "provoke",
+        "text_b": null,
+        "label": 0
+    },
+    "727": {
+        "text_a": "abuses",
+        "text_b": null,
+        "label": 0
+    },
+    "728": {
+        "text_a": "telling",
+        "text_b": null,
+        "label": 0
+    },
+    "729": {
+        "text_a": "campaign",
+        "text_b": null,
+        "label": 0
+    },
+    "730": {
+        "text_a": "neither good nor bad , just incorrigible",
+        "text_b": null,
+        "label": 0
+    },
+    "731": {
+        "text_a": "enhance",
+        "text_b": null,
+        "label": 1
+    },
+    "732": {
+        "text_a": "entirely run counter to the aspirations",
+        "text_b": null,
+        "label": 0
+    },
+    "733": {
+        "text_a": "aggression and terrorism",
+        "text_b": null,
+        "label": 0
+    },
+    "734": {
+        "text_a": "likened",
+        "text_b": null,
+        "label": 0
+    },
+    "735": {
+        "text_a": "the uproar",
+        "text_b": null,
+        "label": 0
+    },
+    "736": {
+        "text_a": "the evil that must be destroyed",
+        "text_b": null,
+        "label": 0
+    },
+    "737": {
+        "text_a": "has called into question",
+        "text_b": null,
+        "label": 0
+    },
+    "738": {
+        "text_a": "the point",
+        "text_b": null,
+        "label": 0
+    },
+    "739": {
+        "text_a": "because he is not part of the non - wasp humanity",
+        "text_b": null,
+        "label": 0
+    },
+    "740": {
+        "text_a": "call",
+        "text_b": null,
+        "label": 0
+    },
+    "741": {
+        "text_a": "frightening",
+        "text_b": null,
+        "label": 0
+    },
+    "742": {
+        "text_a": "could trigger a reaction",
+        "text_b": null,
+        "label": 0
+    },
+    "743": {
+        "text_a": "provoke",
+        "text_b": null,
+        "label": 0
+    },
+    "744": {
+        "text_a": "more seriously than anyone would have thought",
+        "text_b": null,
+        "label": 0
+    },
+    "745": {
+        "text_a": "observed ironically",
+        "text_b": null,
+        "label": 0
+    },
+    "746": {
+        "text_a": "dismisses",
+        "text_b": null,
+        "label": 0
+    },
+    "747": {
+        "text_a": "want",
+        "text_b": null,
+        "label": 1
+    },
+    "748": {
+        "text_a": "lost their lives",
+        "text_b": null,
+        "label": 0
+    },
+    "749": {
+        "text_a": "to accept",
+        "text_b": null,
+        "label": 1
+    },
+    "750": {
+        "text_a": "has taken a negative stand",
+        "text_b": null,
+        "label": 0
+    },
+    "751": {
+        "text_a": "a strong turnout favored him",
+        "text_b": null,
+        "label": 1
+    },
+    "752": {
+        "text_a": "find no grounds for any support",
+        "text_b": null,
+        "label": 0
+    },
+    "753": {
+        "text_a": "refused",
+        "text_b": null,
+        "label": 0
+    },
+    "754": {
+        "text_a": "denied",
+        "text_b": null,
+        "label": 0
+    },
+    "755": {
+        "text_a": "can not be effective",
+        "text_b": null,
+        "label": 0
+    },
+    "756": {
+        "text_a": "sensational",
+        "text_b": null,
+        "label": 0
+    },
+    "757": {
+        "text_a": "a view",
+        "text_b": null,
+        "label": 1
+    },
+    "758": {
+        "text_a": "had likely deteriorated beyond repair",
+        "text_b": null,
+        "label": 0
+    },
+    "759": {
+        "text_a": "would interfere",
+        "text_b": null,
+        "label": 0
+    },
+    "760": {
+        "text_a": "is advocating",
+        "text_b": null,
+        "label": 0
+    },
+    "761": {
+        "text_a": "roundly condemned",
+        "text_b": null,
+        "label": 0
+    },
+    "762": {
+        "text_a": "further expressed alarm",
+        "text_b": null,
+        "label": 0
+    },
+    "763": {
+        "text_a": "looking nervously over",
+        "text_b": null,
+        "label": 0
+    },
+    "764": {
+        "text_a": "is but a signboard used by the united states",
+        "text_b": null,
+        "label": 0
+    },
+    "765": {
+        "text_a": "once again",
+        "text_b": null,
+        "label": 0
+    },
+    "766": {
+        "text_a": "whether the global ban on torture can be abused on that account is another matter",
+        "text_b": null,
+        "label": 0
+    },
+    "767": {
+        "text_a": "anti - us sentiment",
+        "text_b": null,
+        "label": 0
+    },
+    "768": {
+        "text_a": "declined to endorse",
+        "text_b": null,
+        "label": 0
+    },
+    "769": {
+        "text_a": "spurned",
+        "text_b": null,
+        "label": 0
+    },
+    "770": {
+        "text_a": "does not wish",
+        "text_b": null,
+        "label": 0
+    },
+    "771": {
+        "text_a": "inexcusable mistake",
+        "text_b": null,
+        "label": 0
+    },
+    "772": {
+        "text_a": "humanitarian spirit",
+        "text_b": null,
+        "label": 1
+    },
+    "773": {
+        "text_a": "equal footing",
+        "text_b": null,
+        "label": 1
+    },
+    "774": {
+        "text_a": "restoring legitimacy",
+        "text_b": null,
+        "label": 1
+    },
+    "775": {
+        "text_a": "thugs",
+        "text_b": null,
+        "label": 0
+    },
+    "776": {
+        "text_a": "to be okayed",
+        "text_b": null,
+        "label": 1
+    },
+    "777": {
+        "text_a": "that was horrible",
+        "text_b": null,
+        "label": 0
+    },
+    "778": {
+        "text_a": "is accusing",
+        "text_b": null,
+        "label": 0
+    },
+    "779": {
+        "text_a": "economic contagion",
+        "text_b": null,
+        "label": 0
+    },
+    "780": {
+        "text_a": "to contest",
+        "text_b": null,
+        "label": 0
+    },
+    "781": {
+        "text_a": "as full citizens in the same sate",
+        "text_b": null,
+        "label": 1
+    },
+    "782": {
+        "text_a": "courageous stand",
+        "text_b": null,
+        "label": 1
+    },
+    "783": {
+        "text_a": "credibility evaporated",
+        "text_b": null,
+        "label": 0
+    },
+    "784": {
+        "text_a": "disturbingly long - term",
+        "text_b": null,
+        "label": 0
+    },
+    "785": {
+        "text_a": "`world judge of human rights'",
+        "text_b": null,
+        "label": 0
+    },
+    "786": {
+        "text_a": "are more interested",
+        "text_b": null,
+        "label": 1
+    },
+    "787": {
+        "text_a": "everything",
+        "text_b": null,
+        "label": 0
+    },
+    "788": {
+        "text_a": "disappointment",
+        "text_b": null,
+        "label": 0
+    },
+    "789": {
+        "text_a": "not only harming",
+        "text_b": null,
+        "label": 0
+    },
+    "790": {
+        "text_a": "our friends and allies",
+        "text_b": null,
+        "label": 1
+    },
+    "791": {
+        "text_a": "cronies",
+        "text_b": null,
+        "label": 0
+    },
+    "792": {
+        "text_a": "respecting",
+        "text_b": null,
+        "label": 1
+    },
+    "793": {
+        "text_a": "confident",
+        "text_b": null,
+        "label": 1
+    },
+    "794": {
+        "text_a": "confused",
+        "text_b": null,
+        "label": 0
+    },
+    "795": {
+        "text_a": "complicity",
+        "text_b": null,
+        "label": 0
+    },
+    "796": {
+        "text_a": "feared",
+        "text_b": null,
+        "label": 0
+    },
+    "797": {
+        "text_a": "cautioned",
+        "text_b": null,
+        "label": 0
+    },
+    "798": {
+        "text_a": "so - called",
+        "text_b": null,
+        "label": 0
+    },
+    "799": {
+        "text_a": "dangerous individuals",
+        "text_b": null,
+        "label": 0
+    },
+    "800": {
+        "text_a": "positive",
+        "text_b": null,
+        "label": 1
+    },
+    "801": {
+        "text_a": "simply to rubber stamp",
+        "text_b": null,
+        "label": 0
+    },
+    "802": {
+        "text_a": "pinned the tag",
+        "text_b": null,
+        "label": 0
+    },
+    "803": {
+        "text_a": "only a hireling",
+        "text_b": null,
+        "label": 0
+    },
+    "804": {
+        "text_a": "was tasty",
+        "text_b": null,
+        "label": 1
+    },
+    "805": {
+        "text_a": "one palestinian population center after another",
+        "text_b": null,
+        "label": 0
+    },
+    "806": {
+        "text_a": "has expressed the wish",
+        "text_b": null,
+        "label": 1
+    },
+    "807": {
+        "text_a": "decided to punish",
+        "text_b": null,
+        "label": 0
+    },
+    "808": {
+        "text_a": "was not transparent",
+        "text_b": null,
+        "label": 0
+    },
+    "809": {
+        "text_a": "no master of eloquence",
+        "text_b": null,
+        "label": 0
+    },
+    "810": {
+        "text_a": "have a conviction",
+        "text_b": null,
+        "label": 0
+    },
+    "811": {
+        "text_a": "is pessimistic",
+        "text_b": null,
+        "label": 0
+    },
+    "812": {
+        "text_a": "manner that is reasonably consistent",
+        "text_b": null,
+        "label": 1
+    },
+    "813": {
+        "text_a": "willing",
+        "text_b": null,
+        "label": 1
+    },
+    "814": {
+        "text_a": "have not given up their wish",
+        "text_b": null,
+        "label": 1
+    },
+    "815": {
+        "text_a": "impede the functioning of a multi - party democracy",
+        "text_b": null,
+        "label": 0
+    },
+    "816": {
+        "text_a": "hoping",
+        "text_b": null,
+        "label": 1
+    },
+    "817": {
+        "text_a": "concern",
+        "text_b": null,
+        "label": 0
+    },
+    "818": {
+        "text_a": "positively assessed",
+        "text_b": null,
+        "label": 1
+    },
+    "819": {
+        "text_a": "convince the americans that the bush administration has not only succeeded in removing a regime of religious madmen",
+        "text_b": null,
+        "label": 0
+    },
+    "820": {
+        "text_a": "proved ineffective",
+        "text_b": null,
+        "label": 0
+    },
+    "821": {
+        "text_a": "no tears for tobin , but some for al - qaeda",
+        "text_b": null,
+        "label": 0
+    },
+    "822": {
+        "text_a": "urged",
+        "text_b": null,
+        "label": 1
+    },
+    "823": {
+        "text_a": "this has not been the case",
+        "text_b": null,
+        "label": 0
+    },
+    "824": {
+        "text_a": "plan",
+        "text_b": null,
+        "label": 1
+    },
+    "825": {
+        "text_a": "appreciation",
+        "text_b": null,
+        "label": 1
+    },
+    "826": {
+        "text_a": "try to destroy",
+        "text_b": null,
+        "label": 0
+    },
+    "827": {
+        "text_a": "axis of evil",
+        "text_b": null,
+        "label": 0
+    },
+    "828": {
+        "text_a": "fears",
+        "text_b": null,
+        "label": 0
+    },
+    "829": {
+        "text_a": "military morale is at stake",
+        "text_b": null,
+        "label": 0
+    },
+    "830": {
+        "text_a": "grief and anguish",
+        "text_b": null,
+        "label": 0
+    },
+    "831": {
+        "text_a": "labeled",
+        "text_b": null,
+        "label": 0
+    },
+    "832": {
+        "text_a": "dismissed",
+        "text_b": null,
+        "label": 0
+    },
+    "833": {
+        "text_a": "neocolonial attempt",
+        "text_b": null,
+        "label": 0
+    },
+    "834": {
+        "text_a": "tremendous loss",
+        "text_b": null,
+        "label": 0
+    },
+    "835": {
+        "text_a": "most unfortunate part",
+        "text_b": null,
+        "label": 0
+    },
+    "836": {
+        "text_a": "maintain",
+        "text_b": null,
+        "label": 1
+    },
+    "837": {
+        "text_a": "trying to move the goal posts",
+        "text_b": null,
+        "label": 0
+    },
+    "838": {
+        "text_a": "if not better",
+        "text_b": null,
+        "label": 1
+    },
+    "839": {
+        "text_a": "grow out of control",
+        "text_b": null,
+        "label": 0
+    },
+    "840": {
+        "text_a": "dump",
+        "text_b": null,
+        "label": 0
+    },
+    "841": {
+        "text_a": "is insisting",
+        "text_b": null,
+        "label": 0
+    },
+    "842": {
+        "text_a": "strategic competitor",
+        "text_b": null,
+        "label": 0
+    },
+    "843": {
+        "text_a": "staunch supporter",
+        "text_b": null,
+        "label": 1
+    },
+    "844": {
+        "text_a": "accidental slight",
+        "text_b": null,
+        "label": 0
+    },
+    "845": {
+        "text_a": "was hopeful",
+        "text_b": null,
+        "label": 1
+    },
+    "846": {
+        "text_a": "axis of evil remark",
+        "text_b": null,
+        "label": 0
+    },
+    "847": {
+        "text_a": "these fighters in rags , haggard , who were the survivors of weeks of bombing",
+        "text_b": null,
+        "label": 0
+    },
+    "848": {
+        "text_a": "provocation",
+        "text_b": null,
+        "label": 0
+    },
+    "849": {
+        "text_a": "from pulling out of",
+        "text_b": null,
+        "label": 0
+    },
+    "850": {
+        "text_a": "criticism",
+        "text_b": null,
+        "label": 0
+    },
+    "851": {
+        "text_a": "resorting to verbal quibbling",
+        "text_b": null,
+        "label": 0
+    },
+    "852": {
+        "text_a": "reject",
+        "text_b": null,
+        "label": 0
+    },
+    "853": {
+        "text_a": "staggering",
+        "text_b": null,
+        "label": 0
+    },
+    "854": {
+        "text_a": "strugglers",
+        "text_b": null,
+        "label": 1
+    },
+    "855": {
+        "text_a": "compromising",
+        "text_b": null,
+        "label": 1
+    },
+    "856": {
+        "text_a": "though mr . tobin has finally mastered the diapering process , his baby who is 15 years old is not amused",
+        "text_b": null,
+        "label": 0
+    },
+    "857": {
+        "text_a": "took to the streets",
+        "text_b": null,
+        "label": 0
+    },
+    "858": {
+        "text_a": "can not solve",
+        "text_b": null,
+        "label": 0
+    },
+    "859": {
+        "text_a": "hatred",
+        "text_b": null,
+        "label": 0
+    },
+    "860": {
+        "text_a": "threatening",
+        "text_b": null,
+        "label": 0
+    }
+}
