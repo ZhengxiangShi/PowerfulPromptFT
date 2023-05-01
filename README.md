@@ -7,9 +7,7 @@ This repository provides the code for the paper titled **[Don’t Stop Pretraini
 * Implementation of self-training methods based on hard prompt-based fine-tuning approaches.
 
 <p align="center">
-  <!--<a href="https://github.com/fairseq/fairseq"><img src="docs/pnlp_logo512.png" width="150"></a>-->
-  <a href="https://github.com/ZhengxiangShi/PretrainOrSelfTraining"><img src="asset/overview.png" width="1000"></a>
-  <!--<a href="https://princeton-nlp.github.io/"><img src="docs/fairseq_logo.png" width="150"></a>-->
+  <img src="asset/overview.png" width="1000"></a>
   <br />
 </p>
 
@@ -241,18 +239,4 @@ for ALGORITHM in adamatch flexmatch fixmatch dash; do
         done;
     done;
 done
-```
-
-
-## Bugs or questions?
-If you have any questions regarding the code or the paper, please feel free to reach out to Zhengxiang at `zhengxiang.shi.19@ucl.ac.uk`.  If you experience any difficulties while using the code or need to report a bug, feel free to open an issue. We kindly ask that you provide detailed information about the problem to help us provide effective support.
-
-## Citation
-```
-@inproceedings{Shi2022,
-title = {Don’t Stop Pretraining? Make Prompt-based Fine-tuning Powerful Learner},
-author = {Shi, Zhengxaing and Lipani, Aldo},
-url = {},
-year = {2023},
-}
 ```
