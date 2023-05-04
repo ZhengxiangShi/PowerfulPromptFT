@@ -1,5 +1,5 @@
 # Don’t Stop Pretraining? Make Prompt-based Fine-tuning Powerful Learner
-This repository provides the code for the paper titled **[Don’t Stop Pretraining? Make Prompt-based Fine-tuning Powerful Learner]()**, making the integration of our code contributions into other projects more accessible.
+This repository provides the code for the paper titled **[Don’t Stop Pretraining? Make Prompt-based Fine-tuning Powerful Learner](https://arxiv.org/pdf/2305.01711.pdf)**, making the integration of our code contributions into other projects more accessible.
 
 ## Our Contributions
 * Implementation of the Prompt-based Continued Pre-training (PCP) method, accompanied by easy-to-understand instructions.
@@ -239,4 +239,18 @@ for ALGORITHM in adamatch flexmatch fixmatch dash; do
         done;
     done;
 done
+```
+
+## Bugs or questions?
+If you have any questions regarding the code or the paper, please feel free to reach out to Zhengxiang at `zhengxiang.shi.19@ucl.ac.uk`.  If you experience any difficulties while using the code or need to report a bug, feel free to open an issue. We kindly ask that you provide detailed information about the problem to help us provide effective support.
+
+## Citation
+```
+@article{shi2023dont,
+title = {Don’t Stop Pretraining? Make Prompt-based Fine-tuning Powerful Learner},
+author = {Shi, Zhengxaing and Lipani, Aldo},
+journal = {arXiv preprint arXiv:2305.01711},
+url = {https://arxiv.org/abs/2305.01711},
+year = {2023},
+}
 ```
