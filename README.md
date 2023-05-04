@@ -254,3 +254,10 @@ url = {https://arxiv.org/abs/2305.01711},
 year = {2023},
 }
 ```
+
+## Acknowledgement
+This repository is built upon the following repositories:
+- [Huggingface Transformers](https://github.com/huggingface/transformers)
+- [PET/iPET](https://github.com/timoschick/pet)
+- [LM-BFF](https://github.com/princeton-nlp/LM-BFF)
+- [pretraining-or-self-training](https://github.com/amzn/pretraining-or-self-training)
