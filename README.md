@@ -17,16 +17,16 @@ This repository provides the code for the paper titled **[Don’t Stop Pretraini
   - [Quick Links](#quick-links)
   - [Overview](#overview)
   - [1. Requirements and Installation](#1-requirements-and-installation)
-  - [2. Prepare the data](#2-prepare-the-data)
+  - [2. Prepare the datasets](#2-prepare-the-datasets)
   - [3. Prompt-based Fine-tuning](#3-prompt-based-fine-tuning)
-  - [4. Prompt-based Continued Pre-training (PCP)](#4-prompt-based-continued-pre-training)
+  - [4. Prompt-based Continued Pre-training (PCP)](#4-prompt-based-continued-pre-training-pcp)
   - [5. Other Baseline Approaches](#5-other-baseline-approaches)
   - [Bugs or questions?](#bugs-or-questions)
   - [Citation](#citation)
 
 
 ## Overview
-You can reproduce the experiments of our paper [Don’t Stop Pretraining? Make Prompt-based Fine-tuning Powerful Learner]().
+You can reproduce the experiments of our paper [Don’t Stop Pretraining? Make Prompt-based Fine-tuning Powerful Learner](https://arxiv.org/pdf/2305.01711.pdf).
 
 ## 1. Requirements and Installation
 To run the prompt-based or cls-based fine-tuning, you need to install the following packages.
@@ -124,7 +124,7 @@ for lr in 1e-5 2e-5 5e-5; do
 done
 ```
 
-## 4. Prompt-based Continual Pre-training (PCP)
+## 4. Prompt-based Continued Pre-training (PCP)
 After obtaining pseudo labels for the training data of a specific task, you can execute the following command to perform prompt-based continued pre-training (PCP). Use the argument `--use_fixed_dart`  for soft prompt-based continued pre-training; otherwise, hard prompt-based continued pre-training will be used.  In hard prompt-based continued pre-training, we utilize human-written templates and labeled words as prompts. For soft prompt-based continued pre-training, we use the same templates for single sentence tasks and sentence pair tasks, respectively. For more details on the differences between soft and hard prompt-based continued pre-training, please refer to the paper. For example, to carry out prompt-based continued pre-training (soft) on single sentence tasks, run the command below.
 ```bash
 MODEL_TYPE=dart
