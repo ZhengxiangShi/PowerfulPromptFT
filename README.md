@@ -1,6 +1,13 @@
 # Don’t Stop Pretraining? Make Prompt-based Fine-tuning Powerful Learner
 This repository provides the code for the paper titled **[Don’t Stop Pretraining? Make Prompt-based Fine-tuning Powerful Learner](https://arxiv.org/pdf/2305.01711.pdf)**, making the integration of our code contributions into other projects more accessible.
 
+<div align="center">
+
+  [![arxiv-link](https://img.shields.io/badge/Paper-PDF-red?style=flat&logo=arXiv&logoColor=red)](http://arxiv.org/abs/2302.04855)
+  [![made-with-pytorch](https://img.shields.io/badge/Made%20with-PyTorch-brightgreen)](https://pytorch.org/)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+</div>
+
 ## Our Contributions
 * Implementation of the Prompt-based Continued Pre-training (PCP) method, accompanied by easy-to-understand instructions.
 * Implementation of the state-of-the-art prompt-based fine-tuning approaches, including hard \[[2](https://aclanthology.org/2021.eacl-main.20/), [3](https://arxiv.org/abs/2012.15723)\] and soft \[[3](https://arxiv.org/abs/2108.13161)\] variants.
@@ -27,6 +34,10 @@ This repository provides the code for the paper titled **[Don’t Stop Pretraini
 
 ## Overview
 You can reproduce the experiments of our paper [Don’t Stop Pretraining? Make Prompt-based Fine-tuning Powerful Learner](https://arxiv.org/pdf/2305.01711.pdf).
+
+> **Abstract**
+>
+> Language models (LMs) trained on vast quantities of unlabelled data have greatly advanced the field of natural language processing (NLP). In this study, we re-visit the widely accepted notion in NLP that continued pre-training LMs on task-related texts improves the performance of fine-tuning (FT) in downstream tasks. Through experiments on eight single-sentence tasks and eight sentence-pair tasks in both semi-supervised and fully-supervised settings, we find that conventional continued pre-training does not consistently provide benefits and can even be detrimental for sentence-pair tasks or when prompt-based FT is used. To tackle these issues, we propose Prompt-based Continued Pre-training (PCP), which combines the idea of instruction tuning with conventional continued pre-training. Our approach aims to improve the performance of prompt-based FT by presenting both task-related texts and prompt templates to LMs through unsupervised pre-training objectives before fine-tuning for the target task. Our empirical evaluations on 21 benchmarks demonstrate that the PCP consistently improves the performance of state-of-the-art prompt-based FT approaches (up to 20.1% absolute) in both semi-supervised and fully-supervised settings, even with only hundreds of unlabelled examples. Additionally,prompt-based FT with the PCP outperforms state-of-the- art semi-supervised approaches with greater simplicity, eliminating the need for an iterative process and extra data augmentation. Our further analysis explores the performance lower bound of the PCP and reveals that the advantages of PCP persist across different sizes of models and datasets. 
 
 ## 1. Requirements and Installation
 To run the prompt-based or cls-based fine-tuning, you need to install the following packages.
