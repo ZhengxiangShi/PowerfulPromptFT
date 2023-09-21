@@ -1,5 +1,5 @@
 # Don’t Stop Pretraining? Make Prompt-based Fine-tuning Powerful Learner
-This repository provides the code for the paper titled **[Don’t Stop Pretraining? Make Prompt-based Fine-tuning Powerful Learner](https://arxiv.org/pdf/2305.01711.pdf)**, making the integration of our code contributions into other projects more accessible.
+This repository provides the code for the NeurIPS 2023 (Main Track) paper titled **[Don’t Stop Pretraining? Make Prompt-based Fine-tuning Powerful Learner](https://arxiv.org/pdf/2305.01711.pdf)**, making the integration of our code contributions into other projects more accessible.
 
 <div align="center">
 
