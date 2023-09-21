@@ -259,7 +259,7 @@ If you have any questions regarding the code or the paper, please feel free to r
 ```
 @inproceedings{shi2023dont,
 title={Don{\textquoteright}t Stop Pretraining? Make Prompt-based Fine-tuning Powerful Learner},
-author={Anonymous},
+author={Shi, Zhengxaing and Lipani, Aldo},
 booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
 year={2023},
 url={https://openreview.net/forum?id=s7xWeJQACI}
