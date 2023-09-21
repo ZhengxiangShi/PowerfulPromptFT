@@ -257,12 +257,12 @@ If you have any questions regarding the code or the paper, please feel free to r
 
 ## Citation
 ```
-@article{shi2023dont,
-title = {Don’t Stop Pretraining? Make Prompt-based Fine-tuning Powerful Learner},
-author = {Shi, Zhengxaing and Lipani, Aldo},
-journal = {arXiv preprint arXiv:2305.01711},
-url = {https://arxiv.org/abs/2305.01711},
-year = {2023},
+@inproceedings{shi2023dont,
+title={Don{\textquoteright}t Stop Pretraining? Make Prompt-based Fine-tuning Powerful Learner},
+author={Anonymous},
+booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+year={2023},
+url={https://openreview.net/forum?id=s7xWeJQACI}
 }
 ```
 
