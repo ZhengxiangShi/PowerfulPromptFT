@@ -2,12 +2,15 @@
 This repository provides the code for the NeurIPS 2023 (Main Track) paper titled **[Don’t Stop Pretraining? Make Prompt-based Fine-tuning Powerful Learner](https://arxiv.org/pdf/2305.01711.pdf)**, making the integration of our code contributions into other projects more accessible.
 
 <div align="center">
+
   [![arxiv-link](https://img.shields.io/badge/Paper-PDF-red?style=flat&logo=arXiv&logoColor=red)](https://arxiv.org/pdf/2305.01711.pdf)
   [![made-with-pytorch](https://img.shields.io/badge/Made%20with-PyTorch-brightgreen)](https://pytorch.org/)
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 </div>
 
-Check out our new work **[DePT: Decomposed Prompt Tuning for Parameter-Efficient Fine-tuning](https://arxiv.org/pdf/2309.05173v1.pdf)** and the code is available at **[DePT](https://github.com/zhengxiangshi/dept)**.
+- **<span style="color:red;">[News - 23 Sep 2023]</span>** Check out our new work **[DePT: Decomposed Prompt Tuning for Parameter-Efficient Fine-tuning](https://arxiv.org/pdf/2309.05173v1.pdf)** and the code is available at **[DePT](https://github.com/zhengxiangshi/dept)**.
+- **<span style="color:red;">[News - 21 Sep 2023]</span>** Our paper has been accepted by **[NeurIPS 2023](https://nips.cc/Conferences/2023)** at Main Track.
+
 
 ## Our Contributions
 * Implementation of the Prompt-based Continued Pre-training (PCP) method, accompanied by easy-to-understand instructions.
@@ -31,6 +34,7 @@ Check out our new work **[DePT: Decomposed Prompt Tuning for Parameter-Efficient
   - [5. Other Baseline Approaches](#5-other-baseline-approaches)
   - [Bugs or questions?](#bugs-or-questions)
   - [Citation](#citation)
+  - [Acknowledgement](#acknowledgement)
 
 
 ## Overview
