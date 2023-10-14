@@ -187,7 +187,7 @@ for MODEL_TYPE in prompting dart; do
     done;
 done
 ```
-Remember to adjust the `--per_device_train_batch_size` based on the available GPU memory. When the number of training examples is small, consider using a lower learning rate. After obtaining the pre-trained model, set the `CHECKPOINT` in [3. Prompt-based Fine-tuning](#3-prompt-based-fine-tuning) to the `--output_dir` used in this step. This allows you to perform prompt-based fine-tuning on the task of interest using our PCP checkpoint, which typically outperforms the conventional continued pre-training checkpoint \[[4](https://aclanthology.org/2020.acl-main.740/)\], epsoecially for sentence pair tasks. 
+Remember to adjust the `--per_device_train_batch_size` based on the available GPU memory. When the number of training examples is small, consider using a lower learning rate. After obtaining the pre-trained model, set the `CHECKPOINT` in [3. Prompt-based Fine-tuning](#3-prompt-based-fine-tuning) to the `--output_dir` used in this step. This allows you to perform prompt-based fine-tuning on the task of interest using our PCP checkpoint, which typically outperforms the conventional continued pre-training checkpoint \[[4](https://aclanthology.org/2020.acl-main.740/)\], especially for sentence pair tasks. 
 
 ## 5. Other Baseline Approaches
 Our repository also includes the implementation of conventional CLS-based fine-tuning, which can be executed using the command below.
