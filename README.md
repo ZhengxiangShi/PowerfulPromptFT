@@ -145,7 +145,7 @@ After obtaining pseudo labels for the training data of a specific task, you can 
 ```bash
 MODEL_TYPE=dart
 for TASK_NAME in subj sst-5 trec CoLA mr SST-2 cr mpqa; do
-    python src/convert_to_pretrain_semi_prompt_format.py \
+    python src/convert_to_pretrain_pcp.py \
         --use_fixed_dart \
         --task_name ${TASK_NAME} \
         --train_file output_path/predict_results_train.json \
