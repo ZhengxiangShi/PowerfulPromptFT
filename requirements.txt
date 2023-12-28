@@ -24,7 +24,7 @@ numpy
 oauthlib==3.2.1
 olefile==0.46
 packaging==21.3
-Pillow==9.1.1
+Pillow==10.0.1
 progress==1.6
 protobuf==3.19.5
 pyasn1==0.4.8
