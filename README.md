@@ -8,8 +8,8 @@ This repository provides the code for the NeurIPS 2023 (Main Track) paper titled
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 </div>
 
-- **<span style="color:red;">[:loudspeaker: News - 23 Sep 2023]</span>** Check out our new work **[DePT: Decomposed Prompt Tuning for Parameter-Efficient Fine-tuning](https://arxiv.org/pdf/2309.05173v1.pdf)** and the code at **[DePT](https://github.com/zhengxiangshi/dept)**.
-- **<span style="color:red;">[:loudspeaker: News - 21 Sep 2023]</span>** Our paper has been accepted by **[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70285)** at Main Track.
+- **<span style="color:red;">[News - 23 Sep 2023]</span>** Check out our new work **[DePT: Decomposed Prompt Tuning for Parameter-Efficient Fine-tuning](https://arxiv.org/pdf/2309.05173v1.pdf)** and the code at **[DePT](https://github.com/zhengxiangshi/dept)**.
+- **<span style="color:red;">[News - 21 Sep 2023]</span>** Our paper has been accepted by **[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70285)** at Main Track.
 
 
 ## Our Contributions
